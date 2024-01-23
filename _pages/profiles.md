@@ -15,6 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Exactunm A323</p>
+
 #  - align: left
 #    image: prof_pic.jpg
 #    content: about_jeremias.md

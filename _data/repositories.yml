@@ -4,9 +4,9 @@ github_users:
 
 github_repos:
   - jezberg/loandra
- # - twbs/bootstrap
- # - jekyll/jekyll
- # - jquery/jquery
- # - FortAwesome/Font-Awesome
- # - jpswalsh/academicons
- # - mathjax/MathJax
+  # - twbs/bootstrap
+  # - jekyll/jekyll
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - jpswalsh/academicons
+  # - mathjax/MathJax

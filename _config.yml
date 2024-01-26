@@ -122,8 +122,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Jeremias # blog_name will be displayed in your blog page
-blog_description: Research & Life
+blog_name: Research & Life # blog_name will be displayed in your blog page
+blog_description: a.k.a everything I feel like writing about
 permalink: /blog/:year/:title/
 
 # Pagination

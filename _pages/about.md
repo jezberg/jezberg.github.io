@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Photo by Juuso Koivisto</p>
     <p>Exactum A323</p>
     <p>Helsinki, Finland</p>
 

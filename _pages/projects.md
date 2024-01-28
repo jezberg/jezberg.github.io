@@ -1,7 +1,7 @@
 ---
 layout: page
-title: side projects
-permalink: /projects/
+title: hobbies
+permalink: /hobbies/
 description: a.k.a. stuff not related to research or teaching that I like to do.
 nav: true
 nav_order: 10

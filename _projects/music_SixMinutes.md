@@ -2,7 +2,7 @@
 layout: page
 title: Music & Six Minutes
 description: the best dry rock band of Helsinki
-img: sixminutes1.jpg
+img: assets/img/sixminutes1.jpg
 importance: 3
 category: fun
 ---

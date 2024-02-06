@@ -4,7 +4,7 @@ title: Game Jamming
 description: at FGJ and GGJ
 img: assets/img/ggj1.jpg
 importance: 3
-category: fun
+category: free time
 ---
 
 The goal with a "game jam" is similar to that of a (musical) jam session, to come together and make a videogame, or a non-digital (analog) game like a board game or card game. Participants rapidly prototype game designs and inject new ideas to help inspire and grow the global game industry. Every game jam has a theme that is shared by all participants.

@@ -10,7 +10,7 @@ nav_order: 4
 ## Current Position
 
 <div class="profile float-right">
-            {% include figure.liquid path="assets/img/RCF.svg" class ="img-fluid z-depth-1 rounded" %}
+            {% include figure.liquid path="assets/img/RCF.png" class ="img-fluid z-depth-1 rounded" %}
             {% include figure.liquid path="assets/img/HY-logo.png" class="img-fluid rounded z-depth-1"  %}
 </div>
 

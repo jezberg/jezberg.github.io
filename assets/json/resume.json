@@ -69,15 +69,6 @@
     }
   ],
   "certificates": [],
-  "publications": [
-    {
-      "name": "Certified Core-Guided MaxSAT Solving",
-      "publisher": "Springer",
-      "releaseDate": "2023",
-      "url": "https://www.cs.helsinki.fi/u/jezberg/papers/CADE2023_Berg_Bogaerts_Nordstrom_Oertel_Vandesande.pdf",
-      "summary": "Presents a state-of-the-art core-guided MaxSAT solver that is able to produce mathematical proofs of optimality of the solutions it computes"
-    }
-  ],
   "skills": [
     {
       "name": "Computer Science",
@@ -116,21 +107,26 @@
       "keywords": ["Lead Climbing", "Outdoor Climbing"]
     },
     {
-      "name": "Climbing",
+      "name": "Frisbeegolf",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Lead Climbing", "Outdoor Climbing"]
+      "keywords": []
     }
   ],
   "references": [
     {
       "name": "Professor Peter Stuckey",
       "icon": "fa-solid fa-laptop",
-      "reference": ""
+      "reference": "Peter.Stuckeymonashedu"
     },
     {
       "name": "Professor Jakob Nordström",
       "icon": "fa-solid fa-laptop",
-      "reference": ""
+      "reference": "jn at-sign di dot ku dot dk or"
+    },
+    {
+      "name": "Professor Matti Järvisalo",
+      "icon": "fa-solid fa-laptop",
+      "reference": "matti.jarvisalo[AT]helsinki.fi"
     }
   ],
   "projects": [

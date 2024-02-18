@@ -10,8 +10,12 @@ children:
   - title: divider
   - title: acknowledgements
     permalink: /acknowledgements/
+  - title: divider
   - title: publications
     permalink: /publications/
+  - title: divider
+  - title: presentations
+    permalink: /presentations/
   - title: divider
   - title: software
     permalink: /software/

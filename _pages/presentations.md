@@ -8,8 +8,8 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-<div class="publications">
+<div class="presentations">
 
-{% bibliography --file presentations %}
+{% bibliography --file presentations --template presentations %}
 
 </div>

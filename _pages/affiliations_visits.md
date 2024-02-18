@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /affiliations/
-title: Affiliations & Research Visits
-description: My past and previous affiliations and international research visits.
+title: affiliations & research visits
+description: my past and previous affiliations and international research visits.
 nav: false
 nav_order: 4
 ---

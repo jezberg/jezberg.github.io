@@ -5,9 +5,11 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: Affiliations & Research Visits
+  - title: affiliations & research Visits
     permalink: /affiliations
   - title: divider
+  - title: acknowledgements
+    permalink: /acknowledgements/
   - title: publications
     permalink: /publications/
   - title: divider

@@ -1,60 +1,54 @@
 ---
-layout: software
+layout: page
 permalink: /software/
 title: software
-description: research software I have contributed to
+description: research software I have contributed to. If you use them in oyur work please cite the given references.
 nav: false
 nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: loandra-structure.png
-    content: about_loandra.md
-    image_circular: false # crops the image to make it circular
-    more_info:
-  - align: left
-    image: maxpre.png
-    content: about_maxpre.md
-    image_circular: false # crops the image to make it circular
-    more_info:
-  - align: right
-    image: maxhs-abs.png
-    content: about_maxhs.md
-    image_circular: false # crops the image to make it circular
-    more_info:
-  - align: left
-    image: pbo-ihs.jpg
-    content: about_pbo-ihs.md
-    image_circular: false # crops the image to make it circular
-    more_info:
-  - align: right
-    image: inc_hs.png
-    content: about_imaxhs.md
-    image_circular: false # crops the image to make it circular
-    more_info:
-  - align: left
-    image: multi.jpg
-    content: about_scuttle.md
-    image_circular: false # crops the image to make it circular
-    more_info:
-  - align: right
-    image: cgss.jpg
-    content: about_cgss.md
-    image_circular: false # crops the image to make it circular
-    more_info:
-  - align: left
-    image: pace2017-award.jpg
-    content: about_triangulator.md
-    image_circular: false # crops the image to make it circular
-    more_info:
-  - align: left
-    image:
-    content: about_software_refs.md
-    image_circular: false # crops the image to make it circular
-    more_info:
-#      <p>555 your office number</p>
-#      <p>123 your address street</p>
-#      <p>Your City, State 12345</p>
 ---
+
+{% assign sorted_software = site.software | sort: "importance" %}
+
+<div class="post">
+  <article>
+      {% for software in sorted_software %}
+        <hr>
+        <div class="software float-{% if software.align == 'left' %}left{% else %}right{% endif %}">
+          {% if software.img %}
+            {% assign software_image_path = software.img | prepend: 'assets/img/software_profiles/' %}
+            {% assign software_image_class = 'img-fluid z-depth-1 rounded' %}
+            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
+            {% include figure.liquid path = software_image_path class = software_image_class sizes = sizes alt = software.img %}
+          {% endif %}
+          <div class="links">
+            {% if software.code %}
+            <a href="{{ software.code }}" class="btn btn-m z-depth-0" role="button">code</a> 
+            {% endif %}
+            {% if software.cite %}
+             <a class="abstract btn btn-sm z-depth-0" role="button">Cite</a>
+            {% endif %}
+          </div>
+          
+
+
+          {% if software.cite %}
+            <!-- Hidden abstract block -->
+            <div class="abstract hidden">
+              <p>{% reference  software.cite  %}</p>
+            </div>
+          {% endif %}
+        </div>
+
+        <div class="clearfix">
+          {% if software.title and software.description %}
+            <h3>{{ software.title }} - {{ software.description }}</h3>
+          {% endif %}
+          {% if software.content %}
+            {{ software.content }}
+          {% endif %}
+        </div>
+      {% endfor %}
+      <hr>
+
+  </article>
+</div>

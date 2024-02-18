@@ -1,6 +1,0 @@
-## CGSS
-
-[CGSS](https://bitbucket.org/coreo-group/cgss2/) is an effective implementation of the OLL algorithm {% cite DBLP:conf/iclp/AndresKMS12 --file others %} for MaxSAT. The first version of CGSS was built on top of the [RC2](https://pysathq.github.io/docs/html/api/examples/rc2.html) {% cite DBLP:journals/jsat/IgnatievMM19 --file others %} MaxSAT solver in Python. The current--and much more effective---version is a reimplementation from scratch in C++. Most notably, CGSS extends RC2 with the so called structure sharing (SS) technique that results in more compact encodings of the constraints required for
-optimization. More details can be found in {% cite DBLP:conf/cp/IhalainenBJ21 %}.
-
-CGSS is developed by my PhD student Hannes Ihalainen who wrote [his M.Sc. thesis](https://helda.helsinki.fi/items/f77e9a26-87b6-43ae-8e86-3de2af8417be) on it. The implementation is available in open source on [bitbucket](https://bitbucket.org/coreo-group/cgss2/). The first (python) version of CGSS was further extended with _proof logging_ in {% cite  DBLP:conf/cade/BergBNOV23 %}. The source code of the certifying version can be found on [gitlab](https://gitlab.com/MIAOresearch/software/certified-cgss)

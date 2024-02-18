@@ -30,7 +30,6 @@ nav_order: 7
             {% endif %}
           </div>
 
-
           {% if software.cite %}
             <!-- Hidden abstract block -->
             <div class="abstract hidden">

@@ -7,7 +7,6 @@ importance: 3
 category: pseudo-Boolean optimization
 code: https://bitbucket.org/coreo-group/pbo-ihs-solver/
 cite: DBLP:conf/sat/0003BJ22
-align: left
 ---
 
 [PBO-IHS](https://bitbucket.org/coreo-group/pbo-ihs-solver/) is an implementation

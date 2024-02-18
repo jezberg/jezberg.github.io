@@ -5,7 +5,6 @@ description: multi-objective MaxSAT
 img: multi.jpg
 importance: 4
 category: multi-objective MaxSAT
-align: right
 code: https://bitbucket.org/coreo-group/bioptsat/
 cite: DBLP:conf/sat/JabsBNJ22
 ---

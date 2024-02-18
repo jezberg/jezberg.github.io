@@ -3,9 +3,8 @@ layout: page
 title: CGSS
 description: a core-guided MaxSAT solver
 img: cgss.jpg
-importance: 5
+importance: 6
 category: MaxSAT
-align: left
 code: https://bitbucket.org/coreo-group/cgss2/
 cite: DBLP:conf/cp/IhalainenBJ21
 ---

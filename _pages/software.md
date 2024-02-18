@@ -12,8 +12,9 @@ nav_order: 7
 <div class="post">
   <article>
       {% for software in sorted_software %}
+      {% assign remainder = software.importance | modulo: 2 %}
         <hr>
-        <div class="software float-{% if software.align == 'left' %}left{% else %}right{% endif %}">
+        <div class="software float-{% if remainder == 1 %}left{% else %}right{% endif %}">
           {% if software.img %}
             {% assign software_image_path = software.img | prepend: 'assets/img/software_profiles/' %}
             {% assign software_image_class = 'img-fluid z-depth-1 rounded' %}

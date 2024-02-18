@@ -5,7 +5,6 @@ description: preprocessing for maximum satisfiability
 img: maxpre.png
 importance: 2
 category: MaxSAT
-align: right
 code: https://bitbucket.org/coreo-group/maxpre2/src/master/
 cite: DBLP:conf/sat/KorhonenBSJ17
 ---

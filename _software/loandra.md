@@ -5,7 +5,6 @@ description: core-boosted linear search
 img: loandra-structure.png
 importance: 0
 category: MaxSAT
-align: right
 code: https://github.com/jezberg/loandra
 cite: DBLP:conf/cpaior/BergDS19
 ---

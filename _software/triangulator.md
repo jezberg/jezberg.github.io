@@ -3,9 +3,8 @@ layout: page
 title: Triangulator
 description: potential maximal cliques for the computation of graph parameters
 img: pace2017-award.jpg
-importance: 8
+importance: 7
 category: graphs
-align: right
 code: https://github.com/Laakeri/Triangulator
 cite: DBLP:journals/jea/KorhonenBJ19
 ---

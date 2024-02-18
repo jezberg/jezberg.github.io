@@ -3,9 +3,8 @@ layout: page
 title: IMaxHS
 description: incremental optimization with hitting sets
 img: inc_hs.jpg
-importance: 4
+importance: 5
 category: MaxSAT
-align: right
 code: https://bitbucket.org/coreo-group/incremental-maxhs/
 cite: DBLP:conf/sat/NiskanenBJ22
 ---

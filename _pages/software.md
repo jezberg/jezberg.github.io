@@ -28,7 +28,6 @@ nav_order: 7
              <a class="abstract btn btn-sm z-depth-0" role="button">Cite</a>
             {% endif %}
           </div>
-          
 
 
           {% if software.cite %}

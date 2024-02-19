@@ -22,8 +22,7 @@ nav_order: 7
           {% endif %}
           <div class="links">
             {% if software.code %}
-            {% capture software_repository_path %}"{{ software.code }}"{% endcapture} %}
-             <a href={{ software_repository_path }} class="btn btn-m z-depth-0" role="button">code</a>
+                <a href="{{software.code}}" class="btn btn-m z-depth-0" role="button">code</a>
             {% endif %}
             {% if software.cite %}
              <a class="abstract btn btn-sm z-depth-0" role="button">Cite</a>

@@ -21,9 +21,6 @@ nav_order: 7
             {% include figure.liquid path = software_image_path class = software_image_class sizes = sizes alt = software.img %}
           {% endif %}
           <div class="links">
-            {% if software.code %}
-            <a href="{{ software.code }}" class="btn btn-m z-depth-0" role="button">code</a> 
-            {% endif %}
             {% if software.cite %}
              <a class="abstract btn btn-sm z-depth-0" role="button">Cite</a>
             {% endif %}

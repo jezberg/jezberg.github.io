@@ -5,7 +5,7 @@ description: in Implicit Hitting Set-based MaxSAT
 img: maxhs-abs.jpg
 importance: 1
 category: MaxSAT
-code: http://www.maxhs.org/downloads.html
+code: https://github.com/fbacchus/MaxHS
 cite: DBLP:conf/sat/BergBP20
 ---
 

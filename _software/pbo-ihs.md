@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PBO-IHS
-description: pseudo-Boolean optimization via implicit hitting sets
+description: Pseudo-Boolean Optimization via Implicit Hitting Sets
 img: pbo-ihs.jpg
 importance: 3
 category: pseudo-Boolean optimization

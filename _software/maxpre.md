@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MaxPre
-description: preprocessing for maximum satisfiability
+description: Preprocessing for Maximum Satisfiability
 img: maxpre.png
 importance: 2
 category: MaxSAT

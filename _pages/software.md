@@ -2,7 +2,7 @@
 layout: page
 permalink: /software/
 title: software
-description: research software I have contributed to. If you use them in oyur work please cite the given references.
+description: research software I have contributed to. If you use them in your work please cite the given references.
 nav: false
 nav_order: 7
 ---
@@ -11,18 +11,19 @@ nav_order: 7
   <article>
       {% assign sorted_software = site.software | sort: "importance" %}
       {% for software in sorted_software %}
-      {% assign remainder = software.importance | modulo: 2 %}
+      {% assign remainder = forloop.index | modulo: 2 %}
         <hr>
         <div class="software float-{% if remainder == 1 %}left{% else %}right{% endif %}">
           {% if software.img %}
             {% assign software_image_path = software.img | prepend: 'assets/img/software_profiles/' %}
             {% assign software_image_class = 'img-fluid z-depth-1 rounded' %}
             {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
-            {% include figure.liquid path = software_image_path class = software_image_class sizes = sizes alt = software.img %}
+            {% include figure.liquid path = software_image_path class = software_image_class sizes = sizes alt = software.img zoomable=true %}
           {% endif %}
           <div class="links">
             {% if software.code %}
-            <a href="{{ software.code }}" class="btn btn-m z-depth-0" role="button">code</a> 
+            {% capture software_repository_path %}"{{ software.code }}"{% endcapture} %}
+             <a href={{ software_repository_path }} class="btn btn-m z-depth-0" role="button">code</a>
             {% endif %}
             {% if software.cite %}
              <a class="abstract btn btn-sm z-depth-0" role="button">Cite</a>

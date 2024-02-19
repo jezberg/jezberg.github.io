@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IMaxHS
-description: incremental optimization with hitting sets
+description: Incremental Optimization with Hitting Sets
 img: inc_hs.jpg
 importance: 5
 category: MaxSAT

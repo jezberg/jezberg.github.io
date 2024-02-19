@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Abstract Cores
-description: for implicit hitting sets
+description: in Implicit Hitting Set-based MaxSAT
 img: maxhs-abs.jpg
 importance: 1
 category: MaxSAT

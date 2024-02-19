@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Triangulator
-description: potential maximal cliques for the computation of graph parameters
+description: Potential Maximal Cliques for Graph Parameters
 img: pace2017-award.jpg
 importance: 7
 category: graphs

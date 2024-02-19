@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CGSS
-description: a core-guided MaxSAT solver
+description: A Core-Guided MaxSAT solver
 img: cgss.jpg
 importance: 6
 category: MaxSAT

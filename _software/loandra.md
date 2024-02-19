@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Loandra
-description: core-boosted linear search
+description: Core-Boosted Linear Search
 img: loandra-structure.png
 importance: 0
 category: MaxSAT

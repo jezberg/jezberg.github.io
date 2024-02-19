@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scuttle & BiOptSAT
-description: multi-objective MaxSAT
+description: Multi-Objective MaxSAT
 img: multi.jpg
 importance: 4
 category: multi-objective MaxSAT

@@ -5,7 +5,7 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: teaching
+  - title: courses and material
     permalink: /teaching/
   - title: divider
   - title: supervision

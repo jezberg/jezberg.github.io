@@ -7,7 +7,7 @@ nav: false
 nav_order: 6
 ---
 
-## Formal training in Teaching
+## Formal Training in Teaching
 
 Currently I have completed 20 ECTS credits in university pedagogy at the University of Helsinki, which means the following courses:
 

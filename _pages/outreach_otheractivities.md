@@ -18,16 +18,17 @@ nav_order: 4
 I am currently a board member of Young Academy of Finland in charge of science outreach. As part of that position I am involved with
 developing and maintaining the [meet a researcher](https://nuortentiedeakatemia.fi/en/meet-a-researcher/) initiative that coordinates research visits
 to schools. The service is very popular, last year we organized 600 visits and reached over 10 000 students.
-In early 2024 I participated in the [EDUCA]({% post_url 2024-01-26-educa %}) convention with the aim of increasing awareness of the service.
+In early 2024 I participated in the [EDUCA]({% post_url 2024-01-26-educa %}) conference with the aim of increasing awareness of the service.
 
 ## UniJunior
 
 Since 2020 I have been a member of the steering group of [UniJunior](https://www.helsinki.fi/sv/vetenskapsfostran/barn-unga-och-familjer/unijunior)
 a cross-disciplinary project led by Professor Gunilla Holm that studies science workshops for children ages 9-12 as learning environments.
 
-We organize about 10 workshops annually for about 20 children of ages 9-12. Each workshops is led by a researcher in some specific subject
-and aims at fostering an interest in science in the children. I myself have organized 4 different workshops. More details can be found in the following blog
-posts.
+We organize about 10 workshops annually for about 20 children. Each workshop is led by a researcher in some specific subject
+and aims to encourage an interest in science in the children. Personally I have organized 4 different workshops:
+
+{% include unijunior_list.liquid %}
 
 # Positions of Trust Based on Scientific Merit
 

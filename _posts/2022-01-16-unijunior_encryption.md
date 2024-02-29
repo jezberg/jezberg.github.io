@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Encryption for Kids
-date: 2021-01-16 17:39:00
+date: 2023-01-16 17:39:00
 description: Uni Junior Workshop
 categories: current-events
 tag: unijunior

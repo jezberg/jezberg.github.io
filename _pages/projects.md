@@ -4,7 +4,7 @@ title: hobbies
 permalink: /hobbies/
 description: a.k.a. stuff not related to research or teaching that I like to do.
 nav: true
-nav_order: 10
+nav_order: 5
 horizontal: false
 ---
 

@@ -23,6 +23,4 @@ children:
   - title: software
     permalink: /software/
   - title: divider
-  - title: cv
-    permalink: /cv/
 ---

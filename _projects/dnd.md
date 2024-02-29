@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dungeons and Dragons
+title: Dungeons & Dragons
 description: learning how to teach
 img: assets/img/dnd/die.jpg
 importance: 2
@@ -42,7 +42,7 @@ A local gardener whose crop was destroyed by a dragon. He joined forces with the
 In "Rhyme of the Frostmaiden" I played Meen'Alith. She was a half-orc Barbarian who was discovering herself in the world and had some trouble
 understanding that not all end justify the means. Unfortunately, she lost her life in battle.
 
-## My Capaign
+## My Campaign
 
 In addition to playing in a few campaigns I also enjoy DMing. I am currently DMing Curse of Strahd for a group of 5 adventurers:
 

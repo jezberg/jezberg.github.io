@@ -42,13 +42,15 @@ A local gardener whose crop was destroyed by a dragon. He joined forces with the
 In "Rhyme of the Frostmaiden" I played Meen'Alith. She was a half-orc Barbarian who was discovering herself in the world and had some trouble
 understanding that not all end justify the means. Unfortunately, she lost her life in battle.
 
-## My Campaign
+## My Campaign - Curse of Strahd
 
 In addition to playing in a few campaigns I also enjoy DMing. I am currently DMing Curse of Strahd for a group of 5 adventurers:
 
-- Darren, the human fighter who got tricked into Barovia with his squire Geoff. Darren has wrestled with maintaining his dignity and values as a knight in the despotic land of Barovia.
-- Xuza and Marillion, a drow and asimar who seemed to have been called into Barovia not by its ruler Strahd von Zarchovich, but perhaps by something more sinister.
-- Cinnari, the Kalashtar druid who grew up as the daughter of Strahd, but has since realised that he might not be that nice of a guy.
-- Bartholomew, the Vistani businessman whose livelihood was disturbed by Strahd cutting off the VIstani people from the outside world.
+- **Darren**, the human fighter who got tricked into Barovia with his squire Geoff. Darren has wrestled with maintaining his dignity and values as a knight in the despotic land of Barovia.
+- **Xuza** and **Marillion**, a drow and asimar who appear to have been called into Barovia not by its ruler Strahd von Zarchovich, but perhaps by something more sinister.
+- **Cinnari**, the Kalashtar druid who grew up as the daughter of Strahd, but has since realised that he might not be that nice of a guy.
+- **Bartholomew**, the Vistani businessman whose livelihood was disturbed by Strahd cutting off the VIstani people from the outside world.
 
-Their travel logs will be migrated onto this page slowly.
+### Travel Logs of the Lost Travellers
+
+{% include travel_logs.liquid %}

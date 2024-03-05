@@ -175,7 +175,12 @@ collections:
     permalink: /projects/:path/
   software:
     output: true
+    scrollable: true
     permalink: /software/:path/
+  travellogs:
+    output: true
+    permalink: /travellogs/:path/
+    limit: 3
 
 announcements:
   enabled: true

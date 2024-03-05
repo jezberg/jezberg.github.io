@@ -15,13 +15,13 @@
           <tr>
             <th scope="row" style="width: 20%">Day {{ day_number }}</th>
             <td>
-                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
             </td>
             {% if item.summary %}
-            <td>
-               <p>{{ item.summary }}</p>
-            </td>
-           {% endif %}
+              <td>
+                <p>{{ item.summary }}</p>
+              </td>
+            {% endif %}
           </tr>
           {% assign day_number = day_number | minus: 1 %}
         {% endfor %}

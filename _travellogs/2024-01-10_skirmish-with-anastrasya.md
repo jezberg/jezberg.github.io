@@ -2,7 +2,7 @@
 layout: post
 title: Skirmish with Anastrasya
 date: 2024-01-10
-summary: The party fights Anastrasya in the Church in order to save Ireena
+summary: The party fights Anastrasya in the church in order to save Ireena
 giscus_comments: true
 ---
 

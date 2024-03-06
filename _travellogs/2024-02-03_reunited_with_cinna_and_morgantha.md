@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Reunited with Cinna and the Morgantha
+title: Reunited with Cinna and Morgantha
 date: 2024-02-03
-summary: The party reunites at the western gates of Barovia, continues travel toward Vallaki, and defeats Morganthas latest plan.
+summary: The party reunites at the western gates of Barovia, continues travel toward Vallaki, and thwarts Morganthas latest plan.
 giscus_comments: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Skirmish at the Windmill
 date: 2024-01-04
-summary: Some of the Party change genders before attacking hags at a windmill
+summary: After some gender changes the party attacks hags at a windmill
 giscus_comments: true
 ---
 

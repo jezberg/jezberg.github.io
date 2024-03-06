@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eat your Pie, Sleep Well.
+title: Too Much Pie will Kill You
 date: 2024-01-02
 summary: The party spends another day in Barovia, eating pies and sleeping well
 giscus_comments: true

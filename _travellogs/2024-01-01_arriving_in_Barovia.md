@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are we There Yet?
+title: Are We There Yet?
 date: 2024-01-01
 summary: The party arrives in Barovia.
 giscus_comments: true

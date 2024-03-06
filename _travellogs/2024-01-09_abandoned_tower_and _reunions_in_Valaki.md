@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abandonded Tower and Reunions in Valaki
+title: Abandonded Tower and Reunions in Vallaki
 date: 2024-01-09
 summary: The party leaves the Vineyard, travels to the "abandoned" tower, and reunites with "friends" at Vallaki.
 giscus_comments: true

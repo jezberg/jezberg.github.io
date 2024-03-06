@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Too Much Gardening will Kill You
+title: Too Much Gardening Will Kill You
 date: 2024-01-05
-summary: The Party Exchanges some Gardening Services for a Greater Restoration
+summary: The Party exchanges some gardening services for a greater restoration
 giscus_comments: true
 ---
 

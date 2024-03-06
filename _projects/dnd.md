@@ -33,7 +33,7 @@ I have played in a number of one-shots (short, one evening adventures) and two l
     </div>
 </div>
 <div class="caption">
-    My half orc Barbarian, Meen'Alith who unfortunately fell in Ten Towns during our Rhime of the Frostmaiden campaign. Both images made by my lovely spouse <a href ="https://www.instagram.com/classheikki/?hl=en">Chride</a>. 
+    My half orc Barbarian, Meen'Alith who unfortunately fell in Ten Towns during our Rhime of the Frostmaiden campaign. Image made by my lovely spouse <a href ="https://www.instagram.com/classheikki/?hl=en">Chride</a>. 
 </div>
 
 In "Rime of the Frostmaiden" I played Meen'Alith. She was a half-orc Barbarian who was discovering herself in the world and had some trouble
@@ -52,6 +52,6 @@ The journey of the Lost Travellers began with a strange dream in which most of t
 of children to clear out their monster-infested house that had its basement in the attic. A few days after that, the party members who did not know each other prior to the events
 were independently called into Barovia. These are the tales of their adventures, starting from when they first reuinited at the gates of Barovia.
 
-### The Lost Travelling Logs
+### The Lost Travel Logs
 
 {% include travel_logs.liquid %}

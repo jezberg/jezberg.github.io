@@ -3,14 +3,13 @@ layout: page
 title: Dungeons & Dragons
 description: learning how to teach
 img: assets/img/dnd/die.jpg
-importance: 2
+importance: 20
 category: fun
 giscus_comments: true
 ---
 
-Like so many others I enjoy playing Dungeons and Dragons with my frieds. For me the social aspect, i.e. spending time with my friends
-is the most important part. However, I also firmly believe that playing DND has taught me numerous useful things about communication
-and teaching that I make use of often in my work as well.
+Like so many others I enjoy playing Dungeons and Dragons with my frieds. For me the social aspect, i.e. spending time with my friends, of the gameis the most important part. However, I also firmly believe that playing DND has taught me numerous useful things about communication
+and teaching and honed skill I make use of often in my work as well.
 
 ## My Characters
 
@@ -23,12 +22,11 @@ and teaching that I make use of often in my work as well.
     </div>
 </div>
 <div class="caption">
-    On the left Jockus the halfing Bard whose carrots got frozen by the Dragon of Icepire Peak. On the right, his party. 
+    On the left Jockus, the halfing Bard whose carrots got frozen by the Dragon of Icepire Peak. On the right, his party. 
     Both images made by my lovely spouse  <a href ="https://www.instagram.com/classheikki/?hl=en">Chride</a>. 
 </div>
 
-I have played in a number of one-shots (short, one evening adventures) and two longer campaigns. In "Dragon of Icespire Peak" I played Jockus.
-A local gardener whose crop was destroyed by a dragon. He joined forces with the dragonborn Yixo, the half-elf Beleg and the bugbear Bandek and managed to kill the dragon, before returning to his quiet life in the town. Jockus was/is a relaxed--and a not too complex--character who liked making puns.
+I have played in a number of one-shots (short, one evening adventures) and two longer campaigns. In "Dragon of Icespire Peak" I played Jockus the halfling bard, a local gardener whose crop was destroyed by a dragon. He teamed up with the dragonborn Yixo, the half-elf Beleg and the bugbear Bandek and managed to kill the dragon, before returning to his quiet life in the town. Jockus was/is a relaxed--and a not too complex--character who liked making puns.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -36,19 +34,19 @@ A local gardener whose crop was destroyed by a dragon. He joined forces with the
     </div>
 </div>
 <div class="caption">
-    My half orc Barbarian, Meen'Alith who unfortunately fell in Ten Toens in out Rhyme of the Frostmaiden campaign. Both images made by my lovely spouse <a href ="https://www.instagram.com/classheikki/?hl=en">Chride</a>. 
+    My half orc Barbarian, Meen'Alith who unfortunately fell in Ten Towns during our Rhime of the Frostmaiden campaign. Both images made by my lovely spouse <a href ="https://www.instagram.com/classheikki/?hl=en">Chride</a>. 
 </div>
 
-In "Rhyme of the Frostmaiden" I played Meen'Alith. She was a half-orc Barbarian who was discovering herself in the world and had some trouble
-understanding that not all end justify the means. Unfortunately, she lost her life in battle.
+In "Rime of the Frostmaiden" I played Meen'Alith. She was a half-orc Barbarian who was discovering herself in the world and had some trouble
+understanding that not all end justify the means. Unfortunately, she lost her life in battle against followers of Aurill.
 
 ## My Campaign
 
 In addition to playing in a few campaigns I also enjoy DMing. I am currently DMing Curse of Strahd for a group of 5 adventurers:
 
 - Darren, the human fighter who got tricked into Barovia with his squire Geoff. Darren has wrestled with maintaining his dignity and values as a knight in the despotic land of Barovia.
-- Xuza and Marillion, a drow and asimar who seemed to have been called into Barovia not by its ruler Strahd von Zarchovich, but perhaps by something more sinister.
-- Cinnari, the Kalashtar druid who grew up as the daughter of Strahd, but has since realised that he might not be that nice of a guy.
-- Bartholomew, the Vistani businessman whose livelihood was disturbed by Strahd cutting off the VIstani people from the outside world.
+- Xuza and Marillion, a drow and ana asimar who seem to have been called into Barovia, not by its ruler Strahd von Zarchovich, but perhaps by something more sinister.
+- Cinnari, the Kalashtar druid who grew up as the daughter of Strahd, but has since realised that he might not be the best father-figure after all.
+- Bartholomew, the Vistani businessman whose livelihood was disturbed by Strahd cutting off the Vistani people from the outside world.
 
-Their travel logs will be migrated onto this page slowly.
+We have been running the campaign for Their travel logs will be migrated onto this page slowly.

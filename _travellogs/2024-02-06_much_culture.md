@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Too Much Culture Will Kill You
-date: 2024-03-02 17:39:00
+date: 2024-02-06
 summary: Some of the party team up with the local bard in order to kill an opera singer.
+giscus_comments: true
 ---
 
 Having tucked their tail between their legs the travellers had returned to the Blue Water Inn. The plans for the next day included a lot of planning and preparing---so naturally Cinna decided to continue her yoga routine. Darren decided to spend the day with Goeff, training. The other members of the group were tasked with getting health potions and other suplies for their next attempt at the wilderness.

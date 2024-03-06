@@ -5,13 +5,12 @@ description: learning how to teach
 img: assets/img/dnd/die.jpg
 importance: 20
 category: fun
-giscus_comments: true
 ---
 
 Like so many others I enjoy playing Dungeons and Dragons with my frieds. For me the social aspect, i.e. spending time with my friends, of the gameis the most important part. However, I also firmly believe that playing DND has taught me numerous useful things about communication
 and teaching and honed skill I make use of often in my work as well.
 
-## My Characters
+## My (major) Characters - Jockus and Meen'Alith
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -49,6 +48,10 @@ In addition to playing in a few campaigns I also enjoy DMing. I am currently DMi
 - **Cinnari**, the Kalashtar druid who grew up as the daughter of Strahd, but has since realised that he might not be that nice of a guy.
 - **Bartholomew**, the Vistani businessman whose livelihood was disturbed by Strahd cutting off the VIstani people from the outside world.
 
-### Travel Logs of the Lost Travellers
+The journey of the Lost Travellers began with a strange dream in which most of them seemed to get transported into a misty forrest and asked by a couple
+of children to clear out their monster-infested house that had its basement in the attic. A few days after that, the party members who did not know each other prior to the events
+were independently called into Barovia. These are the tales of their adventures, starting from when they first reuinited at the gates of Barovia.
+
+### The Lost Travelling Logs
 
 {% include travel_logs.liquid %}

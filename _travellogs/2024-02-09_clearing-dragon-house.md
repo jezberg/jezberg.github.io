@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Clearing Argynvostholt
-date: 2024-03-04 17:39:00
+date: 2024-02-09
 summary: The party spends their second day in Argynvostholt, kills Vladimir and meets Godfrey.
+giscus_comments: true
 ---
 
 The travellers woke up to another day at Argynvostholt, after a---relatively---uneventful night. During the night, there was an unsettling

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Regrouping at Tzer Pools
-date: 2024-02-24 17:39:00
+date: 2024-02-02
 summary: The party regroups at Tzer Pools in order to decide on their next steps.
+giscus_comments: true
 ---
 
 After escaping the dinner with Strahd and (temporarily) loosing Cinna, the lost travellers found themselves in

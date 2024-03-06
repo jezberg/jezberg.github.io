@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Rescurrecting an Old Friend
-date: 2024-02-28 17:39:00
+date: 2024-02-04
 summary: The party realise their standing in Vallaki is not great and stealthily rescurrect an ally.
+giscus_comments: true
 ---
 
 Raising up to a new day, at the blue water in, Darren realised that the bite he had gotten two night ago had not yet properly healed. However, seeing as it did not actively hurt him though he decided to push that matter aside and focus on more urgent matters.

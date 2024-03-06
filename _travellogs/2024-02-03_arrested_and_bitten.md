@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Arrested and Bitten
-date: 2024-02-26 17:39:00
-summary: The partys night gets interrupted by strangers in the forrest and guards of the town
+date: 2024-02-03
+summary: The partys night gets interrupted by strangers in the forrest and guards of the town.
+giscus_comments: true
 ---
 
 The early morning sleep of the lost travellers was cut short. First Urwin knocked on the door of Barts and Darrens room and asked him to meet someone north of town.

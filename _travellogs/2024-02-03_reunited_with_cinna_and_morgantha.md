@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Reunited with Cinna and the Morgantha
-date: 2024-02-25 17:39:00
+date: 2024-02-03
 summary: The party reunites at the western gates of Barovia, continues travel toward Vallaki, and defeats Morganthas latest plan.
+giscus_comments: true
 ---
 
 After spending a day recuperating at the Tser pool encampment. The lost travellers were ready to head back toward Vallaki.

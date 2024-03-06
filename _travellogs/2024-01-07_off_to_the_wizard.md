@@ -2,7 +2,7 @@
 layout: post
 title: Off to see the Wonderful Wizard of Wines
 date: 2024-01-07
-summary: The party leaves the Vineyard, stops a drudic ritual at Yester Hill, and returns to the Vineyard
+summary: The party clears the frog problem at the local Vineyard
 giscus_comments: true
 ---
 

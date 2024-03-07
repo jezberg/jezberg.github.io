@@ -16,10 +16,10 @@ Vladimir, clutching a journal, was totally overcome by rage, stating that he fel
 
 With the dust settling the party was put face to face with Sir Godfrey Gwilym who seemed disappointed, but not aggressive. He explained the situation in Argynvostholt in some more detail, how the knights were brought back by Vladimirs hatred, while others were brought back by Godfreys love. Unfortunately, in this case, the power of love is weaker than the power of hatred, the revenants yet to succumb to hate are risking doing so any day now.
 
-The party also learned that helping the peaceful revenants still residing in the house might help weakening the barrier around the mausoleum. The rest of the day was thus spent exploring the rest of the house. Learning more about the history of the order of the silver dragon from journals, easily dispatching the final threats in the mansion and Xuza learning some....disturbing....things about Strahd from his journal. 
-THe party also talked to the remaining sane revenants and promised to help them in achieving their goals. 
+The party also learned that helping the peaceful revenants still residing in the house might help weakening the barrier around the mausoleum. The rest of the day was thus spent exploring the rest of the house. Learning more about the history of the order of the silver dragon from journals, easily dispatching the final threats in the mansion and Xuza learning some....disturbing....things about Strahd from his journal.
+THe party also talked to the remaining sane revenants and promised to help them in achieving their goals.
 
-Before going to bed Cinna sent a few messages to Vallaki asking their allies to help with some information gathering. 
-During the night, sir Damian Hargrove asked the audience of the partys watch. He wanted to again plead his case for their help as he was "feeling something" on his mind. 
- 
+Before going to bed Cinna sent a few messages to Vallaki asking their allies to help with some information gathering.
+During the night, sir Damian Hargrove asked the audience of the partys watch. He wanted to again plead his case for their help as he was "feeling something" on his mind.
+
 Gee... I wonder how Goeff is doing?

@@ -27,5 +27,5 @@ Questions about these soon lead to aggression breaking out. During the combat Mo
 In the investigation that followed, the party recovered 3 potions and found a kidnapped boy. The boy introduced himself as Freek. Freek had been taken with his sister from the town of Barovia in exchange for pies. The party decided to help him get to the Orphanage in Vallaki. Finally, they also obtained the recipe for the pies that were sold by Morgantha and learned that fresh human bone dust was a central ingredient in them.
 
 The party decided to spend some time burning the interior of the windmill in order to make it more difficult for Morgantha to restart her business.
-As burning a widnmill takes time, night was soon approaching, so the party decided to camp out in windmill.
+As burning a windmill takes time, night was soon approaching, so the party decided to camp out in windmill.
 In the night--thanks to some clever Barting--the party managed to capture one of the ravens circling the area and learned that it is a wereraven working for a secret organization. The captured raven urged the party to ask more questions from Urvin Martikov in Vallaki.

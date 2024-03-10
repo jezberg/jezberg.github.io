@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Arriving at Argynvostholt
-date: 2024-03-03 17:39:00
-summary: The party travels to Argynvostholt in order to avoid too much inter-party conflict.
+date: 2024-02-09
+summary: The party travels to Argynvostholt to avoid too much inter-party conflict.
+giscus_comments: true
 ---
 
 After a day of "downtime" involving an intensive yoga session, training, or saving the sister of the local bard from turning into a vampire, the lost travellers were reunited at breakfast. Even if the group had previously talked about returning to the wilderness, this time especially Marillion and Xuza seemed reluctant to do so while Cinna seemed eager to talk to the mage about Strahd. In order to postpone the potential conflict brewing, the group decided to instead look into the task given to them by Urwin (and to some extent Madam Eva) many days ago. The group decided to head to "the house of the dragon" to look into rumours about "intel" on their enemy. They also decided to leave Sophaxis and Goeff into the care or father Lucian, to the slight dismay of Geoff.

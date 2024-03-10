@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Bringing a Knife to an Imp Fight
-date: 2024-02-28 17:39:00
+title: Imps Will Kill You
+date: 2024-02-06
 summary: The party ventures out to the wilderness, and get their asses handed to them by an imp.
+giscus_comments: true
 ---
 
 The travellers woke up with new excitement, especially Cinna had gotten a good nights rest thanks to a new yoga program. After breakfast and finishing the last preparations (including picking up Cinnas box), the group set out from Vallaki toward the wilderness north of it in the hopas of finding the mad mage of mount Baratok.

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jezberg.github.io/sitemap.xml
+Sitemap: https://jeremiasberg.com/sitemap.xml

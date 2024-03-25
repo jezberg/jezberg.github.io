@@ -42,13 +42,13 @@ upset that a supposed follower of Eilistraee would commit such acts. Getting inc
 revealed his true form as a deva, at which point the situation was heading toward all out aggression.
 
 Full out combat was however averted by Xuza suddenly disappearing, right before telling the others to flee.
-THe rest of the party exited under tense, but non-violent, circumstances and were joined a minute later by a transparent Xuza rushing out
+The rest of the party exited under tense, but non-violent, circumstances and were joined a minute later by a transparent Xuza rushing out
 from the room. Xuza told them that he had been transported back into the plane of the dead, where he had a quick chat with his "patron".
 After this, the party decided to leave the abbey, for now...
 
 On their way back toward Barts vistani camp, Cinna made a new attempt at visiting Illya. Cinna found the girl gravely ill
 and very hungry. Worried and lacking any clear answers she promised to come back the next day.
 
-The party spent the evening and night under the hospitality of Barts--or mostly Anas--camp. WIne was drunk (some more than others)
+The party spent the evening and night under the hospitality of Barts--or mostly Anas--camp. Wine was drunk (by some more than others)
 vague plans of rebellion were made (after some had passed out) before the party fell asleep under the stars and in the warmth
 of the Vistani campfire.

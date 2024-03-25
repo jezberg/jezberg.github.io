@@ -13,4 +13,4 @@ thumbnail: assets/img/toronto_visit.jpg
 
 Between March and May of 2019 I was a visiting researcher at the University of Toronto in Canada. My visit was hosted by Professor Fahiem Bacchus. The visit was very succesfull, resulting in a best paper award at the 2020 SAT conference.
 
-I wrote extensively about the visit on [my own blog](https://jeremiasberg.com/category/resedagbok/)
+I wrote extensively about the visit on [my old blog](https://jeremiasberg.wordpress.com/category/resedagbok/)

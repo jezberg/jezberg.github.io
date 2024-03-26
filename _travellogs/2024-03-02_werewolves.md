@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Werewolves will Kill You
+title: Werewolves Will Kill You
 date: 2024-03-02
 summary: The party goes to meet up with werewolves, only to find someone they did not expect
 giscus_comments: true

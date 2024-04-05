@@ -33,3 +33,20 @@ You can try Marco Polo online (in your browser) at [itch.io](https://classheikki
 </div>
 
 If you want to try laborinth for yourself, I reccomend the [newest version](https://github.com/HeavenlyAwe/laborinth) in which we've fixed the lag issues that can be observed in the video.
+
+## Older Games
+
+<div class="row">
+<iframe width="885" height="498" src="https://www.youtube.com/embed/7d4k2cBfpQc?si=vtzqMQHqnf-rkjYH" title="Stuck With Them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<div class="caption">
+In 2016 we made a game about the dangers of falling into habit. While the gameplay loop could have been more 
+developed, I think we managed to get a very nice atmosphere. This was also the first time for me working together with aninmation. 
+</div>
+
+<div class="row">
+<iframe width="885" height="498" src="https://www.youtube.com/embed/V01dvpOQE1Q" title="Stuck With Them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<div class="caption">
+In 2015, we made a social "horror" simulator called stuck with them about what happens if you get stuck in an elevator with a bunch of strangers. This was the first time for me working with preofessional sound designers. I was was very impresed. 
+</div>

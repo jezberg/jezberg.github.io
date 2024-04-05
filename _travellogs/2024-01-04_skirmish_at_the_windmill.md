@@ -2,7 +2,7 @@
 layout: post
 title: Skirmish at the Windmill
 date: 2024-01-04
-summary: With some genders changed, the party found the secret ingredient of the pies.
+summary: With some genders changed, the party discovers the secrets of the pies.
 giscus_comments: true
 ---
 

@@ -13,4 +13,4 @@ thumbnail: assets/img/melbourne_visit.jpg
 
 Between October and December of 2018 I was a visiting researcher at the University of Melbourne, Australia. My visit was hosted by Professor Peter Stuckey and Emir Demirovic. The visit led to a joint publication at the 2019 CPAIOR conference, which then grew into the maxsat solver [Loandra](/software/).
 
-I wrote extensively about the visit on [my own blog](https://jeremiasberg.com/category/resedagbok/)
+I wrote extensively about the visit on [my old blog](https://jeremiasberg.wordpress.com/category/resedagbok/)

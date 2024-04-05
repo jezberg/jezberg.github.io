@@ -8,7 +8,7 @@ category: fun
 ---
 
 Like so many others I enjoy playing Dungeons and Dragons with my friends. For me the social aspect, i.e. spending time with my friends, of the game is the most important part. However, I also firmly believe that playing DND has taught me numerous useful things about communication
-and teaching and honed skill I make use of often in my work as well.
+and teaching and honed skills I make use of often in my work as well.
 
 ## My (major) Characters - Jockus and Meen'Alith
 

@@ -1,5 +1,5 @@
-The repository of my private webage.
-The page is built on the [Al Folio](https://github.com/alshedivat/al-folio) theme.
+The repository of my private webage. 
+The page is built on the [Al Folio](https://github.com/alshedivat/al-folio) theme. 
 
 ## License
 

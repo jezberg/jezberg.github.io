@@ -2,7 +2,7 @@
 layout: post
 title: I was in a podcast on AI
 date: 2024-01-26 10:25:00
-description: for the Finnish nroadcasting company
+description: for the Finnish broadcasting company
 tags: outreach YLE AI
 categories: current-events
 ---

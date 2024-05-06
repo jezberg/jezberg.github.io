@@ -5,7 +5,7 @@ date: 2024-04-12 10:25:00
 description: via Meet a Researcher
 tags: research young-academy meet-a-researcher
 categories: current-events outreach
-thumbnail: assets/img/tallinn.jpg
+thumbnail: assets/img/korso1.jpg
 ---
 
 <div class="row mt-3">

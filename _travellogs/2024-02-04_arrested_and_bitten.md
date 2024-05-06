@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arrested by guards, bitten by werewolves
+title: Arrested by Guards, Bitten by Werewolves
 date: 2024-02-04
 summary: The party's night gets interrupted by strangers in the forrest and guards of the town.
 giscus_comments: true

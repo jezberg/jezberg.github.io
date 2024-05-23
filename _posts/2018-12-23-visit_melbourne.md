@@ -4,7 +4,7 @@ title: University of Melbourne
 date: 2018-12-23 17:39:00
 startdate: 2018-10-20 17:39:00
 enddate: 2018-12-15 17:00:00
-hosts: Peter Sryckey & Emir Demirovic
+hosts: Peter Stuckey & Emir Demirovic
 description: Extended Research Visit
 categories: research
 tag: research_visit

@@ -1,7 +1,7 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Berg, O Jeremias at 2024-01-18 20:09:10 +0200 
+%% Created for Berg, O Jeremias at 2024-05-23 15:20:29 +0200 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
@@ -10,34 +10,52 @@
 @string{aps = {American Physical Society,}}
 
 
+@inproceedings{to-appear-IJCARI2024,
+	author = {Hannes Ihalainen and Andy Oertel and Yong Kiam Tan and Jeremias Berg and Matti J\"arvisalo and Magnus O. Myreen and Jakob Nordstr\"om},
+	booktitle = {Proc~{IJCAR}},
+	date-added = {2024-05-23 15:16:46 +0200},
+	date-modified = {2024-05-23 15:20:16 +0200},
+	title = {Certified MaxSAT Preprocessing},
+	volume = {??? (to appear)},
+	year = {2024}}
+
+@inproceedings{to-appear-CPARIO2024,
+	author = {Christoph Jabs and Jeremias Berg and Matti J{\"{a}}rvisalo},
+	booktitle = {Proc~{CPAIOR}},
+	date-added = {2024-05-23 15:14:54 +0200},
+	date-modified = {2024-05-23 15:16:36 +0200},
+	title = {Core Boosting in SAT-Based Multi-Objective Optimization},
+	volume = {??? (to appear)},
+	year = {2024 }}
+
 @inproceedings{DBLP:conf/cp/JabsBIJ23,
+	abstract = {Building on Boolean satisfiability (SAT) and maximum satisfiability (MaxSAT) solving algorithms, several approaches to computing Pareto-optimal MaxSAT solutions under multiple objectives have been recently proposed. However, preprocessing in (Max)SAT-based multi-objective optimization remains so-far unexplored. Generalizing clause redundancy to the multi-objective setting, we establish provably-correct liftings of MaxSAT preprocessing techniques for multi-objective MaxSAT in terms of computing Pareto-optimal solutions. We also establish preservation of Pareto-MCSes - the multi-objective lifting of minimal correction sets tightly connected to optimal MaxSAT solutions - as a distinguishing feature between different redundancy notions in the multi-objective setting. Furthermore, we provide a first empirical evaluation of the effect of preprocessing on instance sizes and multi-objective MaxSAT solvers.},
 	author = {Christoph Jabs and Jeremias Berg and Hannes Ihalainen and Matti J{\"{a}}rvisalo},
 	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
 	biburl = {https://dblp.org/rec/conf/cp/JabsBIJ23.bib},
 	booktitle = {29th International Conference on Principles and Practice of Constraint Programming, {CP} 2023, August 27-31, 2023, Toronto, Canada},
+	code = {https://bitbucket.org/coreo-group/maxpre2/src/master/?search_id=2120ff9e-7d61-4ca2-b867-25512033749a},
 	date-added = {2024-01-18 20:06:33 +0200},
 	date-modified = {2024-01-18 20:06:33 +0200},
 	doi = {10.4230/LIPICS.CP.2023.18},
 	editor = {Roland H. C. Yap},
 	pages = {18:1--18:20},
+	pdf = {https://doi.org/10.4230/LIPIcs.CP.2023.18},
 	publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+	selected = {true},
 	series = {LIPIcs},
 	timestamp = {Sun, 12 Nov 2023 02:13:20 +0100},
 	title = {Preprocessing in SAT-Based Multi-Objective Combinatorial Optimization},
 	url = {https://doi.org/10.4230/LIPIcs.CP.2023.18},
 	volume = {280},
 	year = {2023},
-	bdsk-url-1 = {https://doi.org/10.4230/LIPIcs.CP.2023.18},
-	selected={true},
-	bibtex_show={true},
-	pdf={https://doi.org/10.4230/LIPIcs.CP.2023.18},
-	code={https://bitbucket.org/coreo-group/maxpre2/src/master/?search_id=2120ff9e-7d61-4ca2-b867-25512033749a},
-	abstract={Building on Boolean satisfiability (SAT) and maximum satisfiability (MaxSAT) solving algorithms, several approaches to computing Pareto-optimal MaxSAT solutions under multiple objectives have been recently proposed. However, preprocessing in (Max)SAT-based multi-objective optimization remains so-far unexplored. Generalizing clause redundancy to the multi-objective setting, we establish provably-correct liftings of MaxSAT preprocessing techniques for multi-objective MaxSAT in terms of computing Pareto-optimal solutions. We also establish preservation of Pareto-MCSes - the multi-objective lifting of minimal correction sets tightly connected to optimal MaxSAT solutions - as a distinguishing feature between different redundancy notions in the multi-objective setting. Furthermore, we provide a first empirical evaluation of the effect of preprocessing on instance sizes and multi-objective MaxSAT solvers.}
-	}
+	bdsk-url-1 = {https://doi.org/10.4230/LIPIcs.CP.2023.18}}
 
 @inproceedings{DBLP:conf/cade/BergBNOV23,
 	author = {Jeremias Berg and Bart Bogaerts and Jakob Nordstr{\"{o}}m and Andy Oertel and Dieter Vandesande},
 	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
 	biburl = {https://dblp.org/rec/conf/cade/BergBNOV23.bib},
 	booktitle = {Automated Deduction - {CADE} 29 - 29th International Conference on Automated Deduction, Rome, Italy, July 1-4, 2023, Proceedings},
 	date-added = {2024-01-18 20:06:24 +0200},
@@ -45,771 +63,605 @@
 	doi = {10.1007/978-3-031-38499-8\_1},
 	editor = {Brigitte Pientka and Cesare Tinelli},
 	pages = {1--22},
+	pdf = {https://link.springer.com/chapter/10.1007/978-3-031-38499-8_1},
 	publisher = {Springer},
+	selected = {true},
 	series = {Lecture Notes in Computer Science},
 	timestamp = {Thu, 14 Sep 2023 20:25:49 +0200},
 	title = {Certified Core-Guided MaxSAT Solving},
 	url = {https://doi.org/10.1007/978-3-031-38499-8\_1},
 	volume = {14132},
 	year = {2023},
-	bdsk-url-1 = {https://doi.org/10.1007/978-3-031-38499-8%5C_1},
-	bibtex_show={true},
-	pdf={https://link.springer.com/chapter/10.1007/978-3-031-38499-8_1},
-	selected={true}}
+	bdsk-url-1 = {https://doi.org/10.1007/978-3-031-38499-8%5C_1}}
 
 @inproceedings{DBLP:conf/ecai/IserBJ23,
-  author       = {Markus Iser and
-                  Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Kobi Gal and
-                  Ann Now{\'{e}} and
-                  Grzegorz J. Nalepa and
-                  Roy Fairstein and
-                  Roxana Radulescu},
-  title        = {Oracle-Based Local Search for Pseudo-Boolean Optimization},
-  booktitle    = {{ECAI} 2023 - 26th European Conference on Artificial Intelligence,
-                  September 30 - October 4, 2023, Krak{\'{o}}w, Poland - Including
-                  12th Conference on Prestigious Applications of Intelligent Systems
-                  {(PAIS} 2023)},
-  series       = {Frontiers in Artificial Intelligence and Applications},
-  volume       = {372},
-  pages        = {1124--1131},
-  publisher    = {{IOS} Press},
-  year         = {2023},
-  url          = {https://doi.org/10.3233/FAIA230387},
-  doi          = {10.3233/FAIA230387},
-  timestamp    = {Thu, 09 Nov 2023 21:13:02 +0100},
-  biburl       = {https://dblp.org/rec/conf/ecai/IserBJ23.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-  bibtex_show={true},
-  pdf={https://www.cs.helsinki.fi/u/jezberg/papers/ECAI2023_Iser_Berg_Jarvisalo.pdf},
-  code={https://bitbucket.org/coreo-group/orasls/}
-}
+	author = {Markus Iser and Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/ecai/IserBJ23.bib},
+	booktitle = {{ECAI} 2023 - 26th European Conference on Artificial Intelligence, September 30 - October 4, 2023, Krak{\'{o}}w, Poland - Including 12th Conference on Prestigious Applications of Intelligent Systems {(PAIS} 2023)},
+	code = {https://bitbucket.org/coreo-group/orasls/},
+	doi = {10.3233/FAIA230387},
+	editor = {Kobi Gal and Ann Now{\'{e}} and Grzegorz J. Nalepa and Roy Fairstein and Roxana Radulescu},
+	pages = {1124--1131},
+	pdf = {https://www.cs.helsinki.fi/u/jezberg/papers/ECAI2023_Iser_Berg_Jarvisalo.pdf},
+	publisher = {{IOS} Press},
+	series = {Frontiers in Artificial Intelligence and Applications},
+	timestamp = {Thu, 09 Nov 2023 21:13:02 +0100},
+	title = {Oracle-Based Local Search for Pseudo-Boolean Optimization},
+	url = {https://doi.org/10.3233/FAIA230387},
+	volume = {372},
+	year = {2023},
+	bdsk-url-1 = {https://doi.org/10.3233/FAIA230387}}
 
 @inproceedings{DBLP:conf/ijcai/IhalainenBJ23,
-  author       = {Hannes Ihalainen and
-                  Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  title        = {Unifying Core-Guided and Implicit Hitting Set Based Optimization},
-  booktitle    = {Proceedings of the Thirty-Second International Joint Conference on
-                  Artificial Intelligence, {IJCAI} 2023, 19th-25th August 2023, Macao,
-                  SAR, China},
-  pages        = {1935--1943},
-  publisher    = {ijcai.org},
-  year         = {2023},
-  url          = {https://doi.org/10.24963/ijcai.2023/215},
-  doi          = {10.24963/IJCAI.2023/215},
-  timestamp    = {Mon, 28 Aug 2023 17:23:07 +0200},
-  biburl       = {https://dblp.org/rec/conf/ijcai/IhalainenBJ23.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true},
-	pdf={https://www.ijcai.org/proceedings/2023/215}
-}
+	author = {Hannes Ihalainen and Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/ijcai/IhalainenBJ23.bib},
+	booktitle = {Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence, {IJCAI} 2023, 19th-25th August 2023, Macao, SAR, China},
+	doi = {10.24963/IJCAI.2023/215},
+	pages = {1935--1943},
+	pdf = {https://www.ijcai.org/proceedings/2023/215},
+	publisher = {ijcai.org},
+	timestamp = {Mon, 28 Aug 2023 17:23:07 +0200},
+	title = {Unifying Core-Guided and Implicit Hitting Set Based Optimization},
+	url = {https://doi.org/10.24963/ijcai.2023/215},
+	year = {2023},
+	bdsk-url-1 = {https://doi.org/10.24963/ijcai.2023/215}}
 
 @inproceedings{DBLP:conf/cade/IhalainenBJ22,
-  author       = {Hannes Ihalainen and
-                  Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Jasmin Blanchette and
-                  Laura Kov{\'{a}}cs and
-                  Dirk Pattinson},
-  title        = {Clause Redundancy and Preprocessing in Maximum Satisfiability},
-  booktitle    = {Automated Reasoning - 11th International Joint Conference, {IJCAR}
-                  2022, Haifa, Israel, August 8-10, 2022, Proceedings},
-  series       = {Lecture Notes in Computer Science},
-  volume       = {13385},
-  pages        = {75--94},
-  publisher    = {Springer},
-  year         = {2022},
-  url          = {https://doi.org/10.1007/978-3-031-10769-6\_6},
-  doi          = {10.1007/978-3-031-10769-6\_6},
-  timestamp    = {Mon, 24 Oct 2022 16:36:35 +0200},
-  biburl       = {https://dblp.org/rec/conf/cade/IhalainenBJ22.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true},
-	code={https://bitbucket.org/coreo-group/maxpre2/src/master/?search_id=2120ff9e-7d61-4ca2-b867-25512033749a},
-	pdf={https://link.springer.com/chapter/10.1007/978-3-031-10769-6_6}
-}
+	author = {Hannes Ihalainen and Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/cade/IhalainenBJ22.bib},
+	booktitle = {Automated Reasoning - 11th International Joint Conference, {IJCAR} 2022, Haifa, Israel, August 8-10, 2022, Proceedings},
+	code = {https://bitbucket.org/coreo-group/maxpre2/src/master/?search_id=2120ff9e-7d61-4ca2-b867-25512033749a},
+	doi = {10.1007/978-3-031-10769-6\_6},
+	editor = {Jasmin Blanchette and Laura Kov{\'{a}}cs and Dirk Pattinson},
+	pages = {75--94},
+	pdf = {https://link.springer.com/chapter/10.1007/978-3-031-10769-6_6},
+	publisher = {Springer},
+	series = {Lecture Notes in Computer Science},
+	timestamp = {Mon, 24 Oct 2022 16:36:35 +0200},
+	title = {Clause Redundancy and Preprocessing in Maximum Satisfiability},
+	url = {https://doi.org/10.1007/978-3-031-10769-6\_6},
+	volume = {13385},
+	year = {2022},
+	bdsk-url-1 = {https://doi.org/10.1007/978-3-031-10769-6%5C_6}}
 
 @inproceedings{DBLP:conf/lpnmr/NiskanenMBJ22,
-  author       = {Andreas Niskanen and
-                  Jere Mustonen and
-                  Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Georg Gottlob and
-                  Daniela Inclezan and
-                  Marco Maratea},
-  title        = {Computing Smallest MUSes of Quantified Boolean Formulas},
-  booktitle    = {Logic Programming and Nonmonotonic Reasoning - 16th International
-                  Conference, {LPNMR} 2022, Genova, Italy, September 5-9, 2022, Proceedings},
-  series       = {Lecture Notes in Computer Science},
-  volume       = {13416},
-  pages        = {301--314},
-  publisher    = {Springer},
-  year         = {2022},
-  url          = {https://doi.org/10.1007/978-3-031-15707-3\_23},
-  doi          = {10.1007/978-3-031-15707-3\_23},
-  timestamp    = {Wed, 07 Dec 2022 23:14:22 +0100},
-  biburl       = {https://dblp.org/rec/conf/lpnmr/NiskanenMBJ22.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true},
-	pdf={https://www.cs.helsinki.fi/u/jezberg/papers/LPNMR2022_Niskanen_Mustonen_Berg_Jarvisalo.pdf},
-	code={https://bitbucket.org/coreo-group/qbf-smuser/}
-
-}
+	author = {Andreas Niskanen and Jere Mustonen and Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/lpnmr/NiskanenMBJ22.bib},
+	booktitle = {Logic Programming and Nonmonotonic Reasoning - 16th International Conference, {LPNMR} 2022, Genova, Italy, September 5-9, 2022, Proceedings},
+	code = {https://bitbucket.org/coreo-group/qbf-smuser/},
+	doi = {10.1007/978-3-031-15707-3\_23},
+	editor = {Georg Gottlob and Daniela Inclezan and Marco Maratea},
+	pages = {301--314},
+	pdf = {https://www.cs.helsinki.fi/u/jezberg/papers/LPNMR2022_Niskanen_Mustonen_Berg_Jarvisalo.pdf},
+	publisher = {Springer},
+	series = {Lecture Notes in Computer Science},
+	timestamp = {Wed, 07 Dec 2022 23:14:22 +0100},
+	title = {Computing Smallest MUSes of Quantified Boolean Formulas},
+	url = {https://doi.org/10.1007/978-3-031-15707-3\_23},
+	volume = {13416},
+	year = {2022},
+	bdsk-url-1 = {https://doi.org/10.1007/978-3-031-15707-3%5C_23}}
 
 @inproceedings{DBLP:conf/sat/JabsBNJ22,
-  author       = {Christoph Jabs and
-                  Jeremias Berg and
-                  Andreas Niskanen and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Kuldeep S. Meel and
-                  Ofer Strichman},
-  title        = {MaxSAT-Based Bi-Objective Boolean Optimization},
-  booktitle    = {25th International Conference on Theory and Applications of Satisfiability
-                  Testing, {SAT} 2022, August 2-5, 2022, Haifa, Israel},
-  series       = {LIPIcs},
-  volume       = {236},
-  pages        = {12:1--12:23},
-  publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
-  year         = {2022},
-  url          = {https://doi.org/10.4230/LIPIcs.SAT.2022.12},
-  doi          = {10.4230/LIPICS.SAT.2022.12},
-  timestamp    = {Sat, 30 Sep 2023 09:55:45 +0200},
-  biburl       = {https://dblp.org/rec/conf/sat/JabsBNJ22.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true},
-	code={https://bitbucket.org/coreo-group/scuttle/src/main/},
-	pdf={https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SAT.2022.12}
-}
+	author = {Christoph Jabs and Jeremias Berg and Andreas Niskanen and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/sat/JabsBNJ22.bib},
+	booktitle = {25th International Conference on Theory and Applications of Satisfiability Testing, {SAT} 2022, August 2-5, 2022, Haifa, Israel},
+	code = {https://bitbucket.org/coreo-group/scuttle/src/main/},
+	doi = {10.4230/LIPICS.SAT.2022.12},
+	editor = {Kuldeep S. Meel and Ofer Strichman},
+	pages = {12:1--12:23},
+	pdf = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SAT.2022.12},
+	publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+	series = {LIPIcs},
+	timestamp = {Sat, 30 Sep 2023 09:55:45 +0200},
+	title = {MaxSAT-Based Bi-Objective Boolean Optimization},
+	url = {https://doi.org/10.4230/LIPIcs.SAT.2022.12},
+	volume = {236},
+	year = {2022},
+	bdsk-url-1 = {https://doi.org/10.4230/LIPIcs.SAT.2022.12}}
 
 @inproceedings{DBLP:conf/sat/0003BJ22,
-  author       = {Pavel Smirnov and
-                  Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Kuldeep S. Meel and
-                  Ofer Strichman},
-  title        = {Improvements to the Implicit Hitting Set Approach to Pseudo-Boolean
-                  Optimization},
-  booktitle    = {25th International Conference on Theory and Applications of Satisfiability
-                  Testing, {SAT} 2022, August 2-5, 2022, Haifa, Israel},
-  series       = {LIPIcs},
-  volume       = {236},
-  pages        = {13:1--13:18},
-  publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
-  year         = {2022},
-  url          = {https://doi.org/10.4230/LIPIcs.SAT.2022.13},
-  doi          = {10.4230/LIPICS.SAT.2022.13},
-  timestamp    = {Thu, 28 Jul 2022 17:31:18 +0200},
-  biburl       = {https://dblp.org/rec/conf/sat/0003BJ22.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true},
-	pdf={https://doi.org/10.4230/LIPIcs.SAT.2022.13},
-	code={https://bitbucket.org/coreo-group/pbo-ihs-solver/src/master/}
-
-}
+	author = {Pavel Smirnov and Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/sat/0003BJ22.bib},
+	booktitle = {25th International Conference on Theory and Applications of Satisfiability Testing, {SAT} 2022, August 2-5, 2022, Haifa, Israel},
+	code = {https://bitbucket.org/coreo-group/pbo-ihs-solver/src/master/},
+	doi = {10.4230/LIPICS.SAT.2022.13},
+	editor = {Kuldeep S. Meel and Ofer Strichman},
+	pages = {13:1--13:18},
+	pdf = {https://doi.org/10.4230/LIPIcs.SAT.2022.13},
+	publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+	series = {LIPIcs},
+	timestamp = {Thu, 28 Jul 2022 17:31:18 +0200},
+	title = {Improvements to the Implicit Hitting Set Approach to Pseudo-Boolean Optimization},
+	url = {https://doi.org/10.4230/LIPIcs.SAT.2022.13},
+	volume = {236},
+	year = {2022},
+	bdsk-url-1 = {https://doi.org/10.4230/LIPIcs.SAT.2022.13}}
 
 @inproceedings{DBLP:conf/sat/NiskanenBJ22,
-  author       = {Andreas Niskanen and
-                  Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Kuldeep S. Meel and
-                  Ofer Strichman},
-  title        = {Incremental Maximum Satisfiability},
-  booktitle    = {25th International Conference on Theory and Applications of Satisfiability
-                  Testing, {SAT} 2022, August 2-5, 2022, Haifa, Israel},
-  series       = {LIPIcs},
-  volume       = {236},
-  pages        = {14:1--14:19},
-  publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
-  year         = {2022},
-  url          = {https://doi.org/10.4230/LIPIcs.SAT.2022.14},
-  doi          = {10.4230/LIPICS.SAT.2022.14},
-  timestamp    = {Sun, 02 Oct 2022 16:14:34 +0200},
-  biburl       = {https://dblp.org/rec/conf/sat/NiskanenBJ22.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true},
-	code={https://bitbucket.org/coreo-group/incremental-maxhs/src/master/?search_id=ccc4bc84-67bb-4641-99b9-9d6297418daf},
-	pdf={https://doi.org/10.4230/LIPIcs.SAT.2022.14}
-}
+	author = {Andreas Niskanen and Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/sat/NiskanenBJ22.bib},
+	booktitle = {25th International Conference on Theory and Applications of Satisfiability Testing, {SAT} 2022, August 2-5, 2022, Haifa, Israel},
+	code = {https://bitbucket.org/coreo-group/incremental-maxhs/src/master/?search_id=ccc4bc84-67bb-4641-99b9-9d6297418daf},
+	doi = {10.4230/LIPICS.SAT.2022.14},
+	editor = {Kuldeep S. Meel and Ofer Strichman},
+	pages = {14:1--14:19},
+	pdf = {https://doi.org/10.4230/LIPIcs.SAT.2022.14},
+	publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+	series = {LIPIcs},
+	timestamp = {Sun, 02 Oct 2022 16:14:34 +0200},
+	title = {Incremental Maximum Satisfiability},
+	url = {https://doi.org/10.4230/LIPIcs.SAT.2022.14},
+	volume = {236},
+	year = {2022},
+	bdsk-url-1 = {https://doi.org/10.4230/LIPIcs.SAT.2022.14}}
 
 @inproceedings{DBLP:conf/cp/IhalainenBJ21,
-  author       = {Hannes Ihalainen and
-                  Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Laurent D. Michel},
-  title        = {Refined Core Relaxation for Core-Guided MaxSAT Solving},
-  booktitle    = {27th International Conference on Principles and Practice of Constraint
-                  Programming, {CP} 2021, Montpellier, France (Virtual Conference),
-                  October 25-29, 2021},
-  series       = {LIPIcs},
-  volume       = {210},
-  pages        = {28:1--28:19},
-  publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
-  year         = {2021},
-  url          = {https://doi.org/10.4230/LIPIcs.CP.2021.28},
-  doi          = {10.4230/LIPICS.CP.2021.28},
-  timestamp    = {Wed, 03 Nov 2021 08:28:40 +0100},
-  biburl       = {https://dblp.org/rec/conf/cp/IhalainenBJ21.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true},
-	code={https://bitbucket.org/coreo-group/cgss2/src/master/},
-	pdf={https://doi.org/10.4230/LIPIcs.CP.2021.28},
-	supp={https://helda.helsinki.fi/items/f77e9a26-87b6-43ae-8e86-3de2af8417be}
-
-}
+	author = {Hannes Ihalainen and Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/cp/IhalainenBJ21.bib},
+	booktitle = {27th International Conference on Principles and Practice of Constraint Programming, {CP} 2021, Montpellier, France (Virtual Conference), October 25-29, 2021},
+	code = {https://bitbucket.org/coreo-group/cgss2/src/master/},
+	doi = {10.4230/LIPICS.CP.2021.28},
+	editor = {Laurent D. Michel},
+	pages = {28:1--28:19},
+	pdf = {https://doi.org/10.4230/LIPIcs.CP.2021.28},
+	publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+	series = {LIPIcs},
+	supp = {https://helda.helsinki.fi/items/f77e9a26-87b6-43ae-8e86-3de2af8417be},
+	timestamp = {Wed, 03 Nov 2021 08:28:40 +0100},
+	title = {Refined Core Relaxation for Core-Guided MaxSAT Solving},
+	url = {https://doi.org/10.4230/LIPIcs.CP.2021.28},
+	volume = {210},
+	year = {2021},
+	bdsk-url-1 = {https://doi.org/10.4230/LIPIcs.CP.2021.28}}
 
 @inproceedings{DBLP:conf/cp/NiskanenBJ21,
-  author       = {Andreas Niskanen and
-                  Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Laurent D. Michel},
-  title        = {Enabling Incrementality in the Implicit Hitting Set Approach to MaxSAT
-                  Under Changing Weights},
-  booktitle    = {27th International Conference on Principles and Practice of Constraint
-                  Programming, {CP} 2021, Montpellier, France (Virtual Conference),
-                  October 25-29, 2021},
-  series       = {LIPIcs},
-  volume       = {210},
-  pages        = {44:1--44:19},
-  publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
-  year         = {2021},
-  url          = {https://doi.org/10.4230/LIPIcs.CP.2021.44},
-  doi          = {10.4230/LIPICS.CP.2021.44},
-  timestamp    = {Wed, 03 Nov 2021 08:28:40 +0100},
-  biburl       = {https://dblp.org/rec/conf/cp/NiskanenBJ21.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true},
-	code={https://bitbucket.org/coreo-group/incremental-maxhs/src/master/?search_id=ccc4bc84-67bb-4641-99b9-9d6297418daf},
-	pdf={https://doi.org/10.4230/LIPIcs.CP.2021.44}
-}
+	author = {Andreas Niskanen and Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/cp/NiskanenBJ21.bib},
+	booktitle = {27th International Conference on Principles and Practice of Constraint Programming, {CP} 2021, Montpellier, France (Virtual Conference), October 25-29, 2021},
+	code = {https://bitbucket.org/coreo-group/incremental-maxhs/src/master/?search_id=ccc4bc84-67bb-4641-99b9-9d6297418daf},
+	doi = {10.4230/LIPICS.CP.2021.44},
+	editor = {Laurent D. Michel},
+	pages = {44:1--44:19},
+	pdf = {https://doi.org/10.4230/LIPIcs.CP.2021.44},
+	publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+	series = {LIPIcs},
+	timestamp = {Wed, 03 Nov 2021 08:28:40 +0100},
+	title = {Enabling Incrementality in the Implicit Hitting Set Approach to MaxSAT Under Changing Weights},
+	url = {https://doi.org/10.4230/LIPIcs.CP.2021.44},
+	volume = {210},
+	year = {2021},
+	bdsk-url-1 = {https://doi.org/10.4230/LIPIcs.CP.2021.44}}
 
 @inproceedings{DBLP:conf/cp/SmirnovBJ21,
-  author       = {Pavel Smirnov and
-                  Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Laurent D. Michel},
-  title        = {Pseudo-Boolean Optimization by Implicit Hitting Sets},
-  booktitle    = {27th International Conference on Principles and Practice of Constraint
-                  Programming, {CP} 2021, Montpellier, France (Virtual Conference),
-                  October 25-29, 2021},
-  series       = {LIPIcs},
-  volume       = {210},
-  pages        = {51:1--51:20},
-  publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
-  year         = {2021},
-  url          = {https://doi.org/10.4230/LIPIcs.CP.2021.51},
-  doi          = {10.4230/LIPICS.CP.2021.51},
-  timestamp    = {Thu, 04 Nov 2021 13:41:52 +0100},
-  biburl       = {https://dblp.org/rec/conf/cp/SmirnovBJ21.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true},
-	supp={https://ethesis.helsinki.fi/repository/handle/123456789/39671},
-	pdf={https://doi.org/10.4230/LIPIcs.CP.2021.51},
-	code={https://bitbucket.org/coreo-group/pbo-ihs-solver/src/master/}
-
-}
+	author = {Pavel Smirnov and Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/cp/SmirnovBJ21.bib},
+	booktitle = {27th International Conference on Principles and Practice of Constraint Programming, {CP} 2021, Montpellier, France (Virtual Conference), October 25-29, 2021},
+	code = {https://bitbucket.org/coreo-group/pbo-ihs-solver/src/master/},
+	doi = {10.4230/LIPICS.CP.2021.51},
+	editor = {Laurent D. Michel},
+	pages = {51:1--51:20},
+	pdf = {https://doi.org/10.4230/LIPIcs.CP.2021.51},
+	publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+	series = {LIPIcs},
+	supp = {https://ethesis.helsinki.fi/repository/handle/123456789/39671},
+	timestamp = {Thu, 04 Nov 2021 13:41:52 +0100},
+	title = {Pseudo-Boolean Optimization by Implicit Hitting Sets},
+	url = {https://doi.org/10.4230/LIPIcs.CP.2021.51},
+	volume = {210},
+	year = {2021},
+	bdsk-url-1 = {https://doi.org/10.4230/LIPIcs.CP.2021.51}}
 
 @inproceedings{DBLP:conf/ijcai/BergBP21,
-  author       = {Jeremias Berg and
-                  Fahiem Bacchus and
-                  Alex Poole},
-  editor       = {Zhi{-}Hua Zhou},
-  title        = {Abstract Cores in Implicit Hitting Set MaxSat Solving (Extended Abstract)},
-  booktitle    = {Proceedings of the Thirtieth International Joint Conference on Artificial
-                  Intelligence, {IJCAI} 2021, Virtual Event / Montreal, Canada, 19-27
-                  August 2021},
-  pages        = {4745--4749},
-  publisher    = {ijcai.org},
-  year         = {2021},
-  url          = {https://doi.org/10.24963/ijcai.2021/643},
-  doi          = {10.24963/IJCAI.2021/643},
-  timestamp    = {Wed, 25 Aug 2021 17:11:16 +0200},
-  biburl       = {https://dblp.org/rec/conf/ijcai/BergBP21.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true},
-	pdf={https://doi.org/10.24963/ijcai.2021/643},
-	supp={https://www.cs.helsinki.fi/u/jezberg/papers/SAT2020_Berg_Bacchus_Poole.pdf},
-	code={http://www.maxhs.org/downloads.html}
-}
+	author = {Jeremias Berg and Fahiem Bacchus and Alex Poole},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/ijcai/BergBP21.bib},
+	booktitle = {Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence, {IJCAI} 2021, Virtual Event / Montreal, Canada, 19-27 August 2021},
+	code = {http://www.maxhs.org/downloads.html},
+	doi = {10.24963/IJCAI.2021/643},
+	editor = {Zhi{-}Hua Zhou},
+	pages = {4745--4749},
+	pdf = {https://doi.org/10.24963/ijcai.2021/643},
+	publisher = {ijcai.org},
+	supp = {https://www.cs.helsinki.fi/u/jezberg/papers/SAT2020_Berg_Bacchus_Poole.pdf},
+	timestamp = {Wed, 25 Aug 2021 17:11:16 +0200},
+	title = {Abstract Cores in Implicit Hitting Set MaxSat Solving (Extended Abstract)},
+	url = {https://doi.org/10.24963/ijcai.2021/643},
+	year = {2021},
+	bdsk-url-1 = {https://doi.org/10.24963/ijcai.2021/643}}
 
 @inproceedings{DBLP:conf/cpaior/GangeBDS20,
-  author       = {Graeme Gange and
-                  Jeremias Berg and
-                  Emir Demirovic and
-                  Peter J. Stuckey},
-  editor       = {Emmanuel Hebrard and
-                  Nysret Musliu},
-  title        = {Core-Guided and Core-Boosted Search for {CP}},
-  booktitle    = {Integration of Constraint Programming, Artificial Intelligence, and
-                  Operations Research - 17th International Conference, {CPAIOR} 2020,
-                  Vienna, Austria, September 21-24, 2020, Proceedings},
-  series       = {Lecture Notes in Computer Science},
-  volume       = {12296},
-  pages        = {205--221},
-  publisher    = {Springer},
-  year         = {2020},
-  url          = {https://doi.org/10.1007/978-3-030-58942-4\_14},
-  doi          = {10.1007/978-3-030-58942-4\_14},
-  timestamp    = {Sun, 25 Oct 2020 23:15:05 +0100},
-  biburl       = {https://dblp.org/rec/conf/cpaior/GangeBDS20.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true},
-	pdf={https://www.cs.helsinki.fi/u/jezberg/papers/CPAIOR2020_Gange_Berg_Demirovic_Stuckey.pdf}
-}
+	author = {Graeme Gange and Jeremias Berg and Emir Demirovic and Peter J. Stuckey},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/cpaior/GangeBDS20.bib},
+	booktitle = {Integration of Constraint Programming, Artificial Intelligence, and Operations Research - 17th International Conference, {CPAIOR} 2020, Vienna, Austria, September 21-24, 2020, Proceedings},
+	doi = {10.1007/978-3-030-58942-4\_14},
+	editor = {Emmanuel Hebrard and Nysret Musliu},
+	pages = {205--221},
+	pdf = {https://www.cs.helsinki.fi/u/jezberg/papers/CPAIOR2020_Gange_Berg_Demirovic_Stuckey.pdf},
+	publisher = {Springer},
+	series = {Lecture Notes in Computer Science},
+	timestamp = {Sun, 25 Oct 2020 23:15:05 +0100},
+	title = {Core-Guided and Core-Boosted Search for {CP}},
+	url = {https://doi.org/10.1007/978-3-030-58942-4\_14},
+	volume = {12296},
+	year = {2020},
+	bdsk-url-1 = {https://doi.org/10.1007/978-3-030-58942-4%5C_14}}
 
 @inproceedings{DBLP:conf/ecai/LeivoBJ20,
-  author       = {Marcus Leivo and
-                  Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Giuseppe De Giacomo and
-                  Alejandro Catal{\'{a}} and
-                  Bistra Dilkina and
-                  Michela Milano and
-                  Sen{\'{e}}n Barro and
-                  Alberto Bugar{\'{\i}}n and
-                  J{\'{e}}r{\^{o}}me Lang},
-  title        = {Preprocessing in Incomplete MaxSAT Solving},
-  booktitle    = {{ECAI} 2020 - 24th European Conference on Artificial Intelligence,
-                  29 August-8 September 2020, Santiago de Compostela, Spain, August
-                  29 - September 8, 2020 - Including 10th Conference on Prestigious
-                  Applications of Artificial Intelligence {(PAIS} 2020)},
-  series       = {Frontiers in Artificial Intelligence and Applications},
-  volume       = {325},
-  pages        = {347--354},
-  publisher    = {{IOS} Press},
-  year         = {2020},
-  url          = {https://doi.org/10.3233/FAIA200112},
-  doi          = {10.3233/FAIA200112},
-  timestamp    = {Fri, 09 Apr 2021 18:50:05 +0200},
-  biburl       = {https://dblp.org/rec/conf/ecai/LeivoBJ20.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true},
-	pdf={https://www.cs.helsinki.fi/u/jezberg/papers/ECAI2020_Leivo_Berg_Jarvisalo.pdf},
-	supp={https://ethesis.helsinki.fi/repository/handle/123456789/30984}
-}
+	author = {Marcus Leivo and Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/ecai/LeivoBJ20.bib},
+	booktitle = {{ECAI} 2020 - 24th European Conference on Artificial Intelligence, 29 August-8 September 2020, Santiago de Compostela, Spain, August 29 - September 8, 2020 - Including 10th Conference on Prestigious Applications of Artificial Intelligence {(PAIS} 2020)},
+	doi = {10.3233/FAIA200112},
+	editor = {Giuseppe De Giacomo and Alejandro Catal{\'{a}} and Bistra Dilkina and Michela Milano and Sen{\'{e}}n Barro and Alberto Bugar{\'{\i}}n and J{\'{e}}r{\^{o}}me Lang},
+	pages = {347--354},
+	pdf = {https://www.cs.helsinki.fi/u/jezberg/papers/ECAI2020_Leivo_Berg_Jarvisalo.pdf},
+	publisher = {{IOS} Press},
+	series = {Frontiers in Artificial Intelligence and Applications},
+	supp = {https://ethesis.helsinki.fi/repository/handle/123456789/30984},
+	timestamp = {Fri, 09 Apr 2021 18:50:05 +0200},
+	title = {Preprocessing in Incomplete MaxSAT Solving},
+	url = {https://doi.org/10.3233/FAIA200112},
+	volume = {325},
+	year = {2020},
+	bdsk-url-1 = {https://doi.org/10.3233/FAIA200112}}
 
 @inproceedings{DBLP:conf/sat/BergBP20,
-  author       = {Jeremias Berg and
-                  Fahiem Bacchus and
-                  Alex Poole},
-  editor       = {Luca Pulina and
-                  Martina Seidl},
-  title        = {Abstract Cores in Implicit Hitting Set MaxSat Solving},
-  booktitle    = {Theory and Applications of Satisfiability Testing - {SAT} 2020 - 23rd
-                  International Conference, Alghero, Italy, July 3-10, 2020, Proceedings},
-  series       = {Lecture Notes in Computer Science},
-  volume       = {12178},
-  pages        = {277--294},
-  publisher    = {Springer},
-  year         = {2020},
-  url          = {https://doi.org/10.1007/978-3-030-51825-7\_20},
-  doi          = {10.1007/978-3-030-51825-7\_20},
-  timestamp    = {Thu, 06 Aug 2020 21:49:45 +0200},
-  biburl       = {https://dblp.org/rec/conf/sat/BergBP20.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true},
-	code={http://www.maxhs.org/downloads.html},
-	pdf={https://www.cs.helsinki.fi/u/jezberg/papers/SAT2020_Berg_Bacchus_Poole.pdf},
-
-}
+	author = {Jeremias Berg and Fahiem Bacchus and Alex Poole},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/sat/BergBP20.bib},
+	booktitle = {Theory and Applications of Satisfiability Testing - {SAT} 2020 - 23rd International Conference, Alghero, Italy, July 3-10, 2020, Proceedings},
+	code = {http://www.maxhs.org/downloads.html},
+	doi = {10.1007/978-3-030-51825-7\_20},
+	editor = {Luca Pulina and Martina Seidl},
+	pages = {277--294},
+	pdf = {https://www.cs.helsinki.fi/u/jezberg/papers/SAT2020_Berg_Bacchus_Poole.pdf},
+	publisher = {Springer},
+	series = {Lecture Notes in Computer Science},
+	timestamp = {Thu, 06 Aug 2020 21:49:45 +0200},
+	title = {Abstract Cores in Implicit Hitting Set MaxSat Solving},
+	url = {https://doi.org/10.1007/978-3-030-51825-7\_20},
+	volume = {12178},
+	year = {2020},
+	bdsk-url-1 = {https://doi.org/10.1007/978-3-030-51825-7%5C_20}}
 
 @article{DBLP:journals/jea/KorhonenBJ19,
-  author       = {Tuukka Korhonen and
-                  Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  title        = {Solving Graph Problems via Potential Maximal Cliques: An Experimental
-                  Evaluation of the Bouchitt{\'{e}}-Todinca Algorithm},
-  journal      = {{ACM} J. Exp. Algorithmics},
-  volume       = {24},
-  number       = {1},
-  pages        = {1.9:1--1.9:19},
-  year         = {2019},
-  url          = {https://doi.org/10.1145/3301297},
-  doi          = {10.1145/3301297},
-  timestamp    = {Thu, 14 Oct 2021 09:12:26 +0200},
-  biburl       = {https://dblp.org/rec/journals/jea/KorhonenBJ19.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Tuukka Korhonen and Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/journals/jea/KorhonenBJ19.bib},
+	doi = {10.1145/3301297},
+	journal = {{ACM} J. Exp. Algorithmics},
+	number = {1},
+	pages = {1.9:1--1.9:19},
+	timestamp = {Thu, 14 Oct 2021 09:12:26 +0200},
+	title = {Solving Graph Problems via Potential Maximal Cliques: An Experimental Evaluation of the Bouchitt{\'{e}}-Todinca Algorithm},
+	url = {https://doi.org/10.1145/3301297},
+	volume = {24},
+	year = {2019},
+	bdsk-url-1 = {https://doi.org/10.1145/3301297}}
 
 @inproceedings{DBLP:conf/cpaior/BergDS19,
-  author       = {Jeremias Berg and
-                  Emir Demirovic and
-                  Peter J. Stuckey},
-  editor       = {Louis{-}Martin Rousseau and
-                  Kostas Stergiou},
-  title        = {Core-Boosted Linear Search for Incomplete MaxSAT},
-  booktitle    = {Integration of Constraint Programming, Artificial Intelligence, and
-                  Operations Research - 16th International Conference, {CPAIOR} 2019,
-                  Thessaloniki, Greece, June 4-7, 2019, Proceedings},
-  series       = {Lecture Notes in Computer Science},
-  volume       = {11494},
-  pages        = {39--56},
-  publisher    = {Springer},
-  year         = {2019},
-  url          = {https://doi.org/10.1007/978-3-030-19212-9\_3},
-  doi          = {10.1007/978-3-030-19212-9\_3},
-  timestamp    = {Tue, 28 May 2019 13:14:06 +0200},
-  biburl       = {https://dblp.org/rec/conf/cpaior/BergDS19.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true},
-	code={https://github.com/jezberg/loandra},
-	pdf={https://www.cs.helsinki.fi/u/jezberg/papers/CPAIOR2019_Berg_Demirovic_Stuckey.pdf}
-}
+	author = {Jeremias Berg and Emir Demirovic and Peter J. Stuckey},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/cpaior/BergDS19.bib},
+	booktitle = {Integration of Constraint Programming, Artificial Intelligence, and Operations Research - 16th International Conference, {CPAIOR} 2019, Thessaloniki, Greece, June 4-7, 2019, Proceedings},
+	code = {https://github.com/jezberg/loandra},
+	doi = {10.1007/978-3-030-19212-9\_3},
+	editor = {Louis{-}Martin Rousseau and Kostas Stergiou},
+	pages = {39--56},
+	pdf = {https://www.cs.helsinki.fi/u/jezberg/papers/CPAIOR2019_Berg_Demirovic_Stuckey.pdf},
+	publisher = {Springer},
+	series = {Lecture Notes in Computer Science},
+	timestamp = {Tue, 28 May 2019 13:14:06 +0200},
+	title = {Core-Boosted Linear Search for Incomplete MaxSAT},
+	url = {https://doi.org/10.1007/978-3-030-19212-9\_3},
+	volume = {11494},
+	year = {2019},
+	bdsk-url-1 = {https://doi.org/10.1007/978-3-030-19212-9%5C_3}}
 
 @inproceedings{DBLP:conf/ijcai/KorhonenBJ19,
-  author       = {Tuukka Korhonen and
-                  Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Sarit Kraus},
-  title        = {Enumerating Potential Maximal Cliques via {SAT} and {ASP}},
-  booktitle    = {Proceedings of the Twenty-Eighth International Joint Conference on
-                  Artificial Intelligence, {IJCAI} 2019, Macao, China, August 10-16,
-                  2019},
-  pages        = {1116--1122},
-  publisher    = {ijcai.org},
-  year         = {2019},
-  url          = {https://doi.org/10.24963/ijcai.2019/156},
-  doi          = {10.24963/IJCAI.2019/156},
-  timestamp    = {Thu, 14 Oct 2021 10:39:48 +0200},
-  biburl       = {https://dblp.org/rec/conf/ijcai/KorhonenBJ19.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Tuukka Korhonen and Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/ijcai/KorhonenBJ19.bib},
+	booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, {IJCAI} 2019, Macao, China, August 10-16, 2019},
+	doi = {10.24963/IJCAI.2019/156},
+	editor = {Sarit Kraus},
+	pages = {1116--1122},
+	publisher = {ijcai.org},
+	timestamp = {Thu, 14 Oct 2021 10:39:48 +0200},
+	title = {Enumerating Potential Maximal Cliques via {SAT} and {ASP}},
+	url = {https://doi.org/10.24963/ijcai.2019/156},
+	year = {2019},
+	bdsk-url-1 = {https://doi.org/10.24963/ijcai.2019/156}}
 
 @inproceedings{DBLP:conf/jelia/BergJ19,
-  author       = {Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Francesco Calimeri and
-                  Nicola Leone and
-                  Marco Manna},
-  title        = {Unifying Reasoning and Core-Guided Search for Maximum Satisfiability},
-  booktitle    = {Logics in Artificial Intelligence - 16th European Conference, {JELIA}
-                  2019, Rende, Italy, May 7-11, 2019, Proceedings},
-  series       = {Lecture Notes in Computer Science},
-  volume       = {11468},
-  pages        = {287--303},
-  publisher    = {Springer},
-  year         = {2019},
-  url          = {https://doi.org/10.1007/978-3-030-19570-0\_19},
-  doi          = {10.1007/978-3-030-19570-0\_19},
-  timestamp    = {Fri, 27 Mar 2020 08:53:33 +0100},
-  biburl       = {https://dblp.org/rec/conf/jelia/BergJ19.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/jelia/BergJ19.bib},
+	booktitle = {Logics in Artificial Intelligence - 16th European Conference, {JELIA} 2019, Rende, Italy, May 7-11, 2019, Proceedings},
+	doi = {10.1007/978-3-030-19570-0\_19},
+	editor = {Francesco Calimeri and Nicola Leone and Marco Manna},
+	pages = {287--303},
+	publisher = {Springer},
+	series = {Lecture Notes in Computer Science},
+	timestamp = {Fri, 27 Mar 2020 08:53:33 +0100},
+	title = {Unifying Reasoning and Core-Guided Search for Maximum Satisfiability},
+	url = {https://doi.org/10.1007/978-3-030-19570-0\_19},
+	volume = {11468},
+	year = {2019},
+	bdsk-url-1 = {https://doi.org/10.1007/978-3-030-19570-0%5C_19}}
 
 @phdthesis{DBLP:phd/basesearch/Berg18,
-  author       = {Jeremias Berg},
-  title        = {Solving Optimization Problems via Maximum Satisfiability: Encodings
-                  and Re-Encodings},
-  school       = {University of Helsinki, Finland},
-  year         = {2018},
-  url          = {http://hdl.handle.net/10138/234642},
-  timestamp    = {Wed, 07 Dec 2022 23:29:31 +0100},
-  biburl       = {https://dblp.org/rec/phd/basesearch/Berg18.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Jeremias Berg},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/phd/basesearch/Berg18.bib},
+	school = {University of Helsinki, Finland},
+	timestamp = {Wed, 07 Dec 2022 23:29:31 +0100},
+	title = {Solving Optimization Problems via Maximum Satisfiability: Encodings and Re-Encodings},
+	url = {http://hdl.handle.net/10138/234642},
+	year = {2018},
+	bdsk-url-1 = {http://hdl.handle.net/10138/234642}}
 
 @inproceedings{DBLP:conf/sat/BergHJ18,
-  author       = {Jeremias Berg and
-                  Antti Hyttinen and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Daniel Le Berre and
-                  Matti J{\"{a}}rvisalo},
-  title        = {Applications of MaxSAT in Data Analysis},
-  booktitle    = {Proceedings of Pragmatics of {SAT} 2015, Austin, Texas, USA, September
-                  23, 2015 / Pragmatics of {SAT} 2018, Oxford, UK, July 7, 2018},
-  series       = {EPiC Series in Computing},
-  volume       = {59},
-  pages        = {50--64},
-  publisher    = {EasyChair},
-  year         = {2018},
-  url          = {https://doi.org/10.29007/3qkh},
-  doi          = {10.29007/3QKH},
-  timestamp    = {Sun, 15 Aug 2021 00:16:54 +0200},
-  biburl       = {https://dblp.org/rec/conf/sat/BergHJ18.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Jeremias Berg and Antti Hyttinen and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/sat/BergHJ18.bib},
+	booktitle = {Proceedings of Pragmatics of {SAT} 2015, Austin, Texas, USA, September 23, 2015 / Pragmatics of {SAT} 2018, Oxford, UK, July 7, 2018},
+	doi = {10.29007/3QKH},
+	editor = {Daniel Le Berre and Matti J{\"{a}}rvisalo},
+	pages = {50--64},
+	publisher = {EasyChair},
+	series = {EPiC Series in Computing},
+	timestamp = {Sun, 15 Aug 2021 00:16:54 +0200},
+	title = {Applications of MaxSAT in Data Analysis},
+	url = {https://doi.org/10.29007/3qkh},
+	volume = {59},
+	year = {2018},
+	bdsk-url-1 = {https://doi.org/10.29007/3qkh}}
 
 @article{DBLP:journals/ai/BergJ17,
-  author       = {Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  title        = {Cost-optimal constrained correlation clustering via weighted partial
-                  Maximum Satisfiability},
-  journal      = {Artif. Intell.},
-  volume       = {244},
-  pages        = {110--142},
-  year         = {2017},
-  url          = {https://doi.org/10.1016/j.artint.2015.07.001},
-  doi          = {10.1016/J.ARTINT.2015.07.001},
-  timestamp    = {Fri, 30 Nov 2018 13:29:20 +0100},
-  biburl       = {https://dblp.org/rec/journals/ai/BergJ17.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/journals/ai/BergJ17.bib},
+	doi = {10.1016/J.ARTINT.2015.07.001},
+	journal = {Artif. Intell.},
+	pages = {110--142},
+	timestamp = {Fri, 30 Nov 2018 13:29:20 +0100},
+	title = {Cost-optimal constrained correlation clustering via weighted partial Maximum Satisfiability},
+	url = {https://doi.org/10.1016/j.artint.2015.07.001},
+	volume = {244},
+	year = {2017},
+	bdsk-url-1 = {https://doi.org/10.1016/j.artint.2015.07.001}}
 
 @inproceedings{DBLP:conf/cp/BergOJP17,
-  author       = {Jeremias Berg and
-                  Emilia Oikarinen and
-                  Matti J{\"{a}}rvisalo and
-                  Kai Puolam{\"{a}}ki},
-  editor       = {J. Christopher Beck},
-  title        = {Minimum-Width Confidence Bands via Constraint Optimization},
-  booktitle    = {Principles and Practice of Constraint Programming - 23rd International
-                  Conference, {CP} 2017, Melbourne, VIC, Australia, August 28 - September
-                  1, 2017, Proceedings},
-  series       = {Lecture Notes in Computer Science},
-  volume       = {10416},
-  pages        = {443--459},
-  publisher    = {Springer},
-  year         = {2017},
-  url          = {https://doi.org/10.1007/978-3-319-66158-2\_29},
-  doi          = {10.1007/978-3-319-66158-2\_29},
-  timestamp    = {Sat, 19 Oct 2019 20:32:31 +0200},
-  biburl       = {https://dblp.org/rec/conf/cp/BergOJP17.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Jeremias Berg and Emilia Oikarinen and Matti J{\"{a}}rvisalo and Kai Puolam{\"{a}}ki},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/cp/BergOJP17.bib},
+	booktitle = {Principles and Practice of Constraint Programming - 23rd International Conference, {CP} 2017, Melbourne, VIC, Australia, August 28 - September 1, 2017, Proceedings},
+	doi = {10.1007/978-3-319-66158-2\_29},
+	editor = {J. Christopher Beck},
+	pages = {443--459},
+	publisher = {Springer},
+	series = {Lecture Notes in Computer Science},
+	timestamp = {Sat, 19 Oct 2019 20:32:31 +0200},
+	title = {Minimum-Width Confidence Bands via Constraint Optimization},
+	url = {https://doi.org/10.1007/978-3-319-66158-2\_29},
+	volume = {10416},
+	year = {2017},
+	bdsk-url-1 = {https://doi.org/10.1007/978-3-319-66158-2%5C_29}}
 
 @inproceedings{DBLP:conf/cp/BergJ17,
-  author       = {Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {J. Christopher Beck},
-  title        = {Weight-Aware Core Extraction in SAT-Based MaxSAT Solving},
-  booktitle    = {Principles and Practice of Constraint Programming - 23rd International
-                  Conference, {CP} 2017, Melbourne, VIC, Australia, August 28 - September
-                  1, 2017, Proceedings},
-  series       = {Lecture Notes in Computer Science},
-  volume       = {10416},
-  pages        = {652--670},
-  publisher    = {Springer},
-  year         = {2017},
-  url          = {https://doi.org/10.1007/978-3-319-66158-2\_42},
-  doi          = {10.1007/978-3-319-66158-2\_42},
-  timestamp    = {Tue, 14 May 2019 10:00:45 +0200},
-  biburl       = {https://dblp.org/rec/conf/cp/BergJ17.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/cp/BergJ17.bib},
+	booktitle = {Principles and Practice of Constraint Programming - 23rd International Conference, {CP} 2017, Melbourne, VIC, Australia, August 28 - September 1, 2017, Proceedings},
+	doi = {10.1007/978-3-319-66158-2\_42},
+	editor = {J. Christopher Beck},
+	pages = {652--670},
+	publisher = {Springer},
+	series = {Lecture Notes in Computer Science},
+	timestamp = {Tue, 14 May 2019 10:00:45 +0200},
+	title = {Weight-Aware Core Extraction in SAT-Based MaxSAT Solving},
+	url = {https://doi.org/10.1007/978-3-319-66158-2\_42},
+	volume = {10416},
+	year = {2017},
+	bdsk-url-1 = {https://doi.org/10.1007/978-3-319-66158-2%5C_42}}
 
 @inproceedings{DBLP:conf/sat/KorhonenBSJ17,
-  author       = {Tuukka Korhonen and
-                  Jeremias Berg and
-                  Paul Saikko and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Serge Gaspers and
-                  Toby Walsh},
-  title        = {MaxPre: An Extended MaxSAT Preprocessor},
-  booktitle    = {Theory and Applications of Satisfiability Testing - {SAT} 2017 - 20th
-                  International Conference, Melbourne, VIC, Australia, August 28 - September
-                  1, 2017, Proceedings},
-  series       = {Lecture Notes in Computer Science},
-  volume       = {10491},
-  pages        = {449--456},
-  publisher    = {Springer},
-  year         = {2017},
-  url          = {https://doi.org/10.1007/978-3-319-66263-3\_28},
-  doi          = {10.1007/978-3-319-66263-3\_28},
-  timestamp    = {Thu, 14 Oct 2021 10:31:52 +0200},
-  biburl       = {https://dblp.org/rec/conf/sat/KorhonenBSJ17.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Tuukka Korhonen and Jeremias Berg and Paul Saikko and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/sat/KorhonenBSJ17.bib},
+	booktitle = {Theory and Applications of Satisfiability Testing - {SAT} 2017 - 20th International Conference, Melbourne, VIC, Australia, August 28 - September 1, 2017, Proceedings},
+	doi = {10.1007/978-3-319-66263-3\_28},
+	editor = {Serge Gaspers and Toby Walsh},
+	pages = {449--456},
+	publisher = {Springer},
+	series = {Lecture Notes in Computer Science},
+	timestamp = {Thu, 14 Oct 2021 10:31:52 +0200},
+	title = {MaxPre: An Extended MaxSAT Preprocessor},
+	url = {https://doi.org/10.1007/978-3-319-66263-3\_28},
+	volume = {10491},
+	year = {2017},
+	bdsk-url-1 = {https://doi.org/10.1007/978-3-319-66263-3%5C_28}}
 
 @inproceedings{DBLP:conf/cp/BergJ16,
-  author       = {Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Michel Rueher},
-  title        = {Impact of SAT-Based Preprocessing on Core-Guided MaxSAT Solving},
-  booktitle    = {Principles and Practice of Constraint Programming - 22nd International
-                  Conference, {CP} 2016, Toulouse, France, September 5-9, 2016, Proceedings},
-  series       = {Lecture Notes in Computer Science},
-  volume       = {9892},
-  pages        = {66--85},
-  publisher    = {Springer},
-  year         = {2016},
-  url          = {https://doi.org/10.1007/978-3-319-44953-1\_5},
-  doi          = {10.1007/978-3-319-44953-1\_5},
-  timestamp    = {Tue, 14 May 2019 10:00:45 +0200},
-  biburl       = {https://dblp.org/rec/conf/cp/BergJ16.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/cp/BergJ16.bib},
+	booktitle = {Principles and Practice of Constraint Programming - 22nd International Conference, {CP} 2016, Toulouse, France, September 5-9, 2016, Proceedings},
+	doi = {10.1007/978-3-319-44953-1\_5},
+	editor = {Michel Rueher},
+	pages = {66--85},
+	publisher = {Springer},
+	series = {Lecture Notes in Computer Science},
+	timestamp = {Tue, 14 May 2019 10:00:45 +0200},
+	title = {Impact of SAT-Based Preprocessing on Core-Guided MaxSAT Solving},
+	url = {https://doi.org/10.1007/978-3-319-44953-1\_5},
+	volume = {9892},
+	year = {2016},
+	bdsk-url-1 = {https://doi.org/10.1007/978-3-319-44953-1%5C_5}}
 
 @inproceedings{DBLP:conf/ecai/BergSJ16,
-  author       = {Jeremias Berg and
-                  Paul Saikko and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Gal A. Kaminka and
-                  Maria Fox and
-                  Paolo Bouquet and
-                  Eyke H{\"{u}}llermeier and
-                  Virginia Dignum and
-                  Frank Dignum and
-                  Frank van Harmelen},
-  title        = {Subsumed Label Elimination for Maximum Satisfiability},
-  booktitle    = {{ECAI} 2016 - 22nd European Conference on Artificial Intelligence,
-                  29 August-2 September 2016, The Hague, The Netherlands - Including
-                  Prestigious Applications of Artificial Intelligence {(PAIS} 2016)},
-  series       = {Frontiers in Artificial Intelligence and Applications},
-  volume       = {285},
-  pages        = {630--638},
-  publisher    = {{IOS} Press},
-  year         = {2016},
-  url          = {https://doi.org/10.3233/978-1-61499-672-9-630},
-  doi          = {10.3233/978-1-61499-672-9-630},
-  timestamp    = {Tue, 02 Nov 2021 15:59:05 +0100},
-  biburl       = {https://dblp.org/rec/conf/ecai/BergSJ16.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Jeremias Berg and Paul Saikko and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/ecai/BergSJ16.bib},
+	booktitle = {{ECAI} 2016 - 22nd European Conference on Artificial Intelligence, 29 August-2 September 2016, The Hague, The Netherlands - Including Prestigious Applications of Artificial Intelligence {(PAIS} 2016)},
+	doi = {10.3233/978-1-61499-672-9-630},
+	editor = {Gal A. Kaminka and Maria Fox and Paolo Bouquet and Eyke H{\"{u}}llermeier and Virginia Dignum and Frank Dignum and Frank van Harmelen},
+	pages = {630--638},
+	publisher = {{IOS} Press},
+	series = {Frontiers in Artificial Intelligence and Applications},
+	timestamp = {Tue, 02 Nov 2021 15:59:05 +0100},
+	title = {Subsumed Label Elimination for Maximum Satisfiability},
+	url = {https://doi.org/10.3233/978-1-61499-672-9-630},
+	volume = {285},
+	year = {2016},
+	bdsk-url-1 = {https://doi.org/10.3233/978-1-61499-672-9-630}}
 
 @inproceedings{DBLP:conf/sat/SaikkoBJ16,
-  author       = {Paul Saikko and
-                  Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Nadia Creignou and
-                  Daniel Le Berre},
-  title        = {{LMHS:} {A} {SAT-IP} Hybrid MaxSAT Solver},
-  booktitle    = {Theory and Applications of Satisfiability Testing - {SAT} 2016 - 19th
-                  International Conference, Bordeaux, France, July 5-8, 2016, Proceedings},
-  series       = {Lecture Notes in Computer Science},
-  volume       = {9710},
-  pages        = {539--546},
-  publisher    = {Springer},
-  year         = {2016},
-  url          = {https://doi.org/10.1007/978-3-319-40970-2\_34},
-  doi          = {10.1007/978-3-319-40970-2\_34},
-  timestamp    = {Tue, 14 May 2019 10:00:41 +0200},
-  biburl       = {https://dblp.org/rec/conf/sat/SaikkoBJ16.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Paul Saikko and Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/sat/SaikkoBJ16.bib},
+	booktitle = {Theory and Applications of Satisfiability Testing - {SAT} 2016 - 19th International Conference, Bordeaux, France, July 5-8, 2016, Proceedings},
+	doi = {10.1007/978-3-319-40970-2\_34},
+	editor = {Nadia Creignou and Daniel Le Berre},
+	pages = {539--546},
+	publisher = {Springer},
+	series = {Lecture Notes in Computer Science},
+	timestamp = {Tue, 14 May 2019 10:00:41 +0200},
+	title = {{LMHS:} {A} {SAT-IP} Hybrid MaxSAT Solver},
+	url = {https://doi.org/10.1007/978-3-319-40970-2\_34},
+	volume = {9710},
+	year = {2016},
+	bdsk-url-1 = {https://doi.org/10.1007/978-3-319-40970-2%5C_34}}
 
 @inproceedings{DBLP:conf/ictai/BergSJ15,
-  author       = {Jeremias Berg and
-                  Paul Saikko and
-                  Matti J{\"{a}}rvisalo},
-  title        = {Re-using Auxiliary Variables for MaxSAT Preprocessing},
-  booktitle    = {27th {IEEE} International Conference on Tools with Artificial Intelligence,
-                  {ICTAI} 2015, Vietri sul Mare, Italy, November 9-11, 2015},
-  pages        = {813--820},
-  publisher    = {{IEEE} Computer Society},
-  year         = {2015},
-  url          = {https://doi.org/10.1109/ICTAI.2015.120},
-  doi          = {10.1109/ICTAI.2015.120},
-  timestamp    = {Fri, 24 Mar 2023 00:04:32 +0100},
-  biburl       = {https://dblp.org/rec/conf/ictai/BergSJ15.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Jeremias Berg and Paul Saikko and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/ictai/BergSJ15.bib},
+	booktitle = {27th {IEEE} International Conference on Tools with Artificial Intelligence, {ICTAI} 2015, Vietri sul Mare, Italy, November 9-11, 2015},
+	doi = {10.1109/ICTAI.2015.120},
+	pages = {813--820},
+	publisher = {{IEEE} Computer Society},
+	timestamp = {Fri, 24 Mar 2023 00:04:32 +0100},
+	title = {Re-using Auxiliary Variables for MaxSAT Preprocessing},
+	url = {https://doi.org/10.1109/ICTAI.2015.120},
+	year = {2015},
+	bdsk-url-1 = {https://doi.org/10.1109/ICTAI.2015.120}}
 
 @inproceedings{DBLP:conf/ijcai/BergSJ15,
-  author       = {Jeremias Berg and
-                  Paul Saikko and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Qiang Yang and
-                  Michael J. Wooldridge},
-  title        = {Improving the Effectiveness of SAT-Based Preprocessing for MaxSAT},
-  booktitle    = {Proceedings of the Twenty-Fourth International Joint Conference on
-                  Artificial Intelligence, {IJCAI} 2015, Buenos Aires, Argentina, July
-                  25-31, 2015},
-  pages        = {239--245},
-  publisher    = {{AAAI} Press},
-  year         = {2015},
-  url          = {http://ijcai.org/Abstract/15/040},
-  timestamp    = {Tue, 20 Aug 2019 16:16:44 +0200},
-  biburl       = {https://dblp.org/rec/conf/ijcai/BergSJ15.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Jeremias Berg and Paul Saikko and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/ijcai/BergSJ15.bib},
+	booktitle = {Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence, {IJCAI} 2015, Buenos Aires, Argentina, July 25-31, 2015},
+	editor = {Qiang Yang and Michael J. Wooldridge},
+	pages = {239--245},
+	publisher = {{AAAI} Press},
+	timestamp = {Tue, 20 Aug 2019 16:16:44 +0200},
+	title = {Improving the Effectiveness of SAT-Based Preprocessing for MaxSAT},
+	url = {http://ijcai.org/Abstract/15/040},
+	year = {2015},
+	bdsk-url-1 = {http://ijcai.org/Abstract/15/040}}
 
 @inproceedings{DBLP:conf/aaai/BunteJBMPK14,
-  author       = {Kerstin Bunte and
-                  Matti J{\"{a}}rvisalo and
-                  Jeremias Berg and
-                  Petri Myllym{\"{a}}ki and
-                  Jaakko Peltonen and
-                  Samuel Kaski},
-  editor       = {Carla E. Brodley and
-                  Peter Stone},
-  title        = {Optimal Neighborhood Preserving Visualization by Maximum Satisfiability},
-  booktitle    = {Proceedings of the Twenty-Eighth {AAAI} Conference on Artificial Intelligence,
-                  July 27 -31, 2014, Qu{\'{e}}bec City, Qu{\'{e}}bec, Canada},
-  pages        = {1694--1700},
-  publisher    = {{AAAI} Press},
-  year         = {2014},
-  url          = {https://doi.org/10.1609/aaai.v28i1.8974},
-  doi          = {10.1609/AAAI.V28I1.8974},
-  timestamp    = {Mon, 04 Sep 2023 16:50:23 +0200},
-  biburl       = {https://dblp.org/rec/conf/aaai/BunteJBMPK14.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Kerstin Bunte and Matti J{\"{a}}rvisalo and Jeremias Berg and Petri Myllym{\"{a}}ki and Jaakko Peltonen and Samuel Kaski},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/aaai/BunteJBMPK14.bib},
+	booktitle = {Proceedings of the Twenty-Eighth {AAAI} Conference on Artificial Intelligence, July 27 -31, 2014, Qu{\'{e}}bec City, Qu{\'{e}}bec, Canada},
+	doi = {10.1609/AAAI.V28I1.8974},
+	editor = {Carla E. Brodley and Peter Stone},
+	pages = {1694--1700},
+	publisher = {{AAAI} Press},
+	timestamp = {Mon, 04 Sep 2023 16:50:23 +0200},
+	title = {Optimal Neighborhood Preserving Visualization by Maximum Satisfiability},
+	url = {https://doi.org/10.1609/aaai.v28i1.8974},
+	year = {2014},
+	bdsk-url-1 = {https://doi.org/10.1609/aaai.v28i1.8974}}
 
 @inproceedings{DBLP:conf/aistats/BergJM14,
-  author       = {Jeremias Berg and
-                  Matti J{\"{a}}rvisalo and
-                  Brandon M. Malone},
-  title        = {Learning Optimal Bounded Treewidth Bayesian Networks via Maximum Satisfiability},
-  booktitle    = {Proceedings of the Seventeenth International Conference on Artificial
-                  Intelligence and Statistics, {AISTATS} 2014, Reykjavik, Iceland, April
-                  22-25, 2014},
-  series       = {{JMLR} Workshop and Conference Proceedings},
-  volume       = {33},
-  pages        = {86--95},
-  publisher    = {JMLR.org},
-  year         = {2014},
-  url          = {http://proceedings.mlr.press/v33/berg14.html},
-  timestamp    = {Wed, 29 May 2019 08:41:44 +0200},
-  biburl       = {https://dblp.org/rec/conf/aistats/BergJM14.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Jeremias Berg and Matti J{\"{a}}rvisalo and Brandon M. Malone},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/aistats/BergJM14.bib},
+	booktitle = {Proceedings of the Seventeenth International Conference on Artificial Intelligence and Statistics, {AISTATS} 2014, Reykjavik, Iceland, April 22-25, 2014},
+	pages = {86--95},
+	publisher = {JMLR.org},
+	series = {{JMLR} Workshop and Conference Proceedings},
+	timestamp = {Wed, 29 May 2019 08:41:44 +0200},
+	title = {Learning Optimal Bounded Treewidth Bayesian Networks via Maximum Satisfiability},
+	url = {http://proceedings.mlr.press/v33/berg14.html},
+	volume = {33},
+	year = {2014},
+	bdsk-url-1 = {http://proceedings.mlr.press/v33/berg14.html}}
 
 @inproceedings{DBLP:conf/ictai/BergJ14,
-  author       = {Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  title        = {SAT-Based Approaches to Treewidth Computation: An Evaluation},
-  booktitle    = {26th {IEEE} International Conference on Tools with Artificial Intelligence,
-                  {ICTAI} 2014, Limassol, Cyprus, November 10-12, 2014},
-  pages        = {328--335},
-  publisher    = {{IEEE} Computer Society},
-  year         = {2014},
-  url          = {https://doi.org/10.1109/ICTAI.2014.57},
-  doi          = {10.1109/ICTAI.2014.57},
-  timestamp    = {Fri, 24 Mar 2023 00:04:32 +0100},
-  biburl       = {https://dblp.org/rec/conf/ictai/BergJ14.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
+	author = {Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/ictai/BergJ14.bib},
+	booktitle = {26th {IEEE} International Conference on Tools with Artificial Intelligence, {ICTAI} 2014, Limassol, Cyprus, November 10-12, 2014},
+	doi = {10.1109/ICTAI.2014.57},
+	pages = {328--335},
+	publisher = {{IEEE} Computer Society},
+	timestamp = {Fri, 24 Mar 2023 00:04:32 +0100},
+	title = {SAT-Based Approaches to Treewidth Computation: An Evaluation},
+	url = {https://doi.org/10.1109/ICTAI.2014.57},
+	year = {2014},
+	bdsk-url-1 = {https://doi.org/10.1109/ICTAI.2014.57}}
 
 @inproceedings{DBLP:conf/icdm/BergJ13,
-  author       = {Jeremias Berg and
-                  Matti J{\"{a}}rvisalo},
-  editor       = {Wei Ding and
-                  Takashi Washio and
-                  Hui Xiong and
-                  George Karypis and
-                  Bhavani Thuraisingham and
-                  Diane J. Cook and
-                  Xindong Wu},
-  title        = {Optimal Correlation Clustering via MaxSAT},
-  booktitle    = {13th {IEEE} International Conference on Data Mining Workshops, {ICDM}
-                  Workshops, TX, USA, December 7-10, 2013},
-  pages        = {750--757},
-  publisher    = {{IEEE} Computer Society},
-  year         = {2013},
-  url          = {https://doi.org/10.1109/ICDMW.2013.99},
-  doi          = {10.1109/ICDMW.2013.99},
-  timestamp    = {Fri, 24 Mar 2023 00:01:14 +0100},
-  biburl       = {https://dblp.org/rec/conf/icdm/BergJ13.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-	bibtex_show={true}
-}
-
-
+	author = {Jeremias Berg and Matti J{\"{a}}rvisalo},
+	bibsource = {dblp computer science bibliography, https://dblp.org},
+	bibtex_show = {true},
+	biburl = {https://dblp.org/rec/conf/icdm/BergJ13.bib},
+	booktitle = {13th {IEEE} International Conference on Data Mining Workshops, {ICDM} Workshops, TX, USA, December 7-10, 2013},
+	doi = {10.1109/ICDMW.2013.99},
+	editor = {Wei Ding and Takashi Washio and Hui Xiong and George Karypis and Bhavani Thuraisingham and Diane J. Cook and Xindong Wu},
+	pages = {750--757},
+	publisher = {{IEEE} Computer Society},
+	timestamp = {Fri, 24 Mar 2023 00:01:14 +0100},
+	title = {Optimal Correlation Clustering via MaxSAT},
+	url = {https://doi.org/10.1109/ICDMW.2013.99},
+	year = {2013},
+	bdsk-url-1 = {https://doi.org/10.1109/ICDMW.2013.99}}

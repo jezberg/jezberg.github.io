@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper Accepted in JAIR
-date: 2024-05-12 10:25:00
+date: 2024-06-04 10:25:00
 description: The Journal of Artificial Intelligence Research
 tags: research papers
 categories: research

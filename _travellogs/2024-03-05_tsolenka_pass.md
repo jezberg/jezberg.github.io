@@ -2,7 +2,7 @@
 layout: post
 title: A Sword of Light will Kill Vampires
 date: 2024-03-05
-summary: The party prepares for their longest journey yet.
+summary: The party arrives at Tsolenka Pass, finds a sword of sunlight and gets ambushed,
 giscus_comments: true
 ---
 

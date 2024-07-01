@@ -16,6 +16,7 @@ nav_order: 4
 
 # Research Grants
 
+- Research Council of Finland, [Academy Research Fellowship](https://www.aka.fi/en/research-funding/apply-for-funding/calls-for-applications/apply-now2/academy-research-fellow-2024/), _Cracking the Crux of Combinatorial Optimization_ September 1 2024 - August 31 2024, 860 000€
 - Research Council of Finland, postdoctoral researcher grant. _Next-Generation Trustworthy Constraint Optimisation_, September 1 2021 - August 31 2024, 250 000€
 - Sallaried four-year position at the Doctoral School of Computer Science of the University of Helsinki,  
   160 000€

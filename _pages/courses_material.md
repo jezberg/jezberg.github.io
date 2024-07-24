@@ -12,16 +12,16 @@ nav_order: 6
 Currently I have completed 20 ECTS credits in university pedagogy at the University of Helsinki, which means the following courses:
 
 - [YP 1](/assets/pdf/certificates/yp1.pdf) Oppiminen Yliopistossa (Learning in the University), 12 hrs,
-- [YP 2.1](/assets/pdf/certificates/yp21.pdf) Konstruktivt samordnad undervisning (Constructive Allignment of Teaching), 17 hrs,
+- [YP 2.1](/assets/pdf/certificates/yp21.pdf) Konstruktivt samordnad undervisning (Constructive Alignment of Teaching), 17 hrs,
 - [YP 2.2](/assets/pdf/certificates/yp22.pdf) Assessment of Learning and Giving Feedback, 17 hrs,
-- [YP 3.1](/assets/pdf/certificates/yp3.pdf) Ohjaaminen Yliopistossa (Superising in the University), 17 hrs.
+- [YP 3.1](/assets/pdf/certificates/yp3.pdf) Ohjaaminen Yliopistossa (Supervising in the University), 17 hrs.
 
 ## Primary Teacher & Course Material
 
 - A 4 ECTS credit project course on algorithms and AI at the University of Helsinki, 2023-.
   - The course is instantiated each semester, each instantiation attended by 30-40 students.
   - **Course Material** that I have produced for the course can be found at [https://algolabra-hy.github.io/](https://algolabra-hy.github.io/).
-- A 5 ECTS course on discrete mathematiccs at the University of Helsinki, 2011.
+- A 5 ECTS course on discrete mathematics at the University of Helsinki, 2011.
 
 ## Supporting Teacher or Teaching Assistant
 

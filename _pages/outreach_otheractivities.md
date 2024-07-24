@@ -11,7 +11,7 @@ nav_order: 4
 
 ## Media Appearances
 
-[I was interviewed by the Finish Broadcasting Company on the Trustworthiness of AI]({% post_url 2024-01-26-interviewed %})
+I was interviewed by the Finish Broadcasting Company for a [podcast]({% post_url 2024-01-26-interviewed %}) on the Trustworthiness of AI.
 
 ## Meet a Researcher
 
@@ -53,6 +53,6 @@ and aims to encourage an interest in science in the children. Personally I have 
   IJCAI 2019-24 TACAS 2021, IJCAI-DEMOS 2020-21, POS 2020-21 and 2024, UAI 2024, and ECAI 2024.
 - I have been a reviewer for [Artificial Intelligence Journal](https://www.sciencedirect.com/journal/artificial-intelligence), [Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair), [Journal of Logic and Computation](https://academic.oup.com/logcom), [International Journal of Approximate Reasoning](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning), [Journal on Satisfiability, Boolean Modeling and Computation](https://jsatjournal.org/), and [Acta Informatica](https://link.springer.com/journal/236).
 
-## Competition Organizing
+## Competition Organization
 
 - SInce 2019 I have been one of the organizer of the annual [MaxSAT Evaluations](https://maxsat-evaluations.github.io/), the de-facto international event for evaluating the performance of state-of-the-art MaxSAT solvers.

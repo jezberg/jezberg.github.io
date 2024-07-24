@@ -10,35 +10,61 @@
 @string{aps = {American Physical Society,}}
 
 
-@article{to-appear-JAIR2024-A,
+@article{JAIR2024-A,
 	author = {Hannes Ihalainen and Jeremias Berg and Matti J{\"{a}}rvisalo},
+	abstract = {Maximum satisfiability (MaxSAT), employing propositional logic as the declarative language of choice, has turned into a viable approach to solving NP-hard optimization problems arising from artificial intelligence and other real-world settings. A key contributing factor to the success of MaxSAT is the rise of increasingly effective exact solvers that are based on iterative calls to a Boolean satisfiability (SAT) solver. The three types of SAT-based MaxSAT solving approaches, each with its distinguishing features, implemented in current state-of-the-art MaxSAT solvers are the core-guided, the implicit hitting set (IHS), and the objective-bounding approaches. The objective-bounding approach is based on directly searching over the objective function range by iteratively querying a SAT solver if the MaxSAT instance at hand has a solution under different bounds on the objective. In contrast, both core-guided and IHS are so-called unsatisfiability-based approaches that employ a SAT solver as an unsatisfiable core extractor to determine sources of inconsistencies, but critically differ in how the found unsatisfiable cores are made use of towards finding a provably optimal solution. Furthermore, a variety of different algorithmic variants of the core-guided approach in particular have been proposed and implemented in solvers. It is well-acknowledged that each of the three approaches has its advantages and disadvantages, which is also witnessed by instance and problem-domain specific runtime performance differences (and at times similarities) of MaxSAT solvers implementing variants of the approaches. However, the questions of to what extent the approaches are fundamentally different and how the benefits of the individual methods could be combined in a single algorithmic approach are currently not fully understood. In this work, we approach these questions by developing UniMaxSAT, a general unifying algorithmic framework. Based on the recent notion of abstract cores, UniMaxSAT captures in general core-guided, IHS and objective-bounding computations. The framework offers a unified way of establishing quite generally the correctness of the current approaches. We illustrate this by formally showing that UniMaxSAT can simulate the computations of various algorithmic instantiations of the three types of MaxSAT solving approaches. Furthermore, UniMaxSAT can be instantiated in novel ways giving rise to new algorithmic variants of the approaches. We illustrate this aspect by developing a prototype implementation of an algorithmic variant for MaxSAT based on the framework.},
 	date-added = {2024-06-04 09:09:44 +0300},
 	date-modified = {2024-06-04 09:14:12 +0300},
+	pdf		=	{https://www.jair.org/index.php/jair/article/view/15986/27058},
 	journal = {Journal of Artificial Intelligence Research},
 	title = {Unifying SAT-Based Approaches to Maximum Satisfiability Solving},
-	volume = {?? (to appear)},
+	volume = {80},
 	year = {2024}}
 
-@inproceedings{to-appear-IJCARI2024,
-	author = {Hannes Ihalainen and Andy Oertel and Yong Kiam Tan and Jeremias Berg and Matti J\"arvisalo and Magnus O. Myreen and Jakob Nordstr\"om},
-	booktitle = {Proc~{IJCAR}},
-	date-added = {2024-05-23 15:16:46 +0200},
-	date-modified = {2024-05-23 15:20:16 +0200},
-	title = {Certified MaxSAT Preprocessing},
-	volume = {??? (to appear)},
-	year = {2024}}
+@inproceedings{DBLP:conf/ijcar/IhalainenOTBJMN24,
+  abstract 	   = {Building on the progress in Boolean satisfiability (SAT) solving over the last decades, maximum satisfiability (MaxSAT) has become a viable approach for solving NP-hard optimization problems. However, ensuring correctness of MaxSAT solvers has remained a considerable concern. For SAT, this is largely a solved problem thanks to the use of proof logging, meaning that solvers emit machine-verifiable proofs to certify correctness. However, for MaxSAT, proof logging solvers have started being developed only very recently. Moreover, these nascent efforts have only targeted the core solving process, ignoring the preprocessing phase where input problem instances can be substantially reformulated before being passed on to the solver proper. In this work, we demonstrate how pseudo-Boolean proof logging can be used to certify the correctness of a wide range of modern MaxSAT preprocessing techniques. By combining and extending the VeriPB and CakePB tools, we provide formally verified end-to-end proof checking that the input and preprocessed output MaxSAT problem instances have the same optimal value. An extensive evaluation on applied MaxSAT benchmarks shows that our approach is feasible in practice.},
+  author       = {Hannes Ihalainen and Andy Oertel and Yong Kiam Tan and Jeremias Berg and Matti J{\"{a}}rvisalo and Magnus O. Myreen and Jakob Nordstr{\"{o}}m},
+  editor       = {Christoph Benzm{\"{u}}ller and Marijn J. H. Heule and Renate A. Schmidt},
+  title        = {Certified MaxSAT Preprocessing},
+  booktitle    = {Automated Reasoning - 12th International Joint Conference, {IJCAR}
+                  2024, Nancy, France, July 3-6, 2024, Proceedings, Part {I}},
+  code 		   = {https://zenodo.org/records/10630852},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {14739},
+  pages        = {396--418},
+  publisher    = {Springer},
+  year         = {2024},
+  url          = {https://doi.org/10.1007/978-3-031-63498-7\_24},
+  pdf 		   = {https://www.cs.helsinki.fi/u/jezberg/papers/IJCAR2024_Ihalainen_Ortell_Tan_Berg_Jarvisalo_Myreen_Nordstrom.pdf},
+  doi          = {10.1007/978-3-031-63498-7\_24},
+  timestamp    = {Sat, 20 Jul 2024 10:59:46 +0200},
+  biburl       = {https://dblp.org/rec/conf/ijcar/IhalainenOTBJMN24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 
-@inproceedings{to-appear-CPARIO2024,
-	abstract = {  Maximum satisfiability (MaxSAT) constitutes today a successful approach to solving various real-world optimization problems through propositional encodings. Building on this success,  approaches have recently been proposed for finding Pareto-optimal solutions to multi-objective MaxSAT (MO-MaxSAT) instances, i.e., propositional encodings under multiple objective functions. In this work, we propose \emph{core boosting} as a reformulation/preprocessing technique for improving  the runtime performance of MO-MaxSAT solvers. Core boosting in the multi-objective setting allows for shrinking the ranges of the multiple objectives at hand, which can be particularly beneficial for MO-MaxSAT relying on search that requires enforcing increasingly tighter objective bounds through propositional encodings. We show that core boosting is effective in improving the runtime performance of SAT-based MO-MaxSAT solvers typically with  little overhead.},
-	author = {Christoph Jabs and Jeremias Berg and Matti J{\"{a}}rvisalo},
-	booktitle = {Proc~{CPAIOR}},
-	code = {https://bitbucket.org/coreo-group/scuttle/src/main/},
-	date-added = {2024-05-23 15:14:54 +0200},
-	date-modified = {2024-05-23 15:16:36 +0200},
-	pdf = {https://www.cs.helsinki.fi/u/jezberg/papers/CPAIOR2024-Jabs-Berg-Jarvisalo.pdf},
-	title = {Core Boosting in SAT-Based Multi-Objective Optimization},
-	volume = {??? (to appear)},
-	year = {2024}}
+@inproceedings{DBLP:conf/cpaior/JabsBJ24,
+  abstract = {  Maximum satisfiability (MaxSAT) constitutes today a successful approach to solving various real-world optimization problems through propositional encodings. Building on this success,  approaches have recently been proposed for finding Pareto-optimal solutions to multi-objective MaxSAT (MO-MaxSAT) instances, i.e., propositional encodings under multiple objective functions. In this work, we propose \emph{core boosting} as a reformulation/preprocessing technique for improving  the runtime performance of MO-MaxSAT solvers. Core boosting in the multi-objective setting allows for shrinking the ranges of the multiple objectives at hand, which can be particularly beneficial for MO-MaxSAT relying on search that requires enforcing increasingly tighter objective bounds through propositional encodings. We show that core boosting is effective in improving the runtime performance of SAT-based MO-MaxSAT solvers typically with  little overhead.},
+  author       = {Christoph Jabs and
+                  Jeremias Berg and
+                  Matti J{\"{a}}rvisalo},
+  editor       = {Bistra Dilkina},
+  title        = {Core Boosting in SAT-Based Multi-objective Optimization},
+  booktitle    = {Integration of Constraint Programming, Artificial Intelligence, and
+                  Operations Research - 21st International Conference, {CPAIOR} 2024,
+                  Uppsala, Sweden, May 28-31, 2024, Proceedings, Part {II}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {14743},
+  pages        = {1--19},
+  publisher    = {Springer},
+  year         = {2024},
+  url          = {https://doi.org/10.1007/978-3-031-60599-4\_1},
+  doi          = {10.1007/978-3-031-60599-4\_1},
+  timestamp    = {Thu, 04 Jul 2024 22:05:27 +0200},
+  biburl       = {https://dblp.org/rec/conf/cpaior/JabsBJ24.bib},
+  code = {https://bitbucket.org/coreo-group/scuttle/src/main/},
+  pdf = {https://www.cs.helsinki.fi/u/jezberg/papers/CPAIOR2024-Jabs-Berg-Jarvisalo.pdf},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 
 @inproceedings{DBLP:conf/cp/JabsBIJ23,
 	abstract = {Building on Boolean satisfiability (SAT) and maximum satisfiability (MaxSAT) solving algorithms, several approaches to computing Pareto-optimal MaxSAT solutions under multiple objectives have been recently proposed. However, preprocessing in (Max)SAT-based multi-objective optimization remains so-far unexplored. Generalizing clause redundancy to the multi-objective setting, we establish provably-correct liftings of MaxSAT preprocessing techniques for multi-objective MaxSAT in terms of computing Pareto-optimal solutions. We also establish preservation of Pareto-MCSes - the multi-objective lifting of minimal correction sets tightly connected to optimal MaxSAT solutions - as a distinguishing feature between different redundancy notions in the multi-objective setting. Furthermore, we provide a first empirical evaluation of the effect of preprocessing on instance sizes and multi-objective MaxSAT solvers.},

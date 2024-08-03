@@ -19,7 +19,7 @@ category: free-time
     Six Minutes Before the addition of our last member. Photos by Hannele Salonen-Kvarnström and Juha Forsberg.
 </div>
 
-On my free time I like to play the guitar. For a few years "naughties", I played in a band called Six Minutes. 
+On my free time I like to play the guitar. For a few years "naughties", I played in a band called Six Minutes.
 We played fairly actively for a few years
 before life caught up with us. These days I mainly play with my spouse, which I enjoy tremendously.
 

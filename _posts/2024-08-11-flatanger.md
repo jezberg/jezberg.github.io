@@ -25,6 +25,4 @@ During the summer, I went on my first climbing trip. We took the ferry to Sweden
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/flatanger3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-    </div>
 </div>

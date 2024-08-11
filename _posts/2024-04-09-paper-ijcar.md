@@ -12,8 +12,6 @@ thumbnail: assets/img/maxpre-proofs.jpg
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/maxpre-proofs.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-    </div>
 </div>
 
 I am happy to report that our paper _Certified MaxSAT Preprocessing_ has been accepted for publication in the International Joint Conference on Automated Reasoning. In the paper we present an approach to _proof log_ most of the reasoning techniques commonly used when solving instances

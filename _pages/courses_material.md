@@ -35,7 +35,7 @@ Currently I have completed 20 ECTS credits in university pedagogy at the Univers
   - Introduction to Logic (10 ECTS credits),
   - Measure Theory (6 ECTS credits),
   - Boolean Modelling and Computation (5 ECTS credits),
-  - Real Analysis (M.Sc course in multivariate) (6 ECTS credits).
+  - Real Analysis (M.Sc course in calculus) (6 ECTS credits).
 
 ## Other Teaching
 

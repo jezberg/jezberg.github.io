@@ -8,7 +8,7 @@ categories: free time
 thumbnail: assets/img/flatanger1.jpg
 ---
 
-The summer holidays are over in Finland, and I am getting back to work. Over the following weeks, I will be traveling quite a lot. Tomorrow, I am going to Brusells to visit Prof. Bart Bogaerts, and the week after that, I'll be in India for the [SAT 2024](https://satisfiability.org/SAT24/). Finally, in the first week of September, I'll go to Girona for [CP 24](https://cp2024.a4cp.org/index.html). I am both excited and terrified about the upcoming weeks. I am excited to start my Academy Research Fellowship ({% link _posts/2024-06-17-funding.md %}), but terrified about how many hours I'll spend in an airplane.
+The summer holidays are over in Finland, and I am getting back to work. Over the following weeks, I will be traveling quite a lot. Tomorrow, I am going to Brusells to visit Prof. Bart Bogaerts, and the week after that, I'll be in India for the [SAT 2024](https://satisfiability.org/SAT24/). Finally, in the first week of September, I'll go to Girona for [CP 24](https://cp2024.a4cp.org/index.html). I am both excited and terrified about the upcoming weeks. I am excited to start my [Academy Research Fellowship]({% link _posts/2024-06-17-funding.md %}), but terrified about how many hours I'll spend in an airplane.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

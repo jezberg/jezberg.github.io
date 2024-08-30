@@ -37,7 +37,7 @@ I have played in a number of one-shots (short, one evening adventures) and two l
 </div>
 
 In "Rime of the Frostmaiden" I played Meen'Alith. She was a half-orc Barbarian who was discovering herself in the world and had some trouble
-understanding that not all end justify the means. Unfortunately, she lost her life in battle against followers of Aurill.
+understanding that not all ends justify the means. Unfortunately, she lost her life in battle against followers of Auril.
 
 ## My Campaign - Curse of Strahd
 

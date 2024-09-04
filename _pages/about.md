@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-(As of 1.9.2024) I am a [Academy Research Fellow](https://www.aka.fi/en/research-funding/funding-opportunities-at-a-glance/funding-for-individual-researchers/) at the [Department of Computer Science](https://www.helsinki.fi/en/faculty-science/faculty/computer-science) of the [University of Helsinki](https://www.helsinki.fi/en) and a senior member of the [Constraint Reasoning and Optimization](https://www.helsinki.fi/en/researchgroups/constraint-reasoning-and-optimization) research group.
+I am a [Academy Research Fellow](https://www.aka.fi/en/research-funding/funding-opportunities-at-a-glance/funding-for-individual-researchers/) at the [Department of Computer Science](https://www.helsinki.fi/en/faculty-science/faculty/computer-science) of the [University of Helsinki](https://www.helsinki.fi/en) and a senior member of the [Constraint Reasoning and Optimization](https://www.helsinki.fi/en/researchgroups/constraint-reasoning-and-optimization) research group.
 
 My research focuses on declarative, constraint-based approaches and automated reasoning for solving optimization problems. It lies between theory and practice. I aim to develop the theory underlying constraint paradigms like Maximum Satisfiability, Pseudo-Boolean Optimization, and Constraint Programming and harness it to create practical and trustworthy tools for solving complex optimization problems.
 

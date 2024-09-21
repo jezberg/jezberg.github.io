@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Clearing Argynvostholt
+title: The Hatred of a Knight Will Kill you
 date: 2024-02-10
 summary: The party spends their second day in Argynvostholt, kills Vladimir and meets Godfrey.
 giscus_comments: true

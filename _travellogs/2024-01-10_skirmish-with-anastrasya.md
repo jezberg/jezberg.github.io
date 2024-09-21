@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skirmish with Anastrasya
+title: A Scorned Anastrasya Will Kill You
 date: 2024-01-10
 summary: The party fights Anastrasya in the church in order to save Ireena
 giscus_comments: true

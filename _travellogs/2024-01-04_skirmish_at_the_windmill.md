@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skirmish at the Windmill
+title: Hags Will Kill You
 date: 2024-01-04
 summary: With some genders changed, the party discovers the secrets of the pies.
 giscus_comments: true

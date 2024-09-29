@@ -1,0 +1,19 @@
+---
+layout: post
+title: Baba Lysaga or Your Friends Will Kill You
+date: 2024-03-07
+summary: The party explores Berez
+giscus_comments: true
+---
+
+The lost travelers got up bright and early high up on the mountains to slay the Roc of Mount Ghakis on the behest of one of the revenants residing in Argynvostholt. Thanks to good planning, they managed to get the jump on the gargantuan bird and its newly hatched babies. After a short struggle and a 150-foot drop, the bird lay dead in its nest, with the party barely hurt, except for Bart, who inexplicably was lying on the ground unconscious. Baba Lysaga, the genuinely last hag of Barovia, contacted Bart via a spell to invite the lost travelers to Berez. Before leaving, the party still looked through the Roc's nest and found a fairly nice staff of power for Bart.
+
+As the day was young, the party started returning toward Tsolenka Pass. The way down was straightforward. Back at Ludmilla laboratory, Bart and Marillion put their--somewhat--clever heads together, aiming to figure out the teleportation device. Cinna had told them that the skull of Argynvost was stored in the hall of bones at Ravenloft, so the party aimed at ambushing the castle from within using the teleportation device. They managed to enter Ravenloft and even go unnoticed to the hall of bones. Opening the doors, Cinna was reminded of Madam Eva's fortune-telling when she came face to face with Strahd, the vampire she had up until recently called---dad. Strahd seemed surprised to see them; while he still avoided open aggressions, he put a charm on Marillion.
+
+Escaping the castle with a significantly shaken Cinna and taking a detour via the amber temple, the travelers decided to continue their way to Berez. While no one trusted Baba Lysaga, even the slightest opportunity for more allies was too good to pass up. Unfortunately, Baba was not aiming to form new allies but rather eliminate potential threats to Strahd. Unfortunately for her, the lost travelers are a credible threat to even Strahd, much less Baba and her walking trees. With the dust settling, the party secured good gear to help in their fight against Strahd. They also learned about the history of Berez, how Strahd had forced the burgomaster and priest of the down to spend an eternity watching their town die as punishment for--rescuing--Mareena, a forme incantation of Tatyana, from Strahd.
+
+After securing the area and killing the ghastly remains of the priest and the burgomaster, the party settled for a short break in the monastery. Their slight solace of peace was cut short by Marillion stabbing Cinna in the stomach, making the poor girl go unconscious before realizing his actions and quickly healing her. Strahds' message was clear: Cinnas's independence was at his behest.
+
+Leaving Berez, the next stop in this hectic morning was to visit Argynvostholt. Marillion and Xuza felt an unease they had not felt on the previous visit. The rest of the travelers instead felt a sense of calm. There were no revenants to be found, and the whole house seemed to be at peace. The party managed to enter the mausoleum and return Argynvostholts skull to its resting space. They watched the spirit of Argynvost soar up to the beacon and light it, bringing a sense of hope to those inhabitants of Barovia who don't have ties with the amber temple.
+
+From Argynvostholt, the party travels to "Cinnas" tower. There, amid preparations, they meet Ezmeralda and Rictavio. The duo seems excited to see the party, asking whether they plan to attack Strahd during the wedding. Their excitement is soon diminished by the realization that the party has no such plan; instead, they plan to "wing it." Realizing the weakness of such a plan, the party spends most of the rest of the day discussing possibilities and plans over a cup of tea.

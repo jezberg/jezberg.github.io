@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amber Temple will kill you
+title: Amber Temple Will Kill You
 date: 2024-03-06
 summary: The party explores the Amber Temple.
 giscus_comments: true
@@ -18,4 +18,4 @@ While studying the multitude of texts kept in the temple library, learning about
 
 After a moment's rest, the party discussed what to do. Xuza was especially adamant about not letting Marillion make contact with Zantras lest the party incur the wrath of Shami-Amourae, the dark power that had been in contact with Xuza during the whole trip. As a compromise, the party first decided to seek an audience with Shami. The discussion went as well as Xuza could hope. Shami agreed to stand down and allow Marillion to speak with Zantras if no alliance would be formed. Unfortunately, Zantras proved too crafty for Marillion, and the rest of the party watched Zantra's dark power flow into Marillion and empower him. As a consequence, a furious Shami ensured an ultimatum to Xuza. Xuza would either need to stop Marillion from leaving Barovia, or be prevented from leaving himself. On their way out, the party realized that the temple had gotten the best of the teens they had met earlier. One had turned into a spider and killed the others. The party put the transformed teen out of their misery and gave the rest a proper burial.
 
-Exiting the temple, the party realized they were exhausted, but it was still fairly early in the day. With tensions running high, the party decided to delay the challenging conversations and instead hunt the Roc on the top of the mountain. The rest of the day was spent climbing as high up as possible and preparing for the next day.
+Exiting the temple, the party realized they were exhausted, but it was still fairly early in the day. With tensions running high, the party decided to delay the challenging conversations and instead hunt the Roc on the top of the mountain. The rest of the day was spent climbing as high up as possible, avoiding yeti attacks, and preparing for the next day.

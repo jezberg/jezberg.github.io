@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Too Much Pie will Kill You
+title: Too Much Pie Will Kill You
 date: 2024-01-02
 summary: The party spends a day in the town of Barovia, eating pies and sleeping well
 giscus_comments: true

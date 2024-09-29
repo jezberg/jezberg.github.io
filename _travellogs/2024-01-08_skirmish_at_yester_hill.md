@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skirmish at Yester Hill
+title: Blood Druids at Yester Hill Will Kill You
 date: 2024-01-08
 summary: The party leaves the Vineyard, stops a druidic ritual at Yester Hill, and returns to the Vineyard
 giscus_comments: true

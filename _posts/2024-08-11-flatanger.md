@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Climbing trip to Flatanger
+title: Climbing Trip to Flatanger
 date: 2024-08-11 10:25:00
 description: and other upcoming trips
 tags: holiday climbing

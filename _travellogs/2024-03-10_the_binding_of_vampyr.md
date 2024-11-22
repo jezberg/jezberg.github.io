@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wedding Preparations
+title: The binding of Vampyr
 date: 2024-03-10
 summary: Strahd von Zarovich will Kill You
 giscus_comments: true

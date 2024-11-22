@@ -49,7 +49,7 @@ In addition to playing in a few campaigns I also enjoy DMing. My most significan
 - **Bartholomew**, the Vistani businessman whose livelihood was disturbed by Strahd cutting off the Vistani people from the outside world.
 
 The journey of the Lost Travellers began with a strange dream in which most of them seemed to get transported into a misty forrest and asked by a couple of children to clear out their monster-infested house that had its basement in the attic. A few days after that, the party members who did not know each other prior to the events
-were independently called into Barovia. Their adventure came to a close 30 days later after survning an ancient ritual designed ot capture a god.
+were independently called into Barovia. Their adventure came to a close 30 days later after surviving an ancient ritual designed ot capture a god.
 
 These are the tales of their adventures.
 

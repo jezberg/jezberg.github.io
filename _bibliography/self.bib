@@ -9,6 +9,30 @@
 
 @string{aps = {American Physical Society,}}
 
+@inproceedings{DBLP:conf/cp/Berg0NOPV24,
+  author       = {Jeremias Berg and
+                  Bart Bogaerts and
+                  Jakob Nordstr{\"{o}}m and
+                  Andy Oertel and
+                  Tobias Paxian and
+                  Dieter Vandesande},
+  abstract 	   = {  Proof logging has long been the established method to certify correctness of Boolean satisfiability (SAT) solvers, but has only recently been introduced for SAT-based optimization (MaxSAT). The focus of this paper is solution-improving search (SIS), in which a SAT solver is iteratively queried for increasingly better solutions until an optimal one is found. A challenging aspect of modern SIS solvers is that they make use of complex ``without loss of generality'' arguments that are quite involved to understand even at a human meta-level, let alone to express in a simple, machine-verifiable proof.
+
+  In this work, we develop pseudo-Boolean proof logging methods for solution-improving MaxSAT solving, and use them to produce acertifying version of the state-of-the-art solver pacose with veripb proofs.  Our experimental evaluation demonstrates that this approach works in practice.   We hope that this is yet another step towards general adoption of proof logging in MaxSAT solving.
+},
+  title        = {Certifying Without Loss of Generality Reasoning in Solution-Improving Maximum Satisfiability},
+  pdf 		   = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2024.4},
+  booktitle    = {{30th International Conference on Principles and Practice of Constraint
+                  Programming, {CP} 2024, September 2-6, 2024, Girona, Spain},},
+  series       = {LIPIcs},
+  code 		   = {https://zenodo.org/records/12591387},
+  volume       = {307},
+  pages        = {4:1--4:28},
+  publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+  year         = {2024}
+}
+
+
 @article{JAIR2024-B,
 	author = {Christoph Jabs and Jeremias Berg and Andreas Niskanen and Matti J{\"{a}}rvisalo},
 	abstract = {The declarative approach is key to efficiently finding optimal solutions to various types of NP-hard real-world combinatorial optimization problems. Most work on practical declarative solvers—ranging from classical integer programming to finite-domain constraint optimization and maximum satisfiability (MaxSAT)—has focused on optimization under a single objective; fewer advances have been made towards efficient declarative techniques for multi-objective optimization problems. Motivated by significant recent advances in practical solvers for MaxSAT, in this work we develop BiOptSat, an exact declarative approach for finding Pareto-optimal solutions to bi-objective optimization problems, with propositional logic as the underlying constraint language. BiOptSat can be viewed as an instantiation of the lexicographic method. The approach makes use of a single Boolean satisfiability solver that is incrementally employed throughout the entire search procedure, allowing for finding a single Pareto-optimal solution, finding one representative solution for each non-dominated point, and enumerating all Pareto-optimal solutions. We detail several algorithmic instantiations of BiOptSat, each building on recent algorithms proposed for single-objective MaxSAT. We empirically evaluate the instantiations compared to recently-proposed alternative approaches to multi-objective MaxSAT solving on several real-world domains from the literature, showing the practical benefits of our approach.},

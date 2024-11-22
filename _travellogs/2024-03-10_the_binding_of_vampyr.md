@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The binding of Vampyr
+title: Strahd von Zarovich will Kill You
 date: 2024-03-10
-summary: Strahd von Zarovich will Kill You
+summary: The party attempts to capture a deity
 giscus_comments: true
 ---
 

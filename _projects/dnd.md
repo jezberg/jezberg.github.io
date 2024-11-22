@@ -41,7 +41,7 @@ understanding that not all ends justify the means. Unfortunately, she lost her l
 
 ## My Campaign - Curse of Strahd
 
-In addition to playing in a few campaigns I also enjoy DMing. My most significant DMing achievement is a full campaign of Curse of Strahd which ran from February 2022 to November 2024 and centered around five adventurers: 
+In addition to playing in a few campaigns I also enjoy DMing. My most significant DMing achievement is a full campaign of Curse of Strahd which ran from February 2022 to November 2024 and centered around five adventurers:
 
 - **Darren**, the human fighter who got tricked into Barovia with his squire Geoff. Darren, who initially had apparently been selected by Strahd to be the new ruler of the land and was challenged with maintaining his values as a knight and keeping Geoff safe in the despotic land of Barovia.
 - **Xuza** and **Marillion**, a drow and an asimar who appear to have been called into Barovia not by its ruler Strahd von Zarcovich, but perhaps by something more sinister.
@@ -49,10 +49,9 @@ In addition to playing in a few campaigns I also enjoy DMing. My most significan
 - **Bartholomew**, the Vistani businessman whose livelihood was disturbed by Strahd cutting off the Vistani people from the outside world.
 
 The journey of the Lost Travellers began with a strange dream in which most of them seemed to get transported into a misty forrest and asked by a couple of children to clear out their monster-infested house that had its basement in the attic. A few days after that, the party members who did not know each other prior to the events
-were independently called into Barovia. Their adventure came to a close 30 days later after survning an ancient ritual designed ot capture a god. 
+were independently called into Barovia. Their adventure came to a close 30 days later after survning an ancient ritual designed ot capture a god.
 
- These are the tales of their adventures.
-
+These are the tales of their adventures.
 
 ### The Lost Travel Logs
 

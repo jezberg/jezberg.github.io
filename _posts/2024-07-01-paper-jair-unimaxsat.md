@@ -16,7 +16,7 @@ thumbnail: assets/img/JAIR2024.png
     </div>
 </div>
 
-I am happy let you know that our paper _From Single-Objective to Bi-Objective Maximum Satisfiability Solving_ has been accepted for publication in the [Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair/article/view/15986), one of the most prestigious journals in my field. The paper is an extension of our [IJCAI](https://www.ijcai.org/proceedings/2023/215) paper from 2023.
+I am happy let you know that our paper _Unifying SAT-Based Approaches to Maximum Satisfiability Solving_ has been accepted for publication in the [Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair/article/view/15986), one of the most prestigious journals in my field. The paper is an extension of our [IJCAI](https://www.ijcai.org/proceedings/2023/215) paper from 2023.
 
 In the paper, we present UniMaxSAT, a framework for unifying many of the state-of-the-art algorithms for MaxSAT. The contribution is mostly theoretical in showing how most such algorithms can be described in the language of abstract cores, allowing for generic proofs of correctness. We also show how the framework can be used for proving the correctness of entirely new algorithms.
 

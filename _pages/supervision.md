@@ -14,8 +14,7 @@ I am currently supervising two PhD students:
 - [Christoph Jabs](https://christophjabs.info/) who is doing his PhD on declarative approaches to multi-objective optimization
   problems.
 - Hannes Ihalainen who is doing his PhD on declarative approaches to single-objective optimization.
-- Antton Kasslin who is doing his PhD on optimization modulo theories. 
-
+- Antton Kasslin who is doing his PhD on optimization modulo theories.
 
 <hr>
 

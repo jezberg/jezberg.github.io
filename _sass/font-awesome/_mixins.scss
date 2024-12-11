@@ -51,40 +51,22 @@
   @extend .fa-solid;
 
   &::before {
-<<<<<<< HEAD
-    content: unquote('"#{ $fa-var }"');
-  }
-}
-
-=======
     content: unquote("\"#{ $fa-var }\"");
   }
 }
->>>>>>> upp_stream_base/master
 @mixin fa-icon-regular($fa-var) {
   @extend %fa-icon;
   @extend .fa-regular;
 
   &::before {
-<<<<<<< HEAD
-    content: unquote('"#{ $fa-var }"');
-  }
-}
-
-=======
     content: unquote("\"#{ $fa-var }\"");
   }
 }
->>>>>>> upp_stream_base/master
 @mixin fa-icon-brands($fa-var) {
   @extend %fa-icon;
   @extend .fa-brands;
 
   &::before {
-<<<<<<< HEAD
-    content: unquote('"#{ $fa-var }"');
-=======
     content: unquote("\"#{ $fa-var }\"");
->>>>>>> upp_stream_base/master
   }
 }

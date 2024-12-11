@@ -2,7 +2,7 @@
 layout: page
 title: Game Jamming
 description: at FGJ and GGJ
-img: assets/img/ggj1.jpg
+img: assets/img/ggj1.png
 importance: 3
 category: free-time
 ---
@@ -23,7 +23,7 @@ Here are some example gameplay videos from (the more visually impressive) games 
 </div>
 You can try Marco Polo online (in your browser) at [itch.io](https://classheikki.itch.io/marcopolo).
 
-## 2018 Laboritnth
+## 2018 Laborinth
 
 <div class="row">
     <iframe width="885" height="498" src="https://www.youtube.com/embed/_kq6DqMcSao" title="GGJ18 - &#39;Laborinth&#39; Gameplay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

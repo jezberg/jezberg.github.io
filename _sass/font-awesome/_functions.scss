@@ -51,11 +51,7 @@
     $remainder: $remainder - $divisor;
   }
   @if $remainder > 0 and $precision > 0 {
-<<<<<<< HEAD
-    $remainder: fa-divide($remainder * 10, $divisor, $precision - 1) * 0.1;
-=======
     $remainder: fa-divide($remainder * 10, $divisor, $precision - 1) * .1;
->>>>>>> upp_stream_base/master
   }
   @return ($quotient + $remainder) * $sign;
 }

@@ -132,11 +132,17 @@
   "projects": [
     {
       "name": "Next-Generation Combinatorial Optimization",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "summary": "Declarative methods for trustworthy optimiziation problems and AI",
+      "highlights": ["Anytime Optimization", "Abstract Cores", "Proof-Loggning"],
+      "startDate": "2021-09-01",
+      "endDate": "2024-08-31"
+    }
+    {
+      "name": "Cracking the Crux of Combinatorial Optimizisation",
+      "summary": "Extending the reach of formal reasoning beyond mathematical problems",
+      "highlights": ["PBO", "OMT", "Proof-Loggning"],
+      "startDate": "2024-09-01",
+      "endDate": "2028-08-31"
     }
   ]
 }

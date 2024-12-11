@@ -8,7 +8,7 @@ categories: publication
 thumbnail: https://menejatieda.fi/hallinta/wp-content/uploads/2024/09/luonnontiede-1.jpg
 ---
 
-At the beginning of the year, I was involved in launching [Mene ja Tiedä][https://menejatieda.fi/], a science journal
+At the beginning of the year, I was involved in launching [Mene ja Tiedä](https://menejatieda.fi/), a science journal
 aimed at high school students. The journal seeks to publish summaries of scientific papers written in Finnish and Swedish for high school students.
 The journal has now been launched, and I am proud to say that one of the first summaries published is [written by me](https://menejatieda.fi/sv/kan-vi-vara-sakra-pa-att-datorn-har-ratt/) (in Swedish). If you understand either Swedish or Finnish, I urge you to have a look.
 

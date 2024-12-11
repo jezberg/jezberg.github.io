@@ -136,7 +136,7 @@
       "highlights": ["Anytime Optimization", "Abstract Cores", "Proof-Loggning"],
       "startDate": "2021-09-01",
       "endDate": "2024-08-31"
-    }
+    },
     {
       "name": "Cracking the Crux of Combinatorial Optimizisation",
       "summary": "Extending the reach of formal reasoning beyond mathematical problems",

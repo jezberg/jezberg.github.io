@@ -14,4 +14,4 @@ Core-boosted search is a two stage search strategy that starts of in a core-guid
 
 In [2021](https://maxsat-evaluations.github.io/2021/rankings.html) Loandra with added preprocessing again did very well, taking first in the weighted 300s category and 4th in all others.
 
-Loandra is mainly developed by me, the source code can be found on [github](https://github.com/jezberg/loandra). Loandra owns much of its existence to the developers of [Open WBO](https://sat.inesc-id.pt/open-wbo/). I'd like to thank them for their hard work.
+Loandra is mainly developed by me, the source code can be found on [github](https://github.com/jezberg/loandra). Loandra owns much of its existence to the developers of Open WBO. I'd like to thank them for their hard work.

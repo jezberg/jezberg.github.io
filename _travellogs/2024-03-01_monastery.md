@@ -6,49 +6,25 @@ summary: The party travels from Argynvostholt to Krezk, meets the Abbot and spen
 giscus_comments: true
 ---
 
-The Lost travelers awoke in the morning to find that Bart had regained his wits, and was very keen on getting going to
-Krezk. While tearing down their camp, the party discussed the events of last night and--for a short while--entertained
-the possibility of trying to solve Damian's problems immediately by heading south instead. In the end, Barts desire
-to go to Krezk and the others desire to avoid the wintery conditions of the mountains prevailed, and the party headed back north.
+In the morning, the group briefly discussed the possibility of continuing south toward Tsolenka Pass and the Amber Temple to bring peace to Damian immediately. That plan is, however, abandoned, much due to Bart's desire to quickly get to Krezk and visit his home. Another argument against heading up the mountains is the need for cold-resistant clothing.
 
-Before leaving, Xuza had a heart-to-heart regarding the Amber temple and what the party might find there. Xuza warned
-Marillion from letting anything loose from there, mentioning what he had learned in Strahds diaries. Marillion seemed
-a bit confused by the suggestion, but promised not to.
+Before leaving the mansion, Xuza pulls Marillion aside and, for the first time, warns him against letting anything loose in there. Marillion is confused about this but agrees not to. Xuza also tells Marillion what he had learned from Strahd's diaries. For now, they decide not to let Cinna read the journal.
 
-An hour or so into their travels, the party was met by their old friend Ezmeralda heading the opposite way. She said she
-was headed to Argynvostholt in search of the same journal the party had just recovered. As there was something off
-in Esmeralda's behavior, the party decided not to divulge that they already had the journal. After bidding farewell, the
-travelers decided to follow her in order to find out what she was doing. Unfortunately, turning the cart around
-took long enough for Ezmerlada to have the opportunity to slip away.
+An hour or so into their travels, the party was met by their old friend Ezmeralda, who was heading the opposite way. She says she is headed to Argynvostholt for the same journal the party had just recovered. Since Ezmeralda was acting strangely, for example, not recognizing the group initially, Xuza and Marillion decided not to let her know that they had the book. The group's plan to sneakily follow Ezmeralda failed, and Cinna was unable to see her from the skies.
 
-The rest of the travel to Krezk was relatively uneventful. When there Bart insisted on going alone to his home camp in order to find out
-what was going on with his business. The rest of the party ventured into Krezk, with the aim of meeting up with Cinnas friend Illya and the abbot.
+The rest of the journey to Krezk is relatively uneventful. Arriving in the city, Bart insists on going alone to his camp to catch up on the news and prepare accommodation for the others. The rest of the travelers venture into the city to meet Cinna's friend Illya and the Abbot, who at least Xuza was eager to meet.
 
-Arriving at his camp, Bart was met by his sister Ana and his father Pyotr. Ana was (understandably) somewhat upset
-about it taking Bart several days to respond to her message in the middle of a crisis, but after some encouragement of a plan being in
-the making she calmed down. Bart learned that no Vistani people were currently able to leave or enter Barovia, which
-significantly threatened not only Barts own business, but the supply routes and survival of the whole land.
-Bart verified the situation by venturing out to the mists surrounding Barovia, for the first time during his lifetime he was unable to
-leave through them. As a consequence, Bart decided it would indeed be time to take Nikolaj up on his word and start "exploring" alternative
-forms of government to the lands. Luckily Bart knew of a few capable travelers that might be up for the task.
+At his camp, Bart is met by his sister Ana and his father Pyotr. Ana is (understandably) somewhat upset about it taking Bart several days to respond to her message during a crisis. Still, after some encouragement from Bart having a plan, she calms down. Bart learns that no Vistani people can leave or enter Barovia, which
+significantly threatens not only Bart's business but also the supply routes and survival of the whole land. Bart verifies the grim news by traveling to Barovia's border and testing the mists. For the first time in his lifetime, Bart cannot leave Barovia. Consequently, his resolve to join forces with Nikolaj to explore methods of removing Strahd from the throne strengthens.
 
-Un the mean time, the rest of the group had (with Cinnas help) been allowed entrance to Krezk. Unfortunately they were told that Illya (the Burgomasters daughter) was too ill to meet with them, so instead they ventured up to the abbey to meet the abbot.
-After the tiresome hike up the mountain, they were greeted by two mongrefolk and taken to meet with the abbot.
-The discussions with the abbot soon turned south with the party finding out that he was building a bride for Strahd
-from body parts of deceased townspeople. The party also met Vasilika, the bride to be, who was only missing a face.
-Learning that Cinnas face probably would not do, and that Strahd actually already had a bride, the
-abbot asked the party to leave. Being slightly unsettled by everything they learned, the party refused to go. Especially Xuza seemed
-upset that a supposed follower of Eilistraee would commit such acts. Getting increasingly aggravated, the abbot finally
-revealed his true form as a deva, at which point the situation was heading toward all out aggression.
+Meanwhile, the rest of the group explores Krezk after being let in by Cinna's friends at the gate. Unfortunately, they are told that Illya (the Burgomaster's daughter) is too ill to meet with them. Instead, the group ventures up to the abbey to meet the Abbot. After a tiresome hike up the mountain, the group is greeted by two mongrefolk who take them to see the Abbot. To their dismay, Xuza and Marillion soon realize that something is significantly wrong with the Abbot. They learn that he is building a bride for Strahd out of the body parts of deceased townspeople. The party also meets Vasilika, the bride-to-be, who only has a face missing. Learning that Cinnas's face probably would not do and that Strahd already had a bride, the shaken Abbot asks the party to leave. Being slightly unsettled by everything they learned, the party refused to go. Xuza especially seems upset that a supposed follower of Eilistraee would commit such acts. Getting increasingly aggravated, the Abbot finally
+reveals his proper form as a deva, which quickly escalates toward direct aggression. Full-out combat is, however, averted by Xuza suddenly disappearing, right before telling the others to flee.
+The rest of the party exits under tense but non-violent circumstances and is joined a minute later by a transparent Xuza rushing out
+from the room. Xuza tells them that he had been transported back into the plane of the dead, where he had a quick chat with his "patron."
+The party decides to leave the abbey for now.
 
-Full out combat was however averted by Xuza suddenly disappearing, right before telling the others to flee.
-The rest of the party exited under tense, but non-violent, circumstances and were joined a minute later by a transparent Xuza rushing out
-from the room. Xuza told them that he had been transported back into the plane of the dead, where he had a quick chat with his "patron".
-After this, the party decided to leave the abbey, for now...
+On their way back toward Bart Vistani's camp, Cinna made a new attempt at visiting Illya. Cinna found the girl gravely ill
+and very hungry. Worried and without clear answers, she promised to return the next day.
 
-On their way back toward Barts vistani camp, Cinna made a new attempt at visiting Illya. Cinna found the girl gravely ill
-and very hungry. Worried and lacking any clear answers she promised to come back the next day.
-
-The party spent the evening and night under the hospitality of Barts--or mostly Anas--camp. Wine was drunk (by some more than others)
-vague plans of rebellion were made (after some had passed out) before the party fell asleep under the stars and in the warmth
-of the Vistani campfire.
+The party spent the evening and night under the hospitality of Bart--or mostly Anas--camp. The wine was drunk (by some more than others)
+vague plans of rebellion were made (after some had passed out) and feelings were hurt before the party fell asleep under the stars and in the warmth of the Vistani campfire.

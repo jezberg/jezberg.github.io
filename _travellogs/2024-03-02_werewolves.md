@@ -6,37 +6,20 @@ summary: The party goes to meet up with werewolves, only to find someone they di
 giscus_comments: true
 ---
 
-The day started with a Vistani breakfast during which plans were made. Marillion looked a bit tired, like he had
-had some of his dreams again. Darren had expressed an interest in finding the
-the werewolves north of Krezk in order to learn more about his newfound power. Cinna on the other hand wanted to go back and have Xuza--the healer--take
-a look at Illya. To get a jump on the travel, the rest of the party started tracking north towards the supposed location of the werewolf den, while Cinna
-and Xuza went to Krezk to meet Illya.
+The day begins with breakfast at the Vistani camp. Marillion and Xuza seem more tired than usual, mostly because of nightmares.
 
-Unfortunately, Ilyas parents were still hesitant in letting in Cinna and Xuza, so they had to settle with looking at Illya through the
-window. Seeing the poor girl Xuza got worried that she might have had an--encounter--with a vampire. This seemed to upset Cinna to the point of her
-swearing venegance on Strahd himself. Seeing as there was very little they could do for Illya at the moment, Cinna turned into a giant eagle, and set
-of with Xuza on her back to find the others.
+After breakfast, Darren expresses a strong interest in finding the
+werewolf camp north of Krezk, as requested by the mysterious figure Darren had encountered in the forest north of Vallaki the night he got bitten. Cinna, on the other hand, wants to go back and have Xuza--whom she thinks is still a healer--take a look at Illya. The group agrees on a compromise in which Cinna and Xuza first visit Illya and then catch up to the rest of the group north of Krezk using Cinna's ability to shapeshift into a giant eagle.
 
-Shortly after Marillion had heard a familiar voice urging him not to venture further into the wilderness, the lost travelers on foot saw a familiar
-giant eagle approach them with a drow on her back. Before the party could regroup Cinna suddenly saw something and went into a dive toward a platform
-a bit higher up on the mountain. Hurrying after her, the lost travelers soon found that they had interrupted some kind of a ritual. The werewolves
-were apparently pitting children against each other in some kind of a fighting ring. Whats worse, they had also gotten a hold of Geoff who was waiting
-his turn.
+Unfortunately, Ilya's parents are still hesitant to let in Cinna and Xuza, so they settle with looking at Illya through the window. Seeing the poor girl, Xuza gets worried that she might have been bitten by a vampire. The potential of Strahd having anything to do with Illya's current condition upsets Cinna to the point of swearing vengeance on Strahd himself. Seeing as there is very little they can do for Illya at the moment, Cinna turns into a giant eagle and sets off with Xuza on her back to find the others.
 
-Aggressions soon broke out. When the dust settled, the travelers were successful in rescuing the three children and ridding the werewolf pack of its
-current leader Kiril and his mate Bianca. After some discussions with Zuleika, the mate of the supposedly deposed leader Emil (who Darren had met earlier)
-the party learned of the werewolves connection to mother night who grants them their power, the same power that Emil had granted Darren as well.
-While Darren had initially been on a path toward lycanthropy, he had since diverged from that path. Zuleika mentioned that Rictavio (or Van Richten) had also received
-the same power several years ago and urged Darren to meet him.
+Very quickly after once again entering the wilderness, Marillion hears a familiar voice urging him not to go further. Ignoring the request, Marillion, Bart, and Darren push further; fairly soon, they also notice a familiar giant eagle approaching with a drow on its back. Before the group can regroup, the eagle suddenly dives toward a platform slightly higher up from where her companions currently are. Hurrying after her, the lost travelers find themselves having interrupted an inaugural ritual in which two children were put to fight each other to death to be adopted into the werewolf pack. Even worse, the werewolves also have Geoff, who waits for his turn in a cage. Aggression quickly breaks out, and the travelers manage to rescue the three children and rid the werewolf pack of its
+current leader, Kiril, and his mate, Bianca. During some post-battle discussions with another werewolf, Zuleika, the mate of the supposedly deposed leader Emil (who Darren had met earlier), the party learns of the werewolf connection to Mother Night, who grants them their power, the same power that Emil had granted Darren as well. Zuleika also mentions that Rictavio (or Van Richten) also received the same power several years ago and urged Darren to meet him and continue his training.
 
-Trusting in Zuleikas competence and confidence, the party decided to leave before the members of the wolf pack they had not
-slaughtered would ocme back. On the track back Geoff apologized for disobeying Darrens orders and leaving the church in order to try to find the mage on his own. He also described being followed by a group of strange Barovian youth, during which he was given a strange spell book. Marillion in particular took an interest in the book and started studying it.
-Approaching Krezk Cinna decided to make one last trip to see Illya. This time, with the help of her mother, Cinna got into Illyas room and found out she is turning into
-a mongrefolk, supposedly due to some kind of influence from the abbot. This turned the anger that Cinna had directed at Strahd in the morning toward the abbot
-instead. Cinna declared she would kill the abbot the next day, but also realized she might need the help of the others to do so, so the lost travelers regrouped
-at Barts camp.
+Trusting in Zuleikas competence and confidence, the party decides to leave before the wolf pack members that they had not
+murdered come back. On the track back, Geoff apologizes for disobeying Darren's orders and leaving the church in order to try to find the mage on his own. He also describes being followed by a group of strange Barovian youth. During that adventure, Geoff encountered a peculiar spellbook that Marillion, in particular, is interested in.
 
-During the evening, Bart managed to convince Ana to take on one of the rescued children, the orphan Boris, into the camp. The other one had been returned
-to his family in Krezk. The party spent the evening in a wine induced soul searching argument over what to do next. While their loyalties to each other remain strong,
-their views on whether killing the abbot, or even Strahd, is a good course of action differ strongly. After an intensive discussion, resulting in some hurt feelings
-the party laid down for the night. SOmewhat surprisingly, the discussion in Xuzas and Marillions tent seemed to go on a bit longer than the others.
+Approaching Krezk, Cinna decides to make one last trip to see Illya. This time, with the help of Illya's mother, Cinna got into Illyas room and found her turning into
+a mongrefolk, supposedly due to some kind of influence from the abbot. This turned Cinnas's earlier anger toward Strahd toward the abbot instead. Cinna declares she will kill the abbot the next day but also realizes she might need the help of the others to do so, so the lost travelers regroup at Bart's camp. During the evening, Bart convinces Ana to take on one of the rescued children, the orphan Boris, into the camp. The other one had been returned
+to his family in Krezk. The party spent the evening in a wine-induced, soul-searching argument over what to do next. While their loyalties to each other remain strong, their views on whether killing the abbot or even Strahd, is a good course of action differ strongly. After an intensive discussion, resulting in some hurt feelings
+the party laid down for the night. Surprisingly, the debate in the tents of Xuzas and Marillions went on longer than the others.

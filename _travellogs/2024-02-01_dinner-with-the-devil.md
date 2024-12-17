@@ -2,7 +2,7 @@
 layout: post
 title: Dinner With the Devil
 date: 2024-02-01
-summary: The party has dinner with Strahd von Zarcovich
+summary: The party has dinner with Strahd von Zarovich
 giscus_comments: true
 ---
 

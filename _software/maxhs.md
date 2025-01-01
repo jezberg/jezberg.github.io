@@ -15,4 +15,4 @@ for MaxSAT with abstract cores. Abstract cores which can be seen as a hybridizat
 We show how adding abstract cores into the MaxSAT solver [MaxHS](https://maxsat-evaluations.github.io/2020/mse20-solver-src/complete/MaxHS.zip)
 significantly improves its performance. The solver took top positions in the 2020 and 2021 [MaxSAT Evaluations](https://maxsat-evaluations.github.io/). More recently, we have shown how abstract cores can be used as a basis for a framework that unifies most of the existing SAT-based MaxSAT algorithms.
 
-MaxHS is available [on the MaxSAT Evaluaitons webpage]https://maxsat-evaluations.github.io/2020/mse20-solver-src/complete/MaxHS.zip).
+MaxHS is available [on the MaxSAT Evaluations webpage](https://maxsat-evaluations.github.io/2020/mse20-solver-src/complete/MaxHS.zip).

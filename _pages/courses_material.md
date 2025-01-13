@@ -18,10 +18,10 @@ Currently I have completed 20 ECTS credits in university pedagogy at the Univers
 
 ## Primary Teacher & Course Material
 
-- A 4 ECTS credit project course on algorithms and AI at the University of Helsinki, 2023-.
+- 2023 -> To Date. A 4 ECTS credit project course on algorithms and AI at the University of Helsinki.
   - The course is instantiated each semester, each instantiation attended by 30-40 students.
   - **Course Material** that I have produced for the course can be found at [https://algolabra-hy.github.io/](https://algolabra-hy.github.io/).
-- A 5 ECTS course on discrete mathematics at the University of Helsinki, 2011.
+- Spring 2021, A 5 ECTS course on discrete mathematics at the University of Helsinki.
 
 ## Supporting Teacher or Teaching Assistant
 

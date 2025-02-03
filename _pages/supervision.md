@@ -9,7 +9,7 @@ nav_order: 6
 
 ## PhD Students
 
-I am currently supervising two PhD students:
+I am currently supervising three PhD students:
 
 - [Christoph Jabs](https://christophjabs.info/) who is doing his PhD on declarative approaches to multi-objective optimization
   problems.

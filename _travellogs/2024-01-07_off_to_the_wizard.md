@@ -6,9 +6,9 @@ summary: The party clears the frog problem at the local Vineyard
 giscus_comments: true
 ---
 
-The day starts at the Blue Water Inn with another early morning encounter between Xuza and Rictavio. Rictavio once again prepared breakfast, consisting of an apple and a steak, and headed out, supposedly to eat it with Geoff. Xuza did not investigate; instead, he focused on his own cooking.
+The day started at the Blue Water Inn with another early morning encounter between Xuza and Rictavio. Rictavio once again prepared breakfast, consisting of an apple and a steak, and headed out, supposedly to eat it with Geoff. Xuza did not investigate; instead, he focused on his own cooking.
 
-After breakfast, the group sets off from Vallaki with the rising sun to make it all the way to Wizzard of Wines to rid them of their blight problem. To protect Geoff from Morganthas's wrath, he was left to stay with his father, Lucian, accompanied by Ireena and Freek.
+After breakfast, the group sets off from Vallaki with the rising sun to make it all the way to Wizzard of Wines to rid them of their blight problem. To protect Geoff from Morganthas's wrath, he was left to stay with father Lucian, accompanied by Ireena and Freek.
 
 After just over half a day of travel, the party arrives at the Vineyard, only to be greeted by the Martikov family in the forest just outside the grounds. They learn that Davian Matrikov---the father in the family that runs the business and Bart's closest associate---had been captured by druids coming from Yester Hill who were currently holding him hostage at the main house. Raven scouts sent out by the rest of the Martikovs scouts had noticed living bushes patrolling the grounds and sounds of something big coming from inside the house; the druids were definitely up to something terrible.
 

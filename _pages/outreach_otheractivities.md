@@ -34,7 +34,7 @@ and aims to encourage an interest in science in the children. Personally I have 
 
 # Positions of Trust Based on Scientific Merit
 
-- In 2023-2024 I am a board member of [Young Academy Finland](https://nuortentiedeakatemia.fi/en/), an invite-only society for young researchers
+- In 2023-2024 I was a board member of [Young Academy Finland](https://nuortentiedeakatemia.fi/en/), an invite-only society for young researchers
   that invites one computer science researcher per year based on scientific merit.
 - Since 2021 I have been a board member of [Finnish Artificial Intelligence Society (FAIS)](https://www.stes.fi/), the official member society of Present Finland in the European
   Association for Artificial Intelligence (EurAI).
@@ -52,9 +52,9 @@ and aims to encourage an interest in science in the children. Personally I have 
 ## Reviewing
 
 - I have been a conference reviewer (member of the program committee) at CP 2021-22 & 2024, CPAIOR 2021, 2024, SAT 2020-24, AAAI 2019-24,
-  IJCAI 2019-24 TACAS 2021, IJCAI-DEMOS 2020-21, POS 2020-21 and 2024, UAI 2024, and ECAI 2024.
+  IJCAI 2019-25 TACAS 2021, IJCAI-DEMOS 2020-21, POS 2020-21 and 2024, UAI 2024, and ECAI 2024-2025.
 - I have been a reviewer for [Artificial Intelligence Journal](https://www.sciencedirect.com/journal/artificial-intelligence), [Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair), [Journal of Logic and Computation](https://academic.oup.com/logcom), [International Journal of Approximate Reasoning](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning), [Journal on Satisfiability, Boolean Modeling and Computation](https://jsatjournal.org/), and [Acta Informatica](https://link.springer.com/journal/236).
 
 ## Competition Organization
 
-- SInce 2019 I have been one of the organizer of the annual [MaxSAT Evaluations](https://maxsat-evaluations.github.io/), the de-facto international event for evaluating the performance of state-of-the-art MaxSAT solvers.
+- Since 2019 I have been one of the organizer of the annual [MaxSAT Evaluations](https://maxsat-evaluations.github.io/), the de-facto international event for evaluating the performance of state-of-the-art MaxSAT solvers.

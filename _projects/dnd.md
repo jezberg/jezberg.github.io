@@ -25,7 +25,7 @@ and teaching and honed skills I make use of often in my work as well.
     Both images made by my lovely spouse  <a href ="https://www.instagram.com/classheikki/?hl=en">Chride</a>. 
 </div>
 
-I have played in a number of one-shots (short, one evening adventures) and two longer campaigns. In "Dragon of Icespire Peak" I played Jockus the halfling bard, a local gardener whose crops were destroyed by a dragon. He teamed up with the dragonborn Yixo, the half-elf Beleg and the bugbear Bandek and managed to kill the dragon, before returning to his quiet life in the town. Jockus was/is a relaxed--and a not too complex--character who liked making puns.
+I have played in a number of one-shots (short, one evening adventures) and three longer campaigns. In "Dragon of Icespire Peak" I played Jockus the halfling bard, a local gardener whose crops were destroyed by a dragon. He teamed up with the dragonborn Yixo, the half-elf Beleg and the bugbear Bandek and managed to kill the dragon, before returning to his quiet life in the town. Jockus was/is a relaxed--and a not too complex--character who liked making puns.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -39,12 +39,24 @@ I have played in a number of one-shots (short, one evening adventures) and two l
 In "Rime of the Frostmaiden" I played Meen'Alith. She was a half-orc Barbarian who was discovering herself in the world and had some trouble
 understanding that not all ends justify the means. Unfortunately, she lost her life in battle against followers of Auril.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/dnd/Veenya.png" title="veenya" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Veenya, the human wizard hiding out in Saltmarsh. 
+    Images made by Christian Franzén. 
+</div>
+
+Finally, and currently, in Ghosts of Saltmarsh, I am playing Veenya, the human wizard that is lot less nice than my other characters. Venya is not very empathetic, even bordering on psychopathic.
+
 ## My Campaign - Curse of Strahd
 
 In addition to playing in a few campaigns I also enjoy DMing. My most significant DMing achievement is a full campaign of Curse of Strahd which ran from February 2022 to November 2024 and centered around five adventurers:
 
-- **Darren**, the human fighter who got tricked into Barovia with his squire Geoff. Darren, who initially had apparently been selected by Strahd to be the new ruler of the land and was challenged with maintaining his values as a knight and keeping Geoff safe in the despotic land of Barovia.
-- **Xuza** and **Marillion**, a drow and an asimar who appear to have been called into Barovia not by its ruler Strahd von Zarcovich, but perhaps by something more sinister.
+- **Darren**, the human fighter who got tricked into Barovia with his squire Geoff. Darren, who initially had been selected by Strahd to be the new ruler of the land. During the campaign Darren was challenged with maintaining his values as a knight and keeping Geoff safe in the despotic land of Barovia.
+- **Xuza** and **Marillion**, a drow and an asimar who appear to have been called into Barovia not by its ruler Strahd von Zarcovich, but by the more sinister powers residing in the amber temple.
 - **Cinnari**, the Kalashtar druid who grew up as the daughter of Strahd, who spent the campaign wrestling with Stockholm syndrome.
 - **Bartholomew**, the Vistani businessman whose livelihood was disturbed by Strahd cutting off the Vistani people from the outside world.
 

@@ -22,7 +22,7 @@ and teaching and honed skills I make use of often in my work as well.
 </div>
 <div class="caption">
     On the left Jockus, the halfing Bard whose carrots got frozen by the Dragon of Icepire Peak. On the right, his party. 
-    Both images made by my lovely spouse  <a href ="https://www.instagram.com/classheikki/?hl=en">Chride</a>. 
+    Both images made by my lovely spouse  <a href ="www.christinalassheikki.com">Chride</a>. 
 </div>
 
 I have played in a number of one-shots (short, one evening adventures) and three longer campaigns. In "Dragon of Icespire Peak" I played Jockus the halfling bard, a local gardener whose crops were destroyed by a dragon. He teamed up with the dragonborn Yixo, the half-elf Beleg and the bugbear Bandek and managed to kill the dragon, before returning to his quiet life in the town. Jockus was/is a relaxed--and a not too complex--character who liked making puns.
@@ -33,7 +33,7 @@ I have played in a number of one-shots (short, one evening adventures) and three
     </div>
 </div>
 <div class="caption">
-    My half orc Barbarian, Meen'Alith who unfortunately fell in Ten Towns during our Rhime of the Frostmaiden campaign. Image made by my lovely spouse <a href ="https://www.instagram.com/classheikki/?hl=en">Chride</a>. 
+    My half orc Barbarian, Meen'Alith who unfortunately fell in Ten Towns during our Rhime of the Frostmaiden campaign. Image made by my lovely spouse <a href ="www.christinalassheikki.com">Chride</a>. 
 </div>
 
 In "Rime of the Frostmaiden" I played Meen'Alith. She was a half-orc Barbarian who was discovering herself in the world and had some trouble

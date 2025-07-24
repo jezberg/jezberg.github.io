@@ -8,7 +8,7 @@ categories: vacation
 thumbnail: assets/img/frisbee-front.jpg
 ---
 
-Last weekend, I went on a trip to Estonia with two of my friends. The aim was to explore the top-rated disc golf courses of Estonia, focusing on courses near Tartu (seeing as the [European Disc Golf Festival 2025](https://www.discfestival.com/) was going on in Tallinn.
+Last weekend, I went on a trip to Estonia with two of my friends. The aim was to explore the top-rated disc golf courses of Estonia, focusing on courses near Tartu (seeing as the [European Disc Golf Festival 2025](https://www.discfestival.com/) was going on in Tallinn).
 
 We are all amateurs, so the primary goal of the trip was to have fun and explore some nice courses. From that perspective, the trip was a huge success. We were delighted with the [Hektor Design Hostel](https://www.hektorstay.com/hostels/en/) in Tartu, with the nearby restaurants, and the courses we played. The only thing that could have been--slightly--better was the weather, which was either a bit hot for achieving maximal performance on the course, or a bit rainy. But on the whole, a very lovely trip. Thanks to Lasse and Tobbe for organizing and being good company.
 
@@ -21,7 +21,7 @@ We are all amateurs, so the primary goal of the trip was to have fun and explore
     </div>
 </div>
 <div class="caption">
-    My travel companions, both of whom are better at dic golf than me. 
+    My travel companions, both of whom are better at disc golf than me. 
 </div>
 
 <div class="row mt-3">

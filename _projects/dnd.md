@@ -46,7 +46,7 @@ understanding that not all ends justify the means. Unfortunately, she lost her l
 </div>
 <div class="caption">
     Veenya, the human wizard hiding out in Saltmarsh. 
-    Images made by Christian Franzén. 
+    Images made by <a href=https://cooconuts.myportfolio.com/projects>Christian Franzén</a>. 
 </div>
 
 Finally---and currently---in Ghosts of Saltmarsh, I am playing Veenya, the human wizard that is lot less nice than my other characters. Venya is not very empathetic, even bordering on psychopathic.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper Accepted in Jelia
-date: 2025-02-10 10:25:00
+date: 2025-07-30 10:25:00
 description: 19th edition of the European Conference on Logics in Artificial Intelligence
 tags: research papers
 categories: research

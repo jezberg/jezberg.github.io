@@ -16,6 +16,6 @@ thumbnail: assets/img/TACAS2025.png
 
 I am happy to let you know that our paper _Certifying Pareto-Optimality in Multi-Objective Maximum Satisfiability_ has been accepted for publication at the [31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems](https://etaps.org/2025/conferences/tacas/).
 We show how the pseudo-Boolean proof-logging system VeriPB can be used to log the Pareto-optimal solutions of multi-objective problems without any extensions to the proof system
-itself. This significantly increases the applicability of the system. Once the paper is formally published (in May), I will add a link to it from here.
+itself. This significantly increases the applicability of the system. The full paper can be found [here](https://link.springer.com/chapter/10.1007/978-3-031-90653-4_6) in open access.
 
 I want to thank all of my co-authors for their excellent work on the project!

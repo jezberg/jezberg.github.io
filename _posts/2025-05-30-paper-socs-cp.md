@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paperw Accepted in SoCS and CP
+title: Paper Accepted in SoCS and CP
 date: 2025-05-30 10:25:00
 description: The 31st International Conference on Principles and Practice of Constraint Programming and The 18th International Symposium on Combinatorial Search
 tags: research papers

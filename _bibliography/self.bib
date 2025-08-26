@@ -9,6 +9,87 @@
 
 @string{aps = {American Physical Society,}}
 
+
+@article{Schreiber_Jabs_Berg_2025,
+	abstract = {Maximum Satisfiability (MaxSAT) is an essential framework for combinatorial optimization at the core of automated reasoning. However, to date, no notable parallelizations with convincing scaling behaviour exist. We suggest to exploit and transfer recent advances in massively parallel SAT solving to perform scalable solution improving search (SIS) for MaxSAT solving. Building upon the distributed job scheduling and SAT solving platform Mallob, we present the first MaxSAT solver that scales to hundreds of cores through a careful combination of parallel and distributed incremental SAT solving, task parallelism and flexible load balancing, and clause sharing within and across SAT solving tasks. Experiments on up to 768 cores (16 nodes) show that our approach clearly outscales state-of-the-art SIS-based MaxSAT solvers, marking a new baseline for parallel MaxSAT solving.},
+	author = {Schreiber, Dominik and Jabs, Christoph and Berg, Jeremias},
+	doi = {10.1609/socs.v18i1.35984},
+	journal = {Proceedings of the International Symposium on Combinatorial Search},
+	month = {Jul.},
+	number = {1},
+	pages = {127-135},
+	title = {From Scalable SAT to MaxSAT: Massively Parallel Solution Improving Search},
+	pdf = {https://ojs.aaai.org/index.php/SOCS/article/view/35984/38139},
+	url = {https://ojs.aaai.org/index.php/SOCS/article/view/35984},
+	volume = {18},
+	year = {2025},
+	bdsk-url-1 = {https://ojs.aaai.org/index.php/SOCS/article/view/35984},
+	bdsk-url-2 = {https://doi.org/10.1609/socs.v18i1.35984}}
+
+
+@inproceedings{DBLP:conf/cp/IhalainenBJ025,
+  author       = {Hannes Ihalainen and
+                  Jeremias Berg and
+                  Matti J{\"{a}}rvisalo and
+                  Bart Bogaerts},
+  editor       = {Maria Garcia de la Banda},
+  title        = {Symmetric Core Learning for Pseudo-Boolean Optimization by Implicit
+                  Hitting Sets},
+  booktitle    = {31st International Conference on Principles and Practice of Constraint
+                  Programming, {CP} 2025, August 10-15, 2025, Glasgow, Scotland},
+  series       = {LIPIcs},
+  volume       = {340},
+  pages        = {15:1--15:26},
+  publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+  year         = {2025},
+  abstract 	   =  {We propose symmetric core learning (SCL) as a novel approach to making the implicit hitting set approach (IHS) to constraint optimization more symmetry-aware. SCL has the potential of significantly reducing the number of iterations and, in particular, the number of calls to an NP decision solver for extracting individual unsatisfiable cores. As the technique is focused on generating symmetric cores to the hitting set component of IHS, SCL is generally applicable in IHS-style search for essentially any constraint optimization paradigm. In this work, we focus in particular on integrating SCL to IHS for pseudo-Boolean optimization (PBO), as earlier proposed static symmetry breaking through lex-leader constraints generated before search turns out to often degrade the performance of the IHS approach to PBO. In contrast, we show that SCL can improve the runtime performance of a state-of-the-art IHS approach to PBO and generally does not impose significant overhead in terms of runtime performance.},
+  pdf 		   = {https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.15/LIPIcs.CP.2025.15.pdf},
+  url          = {https://doi.org/10.4230/LIPIcs.CP.2025.15},
+  doi          = {10.4230/LIPICS.CP.2025.15},
+  timestamp    = {Mon, 18 Aug 2025 15:30:40 +0200},
+  biburl       = {https://dblp.org/rec/conf/cp/IhalainenBJ025.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/cp/LubkeB25,
+  author       = {Ole L{\"{u}}bke and
+                  Jeremias Berg},
+  editor       = {Maria Garcia de la Banda},
+  title        = {SLS-Enhanced Core-Boosted Linear Search for Anytime Maximum Satisfiability},
+  booktitle    = {31st International Conference on Principles and Practice of Constraint
+                  Programming, {CP} 2025, August 10-15, 2025, Glasgow, Scotland},
+  abstract 	   = {Maximum Satisfiability (MaxSAT), the constraint paradigm of minimizing a linear expression over Boolean (0-1) variables subject to a set of propositional clauses, is today used for solving NP-hard combinatorial optimization problems in various domains. Especially anytime MaxSAT solvers that compute low-cost solutions within a limited available computational time have significantly improved in recent years. Such solvers can be divided into SAT-based methods that use sophisticated reasoning, and stochastic local search (SLS) methods that heuristically explore the search space. The two are complementary; roughly speaking, SLS struggles with finding feasible solutions, and SAT-based methods with minimizing cost. Consequently, most state-of-the-art anytime MaxSAT solvers run SLS before a SAT-based algorithm with minimal communication between the two.
+In this paper, we aim to harness the complementary strengths of SAT-based, and SLS approaches in the context of anytime MaxSAT. More precisely, we describe several ways to enhance the performance of the so-called core-boosted linear search algorithm for anytime MaxSAT with SLS techniques. Core-boosted linear search is a three-phase algorithm where each phase uses different types of reasoning. Beyond MaxSAT, core-boosted search has also been successful in the related paradigms of pseudo-boolean optimization and constraint programming. We describe how an SLS approach to MaxSAT can be tightly integrated with all three phases of the algorithm, resulting in non-trivial information exchange in both directions between the SLS algorithm and the reasoning methods. We evaluate our techniques on standard benchmarks from the latest MaxSAT Evaluation and demonstrate that our techniques can noticeably improve on implementations of core-boosted search and SLS.},
+  series       = {LIPIcs},
+  volume       = {340},
+  pages        = {28:1--28:20},
+  publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+  year         = {2025},
+  url          = {https://doi.org/10.4230/LIPIcs.CP.2025.28},
+  pdf		   = {https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.28/LIPIcs.CP.2025.28.pdf},
+  doi          = {10.4230/LIPICS.CP.2025.28},
+  timestamp    = {Mon, 18 Aug 2025 15:30:40 +0200},
+  biburl       = {https://dblp.org/rec/conf/cp/LubkeB25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/sat/2025,
+  editor       = {Jeremias Berg and
+                  Jakob Nordstr{\"{o}}m},
+  title        = {28th International Conference on Theory and Applications of Satisfiability
+                  Testing, {SAT} 2025, August 12-15, 2025, Glasgow, Scotland},
+  series       = {LIPIcs},
+  volume       = {341},
+  publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+  year         = {2025},
+  pdf          = {https://www.dagstuhl.de/dagpub/978-3-95977-381-2},
+  isbn         = {978-3-95977-381-2},
+  timestamp    = {Mon, 18 Aug 2025 15:30:40 +0200},
+  biburl       = {https://dblp.org/rec/conf/sat/2025.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+
 @inproceedings{tacas,
   author       = {Christoph Jabs and
   				  Jeremias Berg and

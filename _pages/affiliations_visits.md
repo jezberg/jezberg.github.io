@@ -14,7 +14,7 @@ nav_order: 4
             {% include figure.liquid path="assets/img/HY-logo.png" class="img-fluid rounded z-depth-1"  %}
 </div>
 
-As of the 1st of September of 2024 I will be an [Academy Reseach Fellow](https://www.aka.fi/suomen-akatemian-toiminta/ajankohtaista/tiedotteet-ja-uutiset/2024/luonnontieteiden-ja-tekniikan-tutkimuksen-akatemiatutkijat-ja-akatemiahankkeet-on-valittu/)
+As of the 1st of September of 2024 I will be an [Academy Reseach Fellow](https://www.aka.fi/en/research-funding/funding-opportunities2/spark-funding/academy-research-fellowship/)
 at the [Department of Computer Science](https://www.helsinki.fi/en/faculty-science/faculty/computer-science) of the University of Helsinki.
 I am funded by a highly competitive (14%-acceptance rate) Academy Research Fellowship funded by the [Research Council of Finland](https://www.aka.fi/en/).
 

@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-bundle exec jekyll build --lsi
-=======
 bundle exec jekyll build
->>>>>>> upp_stream_base/master

@@ -9,10 +9,32 @@
 
 @string{aps = {American Physical Society,}}
 
+@inproceedings{Berg_Schidler_Jarvisalo_2026,
+	abstract = {Maximum satisfiability (MaxSAT) is a viable approach to solving NP-hard combinatorial optimization problems through propositional encodings. Understanding how  problem structure and encodings impact the behaviour of different MaxSAT solving algorithms is an important challenge. In this work, we identify MaxSAT instances in which the constraints entail an ordering of the objective variables  as an interesting instance class from the perspectives of problem structure and MaxSAT solving. From the problem structure perspective, we show that a non-negligible percentage of instances in commonly used MaxSAT benchmark sets have ordered objectives and further identify various examples of such problem domains to which MaxSAT solvers have been successfully applied. From the algorithmic perspective, we argue that MaxSAT instances with ordered objectives, provided an ordering, can be solved (at least) as efficiently with a very simplistic algorithmic approach as with modern core-based MaxSAT solving algorithms. We show empirically that state-of-the-art MaxSAT solvers suffer from overheads and are outperformed by the simplistic  approach on real-world optimization problems with ordered objectives.},
+	author = {Jeremias Berg and Andre Schidler and Matti Järvisalo},
+	booktitle = {Proceedings of 40th Annual AAAI Conference on Artificial Intelligence (to appear)},
+	number = {???},
+	pages = {???-???},
+	publisher = {{AAAI} Press},
+	title = {Ordered Objectives in Maximum Satisfiability},
+	year = {2026}
+	}
+
+
+@inproceedings{Ihalainen_Vandesande_Schidler_Berg_Bogaerts_Jarvisalo_2026,
+	abstract = {The implicit hitting set (IHS) approach offers a general framework for solving computationally  hard combinatorial optimization problems declaratively. IHS iterates between a decision oracle used for extracting sources of inconsistency and an optimizer for computing so-called hitting sets (HSs) over the accumulated sources of inconsistency. While the decision oracle is language-specific, %to the declarative language at hand, the optimizer is usually instantiated through  integer programming.We explore alternative algorithmic techniques for hitting set optimization based on different ways of employing pseudo-Boolean (PB) reasoning as well as stochastic local search. We extensively evaluate the practical feasibility of the alternatives in particular in the context of pseudo-Boolean (\mbox{0--1} IP) optimization as one of the most recent instantiations of IHS. Highlighting a trade-off between efficiency and reliability, while a commercial IP solver turns out to remain the most effective way to instantiate HS computations, it can cause correctness issues due to numerical instability; in fact,  we show that exact HS computations instantiated via PB reasoning can be made competitive with a numerically exact IP solver. Furthermore, the use of PB reasoning as a basis for HS computations allows for obtaining certificates for the correctness of IHS computations, generally applicable to any IHS instantiation in which reasoning in the declarative language at hand can be captured in the PB-based proof format we employ.},
+	author = {Hannes Ihalainen and Dieter Vandesande and Andre Schidler and Jeremias Berg and Bart Bogaerts and Matti Järvisalo},
+	booktitle = {Proceedings of 40th Annual AAAI Conference on Artificial Intelligence (to appear)},
+	number = {???},
+	pages = {???-???},
+	publisher = {{AAAI} Press},
+	title = {Efficient and Reliable Hitting-Set Computations for the Implicit Hitting Set Approach},
+	year = {2026}
+	}
 
 @article{Schreiber_Jabs_Berg_2025,
 	abstract = {Maximum Satisfiability (MaxSAT) is an essential framework for combinatorial optimization at the core of automated reasoning. However, to date, no notable parallelizations with convincing scaling behaviour exist. We suggest to exploit and transfer recent advances in massively parallel SAT solving to perform scalable solution improving search (SIS) for MaxSAT solving. Building upon the distributed job scheduling and SAT solving platform Mallob, we present the first MaxSAT solver that scales to hundreds of cores through a careful combination of parallel and distributed incremental SAT solving, task parallelism and flexible load balancing, and clause sharing within and across SAT solving tasks. Experiments on up to 768 cores (16 nodes) show that our approach clearly outscales state-of-the-art SIS-based MaxSAT solvers, marking a new baseline for parallel MaxSAT solving.},
-	author = {Schreiber, Dominik and Jabs, Christoph and Berg, Jeremias},
+	author = {Dominik Schreiber and Christoph Jabs and Jeremias Berg},
 	date-modified = {2025-09-23 11:07:08 +0300},
 	doi = {10.1609/socs.v18i1.35984},
 	journal = {Proceedings of the International Symposium on Combinatorial Search},

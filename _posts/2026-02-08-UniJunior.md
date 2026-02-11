@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Uni Junior - Making a game AI with a matchboxes 
+title: Uni Junior - Making a game AI with a matchboxes
 date: 2026-02-08 17:39:00
 description: Uni Junior Workshop
 categories: current-events
@@ -24,4 +24,4 @@ Hexapawn is a tiny, beginner-friendly strategy game played on a 3×3 board using
     </div>
 </div>
 
-Thank you to everyone involved in the organization—especially my great assistants, who were fantastic at working with the kids! The Swedish material I made for the lab can (at least for a while) be found on [my Google Drive](https://docs.google.com/document/d/1icn4yblXP7MV41wQyJa0AgU4repSbo5WFzjricFde4c/edit?usp=sharing). The idea for the lab was heavily influenced by a [YouTube video](https://www.youtube.com/watch?v=sw7UAZNgGg8) by Vsauce2 and the [AI Unplugged](<(https://www.aiunplugged.org/)>) materials.
+Thank you to everyone involved in the organization—especially my great assistants, who were fantastic at working with the kids! The Swedish material I made for the lab can (at least for a while) be found on [my Google Drive](https://docs.google.com/document/d/1icn4yblXP7MV41wQyJa0AgU4repSbo5WFzjricFde4c/edit?usp=sharing). The idea for the lab was heavily influenced by a [YouTube video](https://www.youtube.com/watch?v=sw7UAZNgGg8) by Vsauce2 and the [AI Unplugged.org](https://www.aiunplugged.org/) materials.

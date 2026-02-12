@@ -19,7 +19,7 @@ In 2023 - 2024 I was a a board member of Young Academy of Finland in charge of s
 to schools. The service is very popular, in 2023 year we organized 600 visits and reached over 10 000 students.
 In early 2024 I participated in the [EDUCA]({% post_url 2024-01-26-educa %}) conference with the aim of increasing awareness of the service.
 
-I was also involved in launching [Mene ja Tiedä][https://menejatieda.fi/], a science journal
+I was also involved in launching [Mene ja Tiedä](https://menejatieda.fi/), a science journal
 aimed at high school students that seeks to publish summaries of scientific papers written in Finnish and Swedish for high school students. My [abstract on proof-logging combinatorial optimization algorithms](https://menejatieda.fi/sv/kan-vi-vara-sakra-pa-att-datorn-har-ratt/) was among the first ones ever published.
 
 ## UniJunior

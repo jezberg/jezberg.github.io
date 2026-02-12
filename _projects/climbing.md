@@ -14,7 +14,7 @@ While I enjoy exercising in general, I often need quite a lot of motivation to e
         {% include figure.liquid path="assets/img/climbing/climb1.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/climbing/climb2.jpg" title="example image" class="img-fluid rounded z-depth-1"zoomable=true %}
+        {% include figure.liquid path="assets/img/climbing/climb2.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/climbing/climb3.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}

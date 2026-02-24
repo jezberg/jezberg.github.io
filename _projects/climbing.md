@@ -42,5 +42,5 @@ In addition to climbing myself, I like photographing other people who are climbi
     </div>
 </div>
 <div class="caption">
-    I also like to do outdoors climbing from time to time. While much more difficult than indoors, I do like being outdoors. 
+    I also like to do outdoors climbing from time to time. While I find outdoors climbing much more difficult than indoors, getting out in nature definietely makes up for it. 
 </div>

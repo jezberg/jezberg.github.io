@@ -9,9 +9,9 @@ category: free-time
 
 The goal with a "game jam" is similar to that of a (musical) jam session, to come together and make a videogame, or a non-digital (analog) game like a board game or card game. Participants rapidly prototype game designs and inject new ideas to help inspire and grow the global game industry. Every game jam has a theme that is shared by all participants.
 
-I have participated in the [Global Game Jam](https://globalgamejam.org/) in total four times between 2015 and 2021. Each tiem I've had a ton of fun. **Thank you** everyone who I have jamed with.
+I have participated in the [Global Game Jam](https://globalgamejam.org/) in total four times between 2015 and 2021. Each time I've had a ton of fun. **Thank you** everyone who I have jamed with.
 
-Here are some example gameplay videos from (the more visually impressive) games I've been a part of making. A full list of the game I have joined in making can be found on [my profile page](https://v3.globalgamejam.org/users/jeremias-berg)on the GGJ site.
+Here are some example gameplay videos from (the more visually impressive) games I've been a part of making. A full list of the game I have joined in making can be found on [my profile page](https://v3.globalgamejam.org/users/jeremias-berg) on the GGJ site.
 
 ## 2021 Marco Polo
 

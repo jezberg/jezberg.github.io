@@ -11,10 +11,10 @@ nav_order: 6
 
 Currently I have completed 20 ECTS credits in university pedagogy at the University of Helsinki, which means the following courses:
 
-- [YP 1](/assets/pdf/certificates/yp1.pdf) Oppiminen Yliopistossa (Learning in the University), 12 hrs,
-- [YP 2.1](/assets/pdf/certificates/yp21.pdf) Konstruktivt samordnad undervisning (Constructive Alignment of Teaching), 17 hrs,
-- [YP 2.2](/assets/pdf/certificates/yp22.pdf) Assessment of Learning and Giving Feedback, 17 hrs,
-- [YP 3.1](/assets/pdf/certificates/yp3.pdf) Ohjaaminen Yliopistossa (Supervising in the University), 17 hrs.
+- [YP 1](/assets/pdf/certificates/yp1.pdf) Oppiminen Yliopistossa (Learning in the University), 12 hrs, completed in 2020.
+- [YP 2.1](/assets/pdf/certificates/yp21.pdf) Konstruktivt samordnad undervisning (Constructive Alignment of Teaching), 17 hrs, completed in 2020.
+- [YP 2.2](/assets/pdf/certificates/yp22.pdf) Assessment of Learning and Giving Feedback, 12 hrs, completed in 2021.
+- [YP 3.1](/assets/pdf/certificates/yp3.pdf) Ohjaaminen Yliopistossa (Supervising in the University), 20 hr, completed in 2022.
 
 ## Primary Teacher & Course Material
 

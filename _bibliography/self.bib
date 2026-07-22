@@ -9,12 +9,76 @@
 
 @string{aps = {American Physical Society,}}
 
+@InProceedings{jabs_et_al:LIPIcs.SAT.2026.37,
+  author =	{Jabs, Christoph and Berg, Jeremias and J\"{a}rvisalo, Matti},
+  abstract = {We describe the Scuttle system for multi-objective combinatorial optimization. Scuttle accepts multi-objective instances where the constraints are declared either as propositional clauses or pseudo-Boolean constraints, and implements a range of multi-objective maximum satisfiability algorithms (including ones for enumerating all Pareto-optimal and leximax-optimal solutions). Pseudo-Boolean constraints are translated to clauses, allowing for applying any of the implemented algorithms on both the clausal and the pseudo-Boolean level. Scuttle also includes tightly integrated preprocessing (both core boosting and liftings of SAT preprocessing techniques) for multi-objective instances and can provide proof certificates for selected algorithms.}, 
+  title =	{{Scuttle: A System for Multi-Objective MaxSAT}},
+  booktitle =	{29th International Conference on Theory and Applications of Satisfiability Testing (SAT 2026)},
+  pages =	{37:1--37:13},
+  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN =	{978-3-95977-431-4},
+  ISSN =	{1868-8969},
+  year =	{2026},
+  volume =	{377},
+  editor =	{Ignatiev, Alexey and Szeider, Stefan},
+  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address =	{Dagstuhl, Germany},
+  url =		{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SAT.2026.37},
+  URN =		{urn:nbn:de:0030-drops-263431},
+  doi =		{10.4230/LIPIcs.SAT.2026.37},
+  annote =	{Keywords: Multi-objective combinatorial optimization, maximum satisfiability, pseudo-Boolean optimization}
+}
+
+@InProceedings{ihalainen_et_al:LIPIcs.SAT.2026.34,
+  author =	{Ihalainen, Hannes and Vandesande, Dieter and Schidler, Andr\'{e} and Berg, Jeremias and J\"{a}rvisalo, Matti},
+  title =	{{HitPBO: An Implicit Hitting Set Solver for Pseudo-Boolean Optimization}},
+  abstract = {We describe HitPBO 1.0, a from-scratch open-source C++ implementation of the implicit hitting set (IHS) approach to pseudo-Boolean optimization. Compared to earlier implementations, HitPBO adds a range of functionalities and search techniques, certificates, and support for various alternative solvers within IHS. We give an overview of the solver’s architecture and its functionalities.},
+  booktitle =	{29th International Conference on Theory and Applications of Satisfiability Testing (SAT 2026)},
+  pages =	{34:1--34:13},
+  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN =	{978-3-95977-431-4},
+  ISSN =	{1868-8969},
+  year =	{2026},
+  volume =	{377},
+  editor =	{Ignatiev, Alexey and Szeider, Stefan},
+  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address =	{Dagstuhl, Germany},
+  url =		{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SAT.2026.34},
+  URN =		{urn:nbn:de:0030-drops-263401},
+  doi =		{10.4230/LIPIcs.SAT.2026.34},
+  annote =	{Keywords: Pseudo-Boolean optimization, implicit hitting set approach, solvers}
+}
+
+
+@inproceedings{DBLP:conf/cpaior/JabsBJ26,
+  author       = {Christoph Jabs and
+                  Jeremias Berg and
+                  Matti J{\"{a}}rvisalo},
+  abstract = {Significant advances in practical approaches to maximum satisfiability (MaxSAT) solving have made MaxSAT a viable approach to solving complex NP-hard combinatorial optimization problems. Several recent works have extended single-objective MaxSAT algorithms to the multi-objective setting, enabling the enumeration of Pareto-optimal solutions for problems expressed as multi-objective MaxSAT (MO-MaxSAT). We propose and instantiate an alternative approach to MO-MaxSAT solving. Phrased as an implicit hitting set (IHS) approach, our algorithm works by iteratively invoking a single-objective IHS oracle on a scalarization of the multi-objective instance at hand. Our open-source implementation significantly outperforms an earlier-proposed IHS-style approach and complements the current state of the art in algorithmic approaches to MO-MaxSAT.}
+  editor       = {Tias Guns},
+  title        = {Multi-objective Maximum Satisfiability by Single-Objective Implicit
+                  Hitting Set Optimization},
+  booktitle    = {Integration of Constraint Programming, Artificial Intelligence, and
+                  Operations Research - 23rd International Conference, {CPAIOR} 2026,
+                  Rabat, Morocco, May 26-29, 2026, Proceedings},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {16595},
+  pages        = {262--279},
+  publisher    = {Springer},
+  year         = {2026},
+  url          = {https://doi.org/10.1007/978-3-032-27242-3\_16},
+  doi          = {10.1007/978-3-032-27242-3\_16},
+  timestamp    = {Tue, 09 Jun 2026 17:55:54 +0200},
+  biburl       = {https://dblp.org/rec/conf/cpaior/JabsBJ26.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
 @inproceedings{Berg_Schidler_Jarvisalo_2026,
 	abstract = {Maximum satisfiability (MaxSAT) is a viable approach to solving NP-hard combinatorial optimization problems through propositional encodings. Understanding how  problem structure and encodings impact the behaviour of different MaxSAT solving algorithms is an important challenge. In this work, we identify MaxSAT instances in which the constraints entail an ordering of the objective variables  as an interesting instance class from the perspectives of problem structure and MaxSAT solving. From the problem structure perspective, we show that a non-negligible percentage of instances in commonly used MaxSAT benchmark sets have ordered objectives and further identify various examples of such problem domains to which MaxSAT solvers have been successfully applied. From the algorithmic perspective, we argue that MaxSAT instances with ordered objectives, provided an ordering, can be solved (at least) as efficiently with a very simplistic algorithmic approach as with modern core-based MaxSAT solving algorithms. We show empirically that state-of-the-art MaxSAT solvers suffer from overheads and are outperformed by the simplistic  approach on real-world optimization problems with ordered objectives.},
 	author = {Jeremias Berg and Andre Schidler and Matti Järvisalo},
-	booktitle = {Proceedings of 40th Annual AAAI Conference on Artificial Intelligence (to appear)},
-	number = {???},
-	pages = {???-???},
+	url = {https://ojs.aaai.org/index.php/AAAI/article/view/38429},
+	booktitle = {Proceedings of 40th Annual AAAI Conference on Artificial Intelligence},
+	pages = {14166--14174},
 	publisher = {{AAAI} Press},
 	title = {Ordered Objectives in Maximum Satisfiability},
 	year = {2026}
@@ -22,12 +86,12 @@
 
 
 @inproceedings{Ihalainen_Vandesande_Schidler_Berg_Bogaerts_Jarvisalo_2026,
-	abstract = {The implicit hitting set (IHS) approach offers a general framework for solving computationally  hard combinatorial optimization problems declaratively. IHS iterates between a decision oracle used for extracting sources of inconsistency and an optimizer for computing so-called hitting sets (HSs) over the accumulated sources of inconsistency. While the decision oracle is language-specific, %to the declarative language at hand, the optimizer is usually instantiated through  integer programming.We explore alternative algorithmic techniques for hitting set optimization based on different ways of employing pseudo-Boolean (PB) reasoning as well as stochastic local search. We extensively evaluate the practical feasibility of the alternatives in particular in the context of pseudo-Boolean (\mbox{0--1} IP) optimization as one of the most recent instantiations of IHS. Highlighting a trade-off between efficiency and reliability, while a commercial IP solver turns out to remain the most effective way to instantiate HS computations, it can cause correctness issues due to numerical instability; in fact,  we show that exact HS computations instantiated via PB reasoning can be made competitive with a numerically exact IP solver. Furthermore, the use of PB reasoning as a basis for HS computations allows for obtaining certificates for the correctness of IHS computations, generally applicable to any IHS instantiation in which reasoning in the declarative language at hand can be captured in the PB-based proof format we employ.},
+	abstract = {The implicit hitting set (IHS) approach offers a general framework for solving computationally  hard combinatorial optimization problems declaratively. IHS iterates between a decision oracle used for extracting sources of inconsistency and an optimizer for computing so-called hitting sets (HSs) over the accumulated sources of inconsistency. While the decision oracle is language-specific, to the declarative language at hand, the optimizer is usually instantiated through  integer programming.We explore alternative algorithmic techniques for hitting set optimization based on different ways of employing pseudo-Boolean (PB) reasoning as well as stochastic local search. We extensively evaluate the practical feasibility of the alternatives in particular in the context of pseudo-Boolean (\mbox{0--1} IP) optimization as one of the most recent instantiations of IHS. Highlighting a trade-off between efficiency and reliability, while a commercial IP solver turns out to remain the most effective way to instantiate HS computations, it can cause correctness issues due to numerical instability; in fact,  we show that exact HS computations instantiated via PB reasoning can be made competitive with a numerically exact IP solver. Furthermore, the use of PB reasoning as a basis for HS computations allows for obtaining certificates for the correctness of IHS computations, generally applicable to any IHS instantiation in which reasoning in the declarative language at hand can be captured in the PB-based proof format we employ.},
 	author = {Hannes Ihalainen and Dieter Vandesande and Andre Schidler and Jeremias Berg and Bart Bogaerts and Matti Järvisalo},
-	booktitle = {Proceedings of 40th Annual AAAI Conference on Artificial Intelligence (to appear)},
-	number = {???},
-	pages = {???-???},
+	booktitle = {Proceedings of 40th Annual AAAI Conference on Artificial Intelligence},
+	pages = {14251--14260},
 	publisher = {{AAAI} Press},
+	url = {https://ojs.aaai.org/index.php/AAAI/article/view/38439},
 	title = {Efficient and Reliable Hitting-Set Computations for the Implicit Hitting Set Approach},
 	year = {2026}
 	}

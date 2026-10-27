@@ -9,6 +9,24 @@
 
 @string{aps = {American Physical Society,}}
 
+
+@article{antton-evenflow,
+	abstract = {Network flow allocation is a central problem within operations research. Arguably, the most classic setting of flow allocation problems is a static one in which the arcs of a directed graph need to be assigned flow values in a way that respects the capacities of each edge and, for example, maximizes the amount of flow that arrives at a sink node. The numerous applications of flow problems have resulted in several variants being proposed and studied. In this paper, we study a variant of dynamic network flow. Dynamic network flow generalizes the static setting by introducing a notion of time and allowing the flow to move over time in the network. In our setting, the sink of the network also has a maximum capacity of flow it can receive at each timestep, and we are interested in computing flow allocations that distribute an even amount of flow to the sink of the network over all timesteps. Additionally, we assume that new flow can be generated at each non-sink node in each timestep, and that the nodes can temporarily store a limited amount of the flow. In a central instantiation of the problem, the non-sink nodes of the network are pumping stations that need to transfer wastewater to a treatment plant, which is the sink of the network. To evaluate our solving approaches in practice, we worked with the Helsinki Region Environmental Services Authority to collect and create a new open-source benchmark set based on wastewater quantities in the Helsinki region. More precisely, we study the applicability of linear programming for solving real-world benchmarks of this dynamic network flow optimization problem. As our main contributions, we: (i) extend and modify a previously proposed constraint model for computing feasible allocations to the dynamic setting and allow more flexible allocations, (ii) introduce several different approaches to even the workload arriving at the sink at each timestep, (iii) collect a new open-source dataset based on real-world wastewater flow quantities, and (iv) report on an extensive experimental evaluation of our model on three differently-sized time spans of the new dataset using state-of-the-art solvers. Our evaluation demonstrates that, among our evenness approaches, minimizing the difference between the maximum and minimum hourly incoming water to the treatment plant consistently yields the highest evenness in the flow arriving at the treatment plant. Additionally, we demonstrate the flexibility of our model by incorporating additional constraints aimed at reducing the energy consumption of the pumps.},
+	author = {Kasslin, Antton and Berg, Jeremias},
+	date = {2026/10/26},
+	date-added = {2026-10-27 13:16:44 +0200},
+	date-modified = {2026-10-27 13:17:16 +0200},
+	doi = {10.1007/s10479-026-07461-x},
+	id = {Kasslin2026},
+	isbn = {1572-9338},
+	journal = {Annals of Operations Research},
+	title = {Even flow in dynamic networks for wastewater treatment},
+	url = {https://doi.org/10.1007/s10479-026-07461-x},
+	year = {2026},
+	bdsk-url-1 = {https://doi.org/10.1007/s10479-026-07461-x}}
+
+
+
 @InProceedings{jabs_et_al:LIPIcs.SAT.2026.37,
   author =	{Jabs, Christoph and Berg, Jeremias and J\"{a}rvisalo, Matti},
   abstract = {We describe the Scuttle system for multi-objective combinatorial optimization. Scuttle accepts multi-objective instances where the constraints are declared either as propositional clauses or pseudo-Boolean constraints, and implements a range of multi-objective maximum satisfiability algorithms (including ones for enumerating all Pareto-optimal and leximax-optimal solutions). Pseudo-Boolean constraints are translated to clauses, allowing for applying any of the implemented algorithms on both the clausal and the pseudo-Boolean level. Scuttle also includes tightly integrated preprocessing (both core boosting and liftings of SAT preprocessing techniques) for multi-objective instances and can provide proof certificates for selected algorithms.}, 
